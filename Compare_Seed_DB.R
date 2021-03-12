@@ -35,10 +35,21 @@ plot_base_fill <- ggplot(Interpro_all_summarized_2, aes(x=DB, y= ex_confirmed_ra
   theme(axis.text.x = element_text(angle = 45))
 
 # add annotation lines
+plot_base_stack <- plot_base_stack+geom_hline(yintercept = 167, linetype="dashed", color = "red", size=0.4)
 plot_base_stack <- plot_base_stack+geom_hline(yintercept = median_num_Yes, linetype="dashed", color = "blue", size=0.4)
 plot_base_fill <- plot_base_fill+geom_hline(yintercept = median_num_Yes_rate, linetype="dashed", color = "blue", size=0.4)
 plot_base_fill <- plot_base_fill + geom_hline(yintercept = 167/4548, linetype="dashed", color = "red", size=0.4)
 
 ###manually
-#plot_base_stack + coord_cartesian(ylim = c(0,100))
-# plot_base_stack + scale_x_discrete(limits = c("GENE3D", "SUPERFAMILY", "PFAM", "SMART", "TIGRFAM", "PIRSF", "SFLD", "HAMAP", "PROSITE_PROFILES", "CDD", "PRINTS", "PROSITE_PATTERNS", "MOBIDB_LITE", "COILS"))
+# plot_base_stack + coord_cartesian(ylim = c(0,100))
+plot_base_stack <- plot_base_stack + scale_x_discrete(limits = c("GENE3D", "SUPERFAMILY", "PFAM", "SMART", "TIGRFAM", "PIRSF", "SFLD", "HAMAP", "PROSITE_PROFILES", "CDD", "PRINTS", "PROSITE_PATTERNS", "MOBIDB_LITE", "COILS","CUSTOM_DB_1", "CUSTOM_DB_2"))
+plot_base_fill <- plot_base_fill + scale_x_discrete(limits = c("GENE3D", "SUPERFAMILY", "PFAM", "SMART", "TIGRFAM", "PIRSF", "SFLD", "HAMAP", "PROSITE_PROFILES", "CDD", "PRINTS", "PROSITE_PATTERNS", "MOBIDB_LITE", "COILS","CUSTOM_DB_1", "CUSTOM_DB_2"))
+plot_base_fill <- plot_base_fill + geom_point(aes(x=DB, y= ex_confirmed_rate, size= Yes))
+
+
+### post-marker modification
+plot_base_stack <- plot_base_stack + labs(y= "Count number", x= "Seed_database name")
+plot_base_stack <- plot_base_stack + scale_fill_discrete("Predicated virulence factor", labels = c("Unverified", "Verified"))
+
+plot_base_fill <- plot_base_fill + labs(y= "Percentage of experimentally verified virulence factor", x= "Seed_database name")
+plot_base_fill <- plot_base_fill + scale_size_continuous("Experimentally verified \nvirulence factor number")
