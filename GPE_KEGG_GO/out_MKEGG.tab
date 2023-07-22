@@ -1,0 +1,15 @@
+"ID"	"Description"	"GeneRatio"	"BgRatio"	"pvalue"	"p.adjust"	"qvalue"	"geneID"	"Count"
+"M00009"	"Citrate cycle (TCA cycle, Krebs cycle)"	"4/47"	"23/568"	0.113295084376655	0.632454834267292	0.632454834267292	"sucA/NA/acnA/frdB"	4
+"M00017"	"Methionine biosynthesis, aspartate => homoserine => methionine"	"2/47"	"10/568"	0.197223139002667	0.632454834267292	0.632454834267292	"asd/lysC"	2
+"M00011"	"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"	"3/47"	"19/568"	0.202104937007851	0.632454834267292	0.632454834267292	"sucA/NA/frdB"	3
+"M00016"	"Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine"	"2/47"	"11/568"	0.228897280238026	0.632454834267292	0.632454834267292	"asd/lysC"	2
+"M00048"	"De novo purine biosynthesis, PRPP + glutamine => IMP"	"2/47"	"11/568"	0.228897280238026	0.632454834267292	0.632454834267292	"purB/purN"	2
+"M00173"	"Reductive citrate cycle (Arnon-Buchanan cycle)"	"3/47"	"22/568"	0.271052071828839	0.632454834267292	0.632454834267292	"NA/acnA/frdB"	3
+"M00019"	"Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine"	"1/47"	"10/568"	0.581444243553325	0.730917837291923	0.730917837291923	"ilvB"	1
+"M00022"	"Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate"	"1/47"	"10/568"	0.581444243553325	0.730917837291923	0.730917837291923	"aroL"	1
+"M00660"	"Xanthomonas spp. pathogenicity signature, T3SS and effectors"	"1/47"	"10/568"	0.581444243553325	0.730917837291923	0.730917837291923	"epaP"	1
+"M00374"	"Dicarboxylate-hydroxybutyrate cycle"	"1/47"	"11/568"	0.616698939884855	0.730917837291923	0.730917837291923	"NA"	1
+"M00570"	"Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine"	"1/47"	"12/568"	0.649042117309293	0.730917837291923	0.730917837291923	"ilvB"	1
+"M00004"	"Pentose phosphate pathway (Pentose phosphate cycle)"	"1/47"	"13/568"	0.6787094203425	0.730917837291923	0.730917837291923	"rpe"	1
+"M00542"	"EHEC/EPEC pathogenicity signature, T3SS and effectors"	"1/47"	"13/568"	0.6787094203425	0.730917837291923	0.730917837291923	"epaP"	1
+"M00550"	"Ascorbate degradation, ascorbate => D-xylulose-5P"	"1/47"	"16/568"	0.753740892368693	0.753740892368693	0.753740892368693	"araD"	1

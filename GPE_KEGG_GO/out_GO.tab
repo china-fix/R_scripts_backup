@@ -1,0 +1,923 @@
+"ONTOLOGY"	"ID"	"Description"	"GeneRatio"	"BgRatio"	"pvalue"	"p.adjust"	"qvalue"	"geneID"	"Count"
+"BP"	"GO:0046185"	"aldehyde catabolic process"	"7/247"	"18/2736"	0.000599097704486391	0.375799148773807	0.375799148773807	"dkgB/gcl/ykgA/yeaE/yeiG/dkgA/yhbO"	7
+"BP"	"GO:0006081"	"cellular aldehyde metabolic process"	"12/247"	"48/2736"	0.000815182535301099	0.375799148773807	0.375799148773807	"dkgB/gcl/acnA/ykgA/pdxH/yeaE/yeiG/pdxB/dkgA/yhbO/rpe/yihS"	12
+"BP"	"GO:0006950"	"response to stress"	"49/247"	"379/2736"	0.00398396667569158	0.896550661453069	0.896550661453069	"rihC/cueO/degP/iraP/allR/ykgI/entS/hcp/ybjX/cspD/ftsK/rmf/sulA/cspG/proQ/acnA/marR/gst/sufA/infC/xthA/yeaG/hflD/purB/cobU/sbmC/cpsB/nfo/eutN/bcp/purN/rseC/clpB/norW/cas1/casA/mazG/recC/yhbO/rtcB/asd/gntR/dctA/ibpA/asnA/katG/groS/groL/msrA"	49
+"BP"	"GO:0006220"	"pyrimidine nucleotide metabolic process"	"7/247"	"24/2736"	0.00406112115451666	0.896550661453069	0.896550661453069	"carA/pyrH/cdsA/pyrC/ndk/mazG/pyrE"	7
+"BP"	"GO:0042182"	"ketone catabolic process"	"5/247"	"14/2736"	0.00583438608320869	0.896550661453069	0.896550661453069	"dkgB/ykgA/yeaE/dkgA/yhbO"	5
+"BP"	"GO:0051596"	"methylglyoxal catabolic process"	"5/247"	"14/2736"	0.00583438608320869	0.896550661453069	0.896550661453069	"dkgB/ykgA/yeaE/dkgA/yhbO"	5
+"BP"	"GO:0009438"	"methylglyoxal metabolic process"	"5/247"	"15/2736"	0.008117725951586	0.970419689985469	0.970419689985469	"dkgB/ykgA/yeaE/dkgA/yhbO"	5
+"BP"	"GO:0044282"	"small molecule catabolic process"	"24/247"	"165/2736"	0.0112002730971407	0.970419689985469	0.970419689985469	"rihC/fixB/araD/dkgB/fadE/ybaO/gcl/nagA/pflB/ykgA/astB/yeaE/yeiG/mazG/gudD/gcvH/dkgA/ackA/yhbO/rpe/xylB/rbsD/yihS/yihU"	24
+"BP"	"GO:0009061"	"anaerobic respiration"	"9/247"	"43/2736"	0.0125683899084857	0.970419689985469	0.970419689985469	"erpA/dmsA/hyaC/hyaB/hyaA/acnA/torA/torC/frdB"	9
+"BP"	"GO:0006221"	"pyrimidine nucleotide biosynthetic process"	"5/247"	"17/2736"	0.0144002357961132	0.970419689985469	0.970419689985469	"carA/pyrH/cdsA/pyrC/pyrE"	5
+"MF"	"GO:0008081"	"phosphoric diester hydrolase activity"	"5/247"	"17/2736"	0.0144002357961132	0.970419689985469	0.970419689985469	"nfo/rtn/yfcE/yhjH/yjcC"	5
+"BP"	"GO:0098754"	"detoxification"	"6/247"	"25/2736"	0.0207837596051935	0.970419689985469	0.970419689985469	"cueO/hcp/yeiG/bcp/yihU/katG"	6
+"MF"	"GO:0015171"	"amino acid transmembrane transporter activity"	"8/247"	"40/2736"	0.0237166719061866	0.970419689985469	0.970419689985469	"metN/glnP/rhtA/ybjE/leuE/lysP/alaE/dctA"	8
+"MF"	"GO:0046914"	"transition metal ion binding"	"24/247"	"179/2736"	0.0284437240059852	0.970419689985469	0.970419689985469	"araD/cueO/fhuA/erpA/map/ylbA/nagA/fur/hyaB/acnA/sufA/pyrC/yeiR/rhmA/yfcE/alaS/norR/casA/rplB/rpe/rtcB/torA/zraP/iadA"	24
+"BP"	"GO:0003333"	"amino acid transmembrane transport"	"9/247"	"49/2736"	0.0284451527644844	0.970419689985469	0.970419689985469	"metN/glnP/rhtA/ybjE/proQ/leuE/lysP/alaE/dctA"	9
+"MF"	"GO:0051537"	"2 iron, 2 sulfur cluster binding"	"5/247"	"20/2736"	0.0288607090379393	0.970419689985469	0.970419689985469	"erpA/sufA/bfd/frdB/fhuF"	5
+"MF"	"GO:0015179"	"L-amino acid transmembrane transporter activity"	"6/247"	"27/2736"	0.0298391887883927	0.970419689985469	0.970419689985469	"metN/rhtA/ybjE/leuE/alaE/dctA"	6
+"BP"	"GO:0006979"	"response to oxidative stress"	"12/247"	"74/2736"	0.0309098498609668	0.970419689985469	0.970419689985469	"degP/ykgI/hcp/acnA/gst/sufA/bcp/rseC/norW/yhbO/katG/msrA"	12
+"BP"	"GO:0009218"	"pyrimidine ribonucleotide metabolic process"	"4/247"	"14/2736"	0.0314115511931802	0.970419689985469	0.970419689985469	"carA/pyrC/mazG/pyrE"	4
+"BP"	"GO:1901615"	"organic hydroxy compound metabolic process"	"11/247"	"66/2736"	0.0317217508096785	0.970419689985469	0.970419689985469	"uppS/aroL/gcl/fes/entB/ykgA/pdxH/pdxB/yhbO/yihS/yjjX"	11
+"BP"	"GO:0006113"	"fermentation"	"5/247"	"21/2736"	0.0351773199777396	0.970419689985469	0.970419689985469	"hyaC/hyaB/hyaA/ackA/frdB"	5
+"MF"	"GO:0015145"	"monosaccharide transmembrane transporter activity"	"4/247"	"16/2736"	0.0495245607375612	0.970419689985469	0.970419689985469	"manY/fruB/rbsD/lsrC"	4
+"CC"	"GO:0019898"	"extrinsic component of membrane"	"5/247"	"23/2736"	0.0501968936144932	0.970419689985469	0.970419689985469	"lpxB/macA/hflD/fruB/era"	5
+"MF"	"GO:0043024"	"ribosomal small subunit binding"	"3/247"	"10/2736"	0.0541303417745882	0.970419689985469	0.970419689985469	"rmf/infC/era"	3
+"BP"	"GO:0051346"	"negative regulation of hydrolase activity"	"3/247"	"10/2736"	0.0541303417745882	0.970419689985469	0.970419689985469	"aes/sulA/sbmC"	3
+"BP"	"GO:0072593"	"reactive oxygen species metabolic process"	"3/247"	"10/2736"	0.0541303417745882	0.970419689985469	0.970419689985469	"hcp/norW/katG"	3
+"BP"	"GO:0006865"	"amino acid transport"	"9/247"	"55/2736"	0.0548871874692423	0.970419689985469	0.970419689985469	"metN/glnP/rhtA/ybjE/proQ/leuE/lysP/alaE/dctA"	9
+"BP"	"GO:1901700"	"response to oxygen-containing compound"	"9/247"	"55/2736"	0.0548871874692423	0.970419689985469	0.970419689985469	"ybaO/ykgI/hcp/gst/yeiG/norW/yghW/asnC/katG"	9
+"BP"	"GO:0072527"	"pyrimidine-containing compound metabolic process"	"8/247"	"47/2736"	0.0561843812690351	0.970419689985469	0.970419689985469	"carA/pyrH/cdsA/pyrC/ndk/mazG/pyrE/yjjX"	8
+"MF"	"GO:0005506"	"iron ion binding"	"7/247"	"39/2736"	0.0564256909513916	0.970419689985469	0.970419689985469	"fhuA/erpA/map/acnA/sufA/norR/rpe"	7
+"BP"	"GO:0001101"	"response to acid chemical"	"4/247"	"17/2736"	0.0603320453349297	0.970419689985469	0.970419689985469	"ybaO/ykgI/yghW/asnC"	4
+"MF"	"GO:0008198"	"ferrous iron binding"	"4/247"	"17/2736"	0.0603320453349297	0.970419689985469	0.970419689985469	"map/sufA/norR/rpe"	4
+"BP"	"GO:0019323"	"pentose catabolic process"	"4/247"	"17/2736"	0.0603320453349297	0.970419689985469	0.970419689985469	"araD/rpe/xylB/rbsD"	4
+"MF"	"GO:0051119"	"sugar transmembrane transporter activity"	"4/247"	"17/2736"	0.0603320453349297	0.970419689985469	0.970419689985469	"manY/fruB/rbsD/lsrC"	4
+"BP"	"GO:0048519"	"negative regulation of biological process"	"19/247"	"146/2736"	0.0623557755375225	0.970419689985469	0.970419689985469	"iraP/hha/aes/allR/fur/cspD/rmf/sulA/yedQ/yjgJ/marR/tus/rplT/flgM/sbmC/alaS/gntR/asnC/fabR"	19
+"BP"	"GO:0060255"	"regulation of macromolecule metabolic process"	"31/247"	"264/2736"	0.0695265946752869	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/phoB/ybaO/hha/aes/allR/fur/cspD/ftsK/rmf/cheW/proQ/prmC/yjgJ/marR/tus/rplT/infC/flgM/sbmC/alaS/norR/arfA/gntR/xylR/torR/asnC/fabR/pepA"	31
+"BP"	"GO:0009220"	"pyrimidine ribonucleotide biosynthetic process"	"3/247"	"11/2736"	0.0696108004030982	0.970419689985469	0.970419689985469	"carA/pyrC/pyrE"	3
+"BP"	"GO:0044273"	"sulfur compound catabolic process"	"3/247"	"11/2736"	0.0696108004030982	0.970419689985469	0.970419689985469	"ybaO/yihS/yihU"	3
+"BP"	"GO:2000145"	"regulation of cell motility"	"3/247"	"11/2736"	0.0696108004030982	0.970419689985469	0.970419689985469	"hha/yedQ/yhjH"	3
+"BP"	"GO:0010468"	"regulation of gene expression"	"27/247"	"225/2736"	0.0703459102065226	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/phoB/ybaO/hha/aes/allR/fur/cspD/ftsK/rmf/proQ/prmC/yjgJ/marR/rplT/infC/alaS/norR/arfA/gntR/xylR/torR/asnC/fabR/pepA"	27
+"BP"	"GO:0009266"	"response to temperature stimulus"	"11/247"	"75/2736"	0.0705253638947402	0.970419689985469	0.970419689985469	"degP/cspD/cspG/marR/infC/hflD/clpB/yhbO/ibpA/groS/groL"	11
+"BP"	"GO:0032879"	"regulation of localization"	"4/247"	"18/2736"	0.0722825692059022	0.970419689985469	0.970419689985469	"hha/yedQ/proQ/yhjH"	4
+"BP"	"GO:0061077"	"chaperone-mediated protein folding"	"4/247"	"18/2736"	0.0722825692059022	0.970419689985469	0.970419689985469	"degP/skp/groS/groL"	4
+"BP"	"GO:1990748"	"cellular detoxification"	"4/247"	"18/2736"	0.0722825692059022	0.970419689985469	0.970419689985469	"hcp/yeiG/bcp/katG"	4
+"BP"	"GO:0048523"	"negative regulation of cellular process"	"17/247"	"130/2736"	0.0727026885762145	0.970419689985469	0.970419689985469	"hha/allR/fur/cspD/rmf/sulA/yedQ/yjgJ/marR/tus/rplT/flgM/sbmC/alaS/gntR/asnC/fabR"	17
+"BP"	"GO:0051172"	"negative regulation of nitrogen compound metabolic process"	"15/247"	"112/2736"	0.0751175790875537	0.970419689985469	0.970419689985469	"iraP/allR/fur/cspD/rmf/yjgJ/marR/tus/rplT/flgM/sbmC/alaS/gntR/asnC/fabR"	15
+"BP"	"GO:2000112"	"regulation of cellular macromolecule biosynthetic process"	"26/247"	"217/2736"	0.0760485330892544	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/rmf/yjgJ/marR/tus/rplT/infC/sbmC/alaS/norR/arfA/gntR/xylR/torR/asnC/fabR/pepA"	26
+"BP"	"GO:0048522"	"positive regulation of cellular process"	"13/247"	"94/2736"	0.0765204447262865	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/ybaO/hha/fur/ftsK/cheW/proQ/infC/norR/gntR/asnC"	13
+"BP"	"GO:0009056"	"catabolic process"	"34/247"	"297/2736"	0.078778274945089	0.970419689985469	0.970419689985469	"rihC/fixB/araD/degP/dkgB/fadE/iraP/ybaO/aes/gcl/fes/nagA/hcp/pflB/ykgA/rspA/astB/yeaE/yeiG/norW/mazG/gudD/gcvH/dkgA/ackA/yhbO/rpe/hofP/xylB/rbsD/yihS/yihU/katG/pepA"	34
+"MF"	"GO:0008514"	"organic anion transmembrane transporter activity"	"9/247"	"59/2736"	0.0793358862711091	0.970419689985469	0.970419689985469	"metN/glnP/rhtA/ybjE/leuE/lysP/alaE/ugpC/dctA"	9
+"BP"	"GO:0010033"	"response to organic substance"	"6/247"	"34/2736"	0.080062342778819	0.970419689985469	0.970419689985469	"ybaO/yeiG/clpB/yghW/asnC/groS"	6
+"BP"	"GO:1902475"	"L-alpha-amino acid transmembrane transport"	"6/247"	"34/2736"	0.080062342778819	0.970419689985469	0.970419689985469	"metN/rhtA/ybjE/leuE/alaE/dctA"	6
+"BP"	"GO:0010556"	"regulation of macromolecule biosynthetic process"	"27/247"	"228/2736"	0.0801374527972518	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/rmf/yjgJ/marR/tus/rplT/infC/flgM/sbmC/alaS/norR/arfA/gntR/xylR/torR/asnC/fabR/pepA"	27
+"BP"	"GO:0045333"	"cellular respiration"	"11/247"	"77/2736"	0.0820863417951833	0.970419689985469	0.970419689985469	"erpA/cyoA/sucA/dmsA/hyaC/hyaB/hyaA/acnA/torA/torC/frdB"	11
+"MF"	"GO:0017111"	"ribonucleoside triphosphate phosphatase activity"	"16/247"	"123/2736"	0.0832151791722177	0.970419689985469	0.970419689985469	"metN/ftsK/znuC/yeiR/era/clpB/ffh/recC/zapE/ugpC/atpE/ravA/rbsD/groL/mgtA/yjjX"	16
+"BP"	"GO:0009607"	"response to biotic stimulus"	"3/247"	"12/2736"	0.0868371896561325	0.970419689985469	0.970419689985469	"casA/recC/lsrK"	3
+"MF"	"GO:0016151"	"nickel cation binding"	"3/247"	"12/2736"	0.0868371896561325	0.970419689985469	0.970419689985469	"hyaB/rhmA/zraP"	3
+"BP"	"GO:0019748"	"secondary metabolic process"	"3/247"	"12/2736"	0.0868371896561325	0.970419689985469	0.970419689985469	"fes/entB/yihU"	3
+"BP"	"GO:0040012"	"regulation of locomotion"	"3/247"	"12/2736"	0.0868371896561325	0.970419689985469	0.970419689985469	"hha/yedQ/yhjH"	3
+"BP"	"GO:0042135"	"neurotransmitter catabolic process"	"3/247"	"12/2736"	0.0868371896561325	0.970419689985469	0.970419689985469	"hcp/norW/gcvH"	3
+"BP"	"GO:0031326"	"regulation of cellular biosynthetic process"	"27/247"	"230/2736"	0.0871628937654202	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/rmf/yjgJ/marR/tus/rplT/infC/flgM/sbmC/alaS/norR/arfA/gntR/xylR/torR/asnC/fabR/pepA"	27
+"BP"	"GO:0009636"	"response to toxic substance"	"7/247"	"43/2736"	0.0871678813800038	0.970419689985469	0.970419689985469	"cueO/hcp/gst/yeiG/bcp/yihU/katG"	7
+"BP"	"GO:0015807"	"L-amino acid transport"	"6/247"	"35/2736"	0.0896883387454091	0.970419689985469	0.970419689985469	"metN/rhtA/ybjE/leuE/alaE/dctA"	6
+"BP"	"GO:0043254"	"regulation of protein-containing complex assembly"	"5/247"	"27/2736"	0.0899172433970537	0.970419689985469	0.970419689985469	"phoB/ybaO/sulA/infC/norR"	5
+"BP"	"GO:0009889"	"regulation of biosynthetic process"	"27/247"	"231/2736"	0.0908274166476746	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/rmf/yjgJ/marR/tus/rplT/infC/flgM/sbmC/alaS/norR/arfA/gntR/xylR/torR/asnC/fabR/pepA"	27
+"MF"	"GO:0008324"	"cation transmembrane transporter activity"	"14/247"	"106/2736"	0.0916540553036408	0.970419689985469	0.970419689985469	"thiP/clcA/metN/cyoA/rhtA/ybjE/znuC/sapC/leuE/nupC/alaE/dctA/atpE/mgtA"	14
+"BP"	"GO:0006812"	"cation transport"	"20/247"	"163/2736"	0.0923841815218798	0.970419689985469	0.970419689985469	"thiP/clcA/metN/cyoA/fepD/entS/rhtA/potH/ybjE/znuC/proQ/sapC/leuE/yehW/nupC/alaE/dctA/atpE/mgtA/fhuF"	20
+"BP"	"GO:0098655"	"cation transmembrane transport"	"16/247"	"125/2736"	0.0931430386823759	0.970419689985469	0.970419689985469	"thiP/clcA/metN/cyoA/fepD/rhtA/ybjE/znuC/proQ/sapC/leuE/nupC/alaE/dctA/atpE/mgtA"	16
+"CC"	"GO:0019897"	"extrinsic component of plasma membrane"	"4/247"	"20/2736"	0.0994611835749662	0.970419689985469	0.970419689985469	"lpxB/hflD/fruB/era"	4
+"BP"	"GO:0000302"	"response to reactive oxygen species"	"5/247"	"28/2736"	0.101810976101209	0.970419689985469	0.970419689985469	"ykgI/hcp/gst/norW/katG"	5
+"BP"	"GO:0001505"	"regulation of neurotransmitter levels"	"3/247"	"13/2736"	0.105657209633016	0.970419689985469	0.970419689985469	"hcp/norW/gcvH"	3
+"MF"	"GO:0015562"	"efflux transmembrane transporter activity"	"3/247"	"13/2736"	0.105657209633016	0.970419689985469	0.970419689985469	"rhtA/ybjE/alaE"	3
+"BP"	"GO:0017001"	"antibiotic catabolic process"	"3/247"	"13/2736"	0.105657209633016	0.970419689985469	0.970419689985469	"nagA/yeiG/katG"	3
+"BP"	"GO:0031334"	"positive regulation of protein-containing complex assembly"	"3/247"	"13/2736"	0.105657209633016	0.970419689985469	0.970419689985469	"ybaO/infC/norR"	3
+"BP"	"GO:0042133"	"neurotransmitter metabolic process"	"3/247"	"13/2736"	0.105657209633016	0.970419689985469	0.970419689985469	"hcp/norW/gcvH"	3
+"BP"	"GO:0042542"	"response to hydrogen peroxide"	"3/247"	"13/2736"	0.105657209633016	0.970419689985469	0.970419689985469	"hcp/gst/katG"	3
+"MF"	"GO:0051082"	"unfolded protein binding"	"3/247"	"13/2736"	0.105657209633016	0.970419689985469	0.970419689985469	"skp/groS/groL"	3
+"BP"	"GO:0044248"	"cellular catabolic process"	"27/247"	"236/2736"	0.110692101291723	0.970419689985469	0.970419689985469	"rihC/fixB/degP/dkgB/fadE/ybaO/gcl/fes/nagA/hcp/pflB/ykgA/astB/yeaE/yeiG/norW/mazG/gudD/gcvH/dkgA/ackA/yhbO/hofP/yihS/yihU/katG/pepA"	27
+"BP"	"GO:0009060"	"aerobic respiration"	"6/247"	"37/2736"	0.110734418007324	0.970419689985469	0.970419689985469	"erpA/cyoA/sucA/acnA/torA/torC"	6
+"BP"	"GO:0048518"	"positive regulation of biological process"	"13/247"	"100/2736"	0.111719343090941	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/ybaO/hha/fur/ftsK/cheW/proQ/infC/norR/gntR/asnC"	13
+"BP"	"GO:0019321"	"pentose metabolic process"	"4/247"	"21/2736"	0.11458679853902	0.970419689985469	0.970419689985469	"araD/rpe/xylB/rbsD"	4
+"BP"	"GO:0022411"	"cellular component disassembly"	"4/247"	"21/2736"	0.11458679853902	0.970419689985469	0.970419689985469	"frr/prmC/infC/pepA"	4
+"BP"	"GO:0032984"	"protein-containing complex disassembly"	"4/247"	"21/2736"	0.11458679853902	0.970419689985469	0.970419689985469	"frr/prmC/infC/pepA"	4
+"BP"	"GO:0043086"	"negative regulation of catalytic activity"	"4/247"	"21/2736"	0.11458679853902	0.970419689985469	0.970419689985469	"aes/sulA/mliC/sbmC"	4
+"BP"	"GO:0051336"	"regulation of hydrolase activity"	"4/247"	"21/2736"	0.11458679853902	0.970419689985469	0.970419689985469	"aes/sulA/sbmC/nlpD"	4
+"MF"	"GO:0005342"	"organic acid transmembrane transporter activity"	"8/247"	"55/2736"	0.117492467157178	0.970419689985469	0.970419689985469	"metN/glnP/rhtA/ybjE/leuE/lysP/alaE/dctA"	8
+"MF"	"GO:0046943"	"carboxylic acid transmembrane transporter activity"	"8/247"	"55/2736"	0.117492467157178	0.970419689985469	0.970419689985469	"metN/glnP/rhtA/ybjE/leuE/lysP/alaE/dctA"	8
+"BP"	"GO:0010558"	"negative regulation of macromolecule biosynthetic process"	"13/247"	"101/2736"	0.118388555415251	0.970419689985469	0.970419689985469	"allR/fur/cspD/rmf/yjgJ/marR/tus/rplT/sbmC/alaS/gntR/asnC/fabR"	13
+"BP"	"GO:2000113"	"negative regulation of cellular macromolecule biosynthetic process"	"13/247"	"101/2736"	0.118388555415251	0.970419689985469	0.970419689985469	"allR/fur/cspD/rmf/yjgJ/marR/tus/rplT/sbmC/alaS/gntR/asnC/fabR"	13
+"BP"	"GO:0010605"	"negative regulation of macromolecule metabolic process"	"15/247"	"120/2736"	0.11859977626442	0.970419689985469	0.970419689985469	"iraP/allR/fur/cspD/rmf/yjgJ/marR/tus/rplT/flgM/sbmC/alaS/gntR/asnC/fabR"	15
+"BP"	"GO:0031324"	"negative regulation of cellular metabolic process"	"14/247"	"111/2736"	0.121985782468866	0.970419689985469	0.970419689985469	"allR/fur/cspD/rmf/yjgJ/marR/tus/rplT/flgM/sbmC/alaS/gntR/asnC/fabR"	14
+"BP"	"GO:1901617"	"organic hydroxy compound biosynthetic process"	"6/247"	"38/2736"	0.122125613342542	0.970419689985469	0.970419689985469	"uppS/entB/ykgA/pdxH/pdxB/yhbO"	6
+"BP"	"GO:0019222"	"regulation of metabolic process"	"31/247"	"279/2736"	0.122220928454935	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/phoB/ybaO/hha/aes/allR/fur/cspD/ftsK/rmf/cheW/proQ/prmC/yjgJ/marR/tus/rplT/infC/flgM/sbmC/alaS/norR/arfA/gntR/xylR/torR/asnC/fabR/pepA"	31
+"BP"	"GO:0009890"	"negative regulation of biosynthetic process"	"13/247"	"102/2736"	0.125284876153189	0.970419689985469	0.970419689985469	"allR/fur/cspD/rmf/yjgJ/marR/tus/rplT/sbmC/alaS/gntR/asnC/fabR"	13
+"BP"	"GO:0031327"	"negative regulation of cellular biosynthetic process"	"13/247"	"102/2736"	0.125284876153189	0.970419689985469	0.970419689985469	"allR/fur/cspD/rmf/yjgJ/marR/tus/rplT/sbmC/alaS/gntR/asnC/fabR"	13
+"BP"	"GO:0006206"	"pyrimidine nucleobase metabolic process"	"3/247"	"14/2736"	0.125906025571153	0.970419689985469	0.970419689985469	"carA/pyrC/pyrE"	3
+"BP"	"GO:0006526"	"arginine biosynthetic process"	"3/247"	"14/2736"	0.125906025571153	0.970419689985469	0.970419689985469	"carA/argA/argI"	3
+"BP"	"GO:0071236"	"cellular response to antibiotic"	"3/247"	"14/2736"	0.125906025571153	0.970419689985469	0.970419689985469	"ftsK/marR/katG"	3
+"BP"	"GO:0045893"	"positive regulation of DNA-templated transcription"	"9/247"	"65/2736"	0.126704412891512	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/ybaO/fur/ftsK/norR/gntR/asnC"	9
+"BP"	"GO:1902680"	"positive regulation of RNA biosynthetic process"	"9/247"	"65/2736"	0.126704412891512	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/ybaO/fur/ftsK/norR/gntR/asnC"	9
+"BP"	"GO:1903508"	"positive regulation of nucleic acid-templated transcription"	"9/247"	"65/2736"	0.126704412891512	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/ybaO/fur/ftsK/norR/gntR/asnC"	9
+"BP"	"GO:0072528"	"pyrimidine-containing compound biosynthetic process"	"5/247"	"30/2736"	0.127794349327624	0.970419689985469	0.970419689985469	"carA/pyrH/cdsA/pyrC/pyrE"	5
+"BP"	"GO:0006355"	"regulation of DNA-templated transcription"	"21/247"	"180/2736"	0.127883717174605	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/yjgJ/marR/rplT/alaS/norR/gntR/xylR/torR/asnC/fabR/pepA"	21
+"BP"	"GO:1903506"	"regulation of nucleic acid-templated transcription"	"22/247"	"190/2736"	0.128400229014422	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/yjgJ/marR/rplT/flgM/alaS/norR/gntR/xylR/torR/asnC/fabR/pepA"	22
+"BP"	"GO:2001141"	"regulation of RNA biosynthetic process"	"22/247"	"190/2736"	0.128400229014422	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/yjgJ/marR/rplT/flgM/alaS/norR/gntR/xylR/torR/asnC/fabR/pepA"	22
+"BP"	"GO:0046916"	"cellular transition metal ion homeostasis"	"4/247"	"22/2736"	0.130653934287207	0.970419689985469	0.970419689985469	"ybbL/fepD/cutC/fhuF"	4
+"MF"	"GO:0003723"	"RNA binding"	"11/247"	"84/2736"	0.131336926591934	0.970419689985469	0.970419689985469	"yaeB/cspD/rmf/proQ/acnA/rplT/infC/era/casA/arfA/rplB"	11
+"BP"	"GO:0009892"	"negative regulation of metabolic process"	"15/247"	"122/2736"	0.131413655769235	0.970419689985469	0.970419689985469	"iraP/allR/fur/cspD/rmf/yjgJ/marR/tus/rplT/flgM/sbmC/alaS/gntR/asnC/fabR"	15
+"BP"	"GO:0031328"	"positive regulation of cellular biosynthetic process"	"10/247"	"75/2736"	0.13386489234947	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/ybaO/fur/ftsK/infC/norR/gntR/asnC"	10
+"MF"	"GO:0009055"	"electron transfer activity"	"7/247"	"48/2736"	0.136587401169043	0.970419689985469	0.970419689985469	"fixB/cyoA/dmsA/hyaB/hyaA/torC/frdB"	7
+"MF"	"GO:0016836"	"hydro-lyase activity"	"7/247"	"48/2736"	0.136587401169043	0.970419689985469	0.970419689985469	"fabZ/acnA/ykgA/rspA/pheA/gudD/yhbO"	7
+"BP"	"GO:0051246"	"regulation of protein metabolic process"	"7/247"	"48/2736"	0.136587401169043	0.970419689985469	0.970419689985469	"iraP/rmf/cheW/rplT/infC/flgM/arfA"	7
+"BP"	"GO:0009408"	"response to heat"	"8/247"	"57/2736"	0.136889638520167	0.970419689985469	0.970419689985469	"degP/marR/hflD/clpB/yhbO/ibpA/groS/groL"	8
+"BP"	"GO:0045934"	"negative regulation of nucleobase-containing compound metabolic process"	"11/247"	"85/2736"	0.139469268295945	0.970419689985469	0.970419689985469	"allR/fur/cspD/yjgJ/marR/tus/sbmC/alaS/gntR/asnC/fabR"	11
+"BP"	"GO:0051173"	"positive regulation of nitrogen compound metabolic process"	"11/247"	"85/2736"	0.139469268295945	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/ybaO/fur/ftsK/cheW/infC/norR/gntR/asnC"	11
+"BP"	"GO:0098656"	"anion transmembrane transport"	"11/247"	"85/2736"	0.139469268295945	0.970419689985469	0.970419689985469	"clcA/metN/glnP/rhtA/ybjE/proQ/leuE/lysP/alaE/ugpC/dctA"	11
+"MF"	"GO:0046872"	"metal ion binding"	"33/247"	"304/2736"	0.142128762332778	0.970419689985469	0.970419689985469	"araD/cueO/fhuA/erpA/map/uppS/aroL/ylbA/entB/nagA/fur/sucA/hyaB/acnA/rspA/sufA/pyrC/yeiR/rhmA/yfcE/alaS/norR/casA/gudD/rplB/rpe/rtcB/pyrE/torA/zraP/groS/groL/iadA"	33
+"BP"	"GO:0009891"	"positive regulation of biosynthetic process"	"10/247"	"76/2736"	0.142607049944261	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/ybaO/fur/ftsK/infC/norR/gntR/asnC"	10
+"BP"	"GO:0010557"	"positive regulation of macromolecule biosynthetic process"	"10/247"	"76/2736"	0.142607049944261	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/ybaO/fur/ftsK/infC/norR/gntR/asnC"	10
+"BP"	"GO:0010628"	"positive regulation of gene expression"	"10/247"	"76/2736"	0.142607049944261	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/ybaO/fur/ftsK/infC/norR/gntR/asnC"	10
+"BP"	"GO:0019219"	"regulation of nucleobase-containing compound metabolic process"	"24/247"	"213/2736"	0.144296520513767	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/yjgJ/marR/tus/rplT/flgM/sbmC/alaS/norR/gntR/xylR/torR/asnC/fabR/pepA"	24
+"MF"	"GO:0008509"	"anion transmembrane transporter activity"	"9/247"	"67/2736"	0.145263884269494	0.970419689985469	0.970419689985469	"metN/glnP/rhtA/ybjE/leuE/lysP/alaE/ugpC/dctA"	9
+"BP"	"GO:1903825"	"organic acid transmembrane transport"	"9/247"	"67/2736"	0.145263884269494	0.970419689985469	0.970419689985469	"metN/glnP/rhtA/ybjE/proQ/leuE/lysP/alaE/dctA"	9
+"BP"	"GO:1905039"	"carboxylic acid transmembrane transport"	"9/247"	"67/2736"	0.145263884269494	0.970419689985469	0.970419689985469	"metN/glnP/rhtA/ybjE/proQ/leuE/lysP/alaE/dctA"	9
+"BP"	"GO:0051171"	"regulation of nitrogen compound metabolic process"	"28/247"	"254/2736"	0.147090118477587	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/rmf/cheW/yjgJ/marR/tus/rplT/infC/flgM/sbmC/alaS/norR/arfA/gntR/xylR/torR/asnC/fabR/pepA"	28
+"MF"	"GO:0016787"	"hydrolase activity"	"46/247"	"440/2736"	0.147303538199918	0.970419689985469	0.970419689985469	"rihC/yadE/degP/map/metN/aes/ylbA/fes/entB/dacA/nagA/ftsK/znuC/rnd/yciA/astB/xthA/nagZ/pyrC/wzb/pbpG/yeiG/nfo/yeiR/rtn/yfcE/yfhB/era/clpB/ffh/alaS/cas1/mazG/recC/zapE/ugpC/yhjH/atpE/ravA/rbsD/yjcC/groL/mgtA/pepA/iadA/yjjX"	46
+"MF"	"GO:0000049"	"tRNA binding"	"3/247"	"15/2736"	0.147412023689137	0.970419689985469	0.970419689985469	"yaeB/infC/arfA"	3
+"BP"	"GO:0009409"	"response to cold"	"3/247"	"15/2736"	0.147412023689137	0.970419689985469	0.970419689985469	"cspD/cspG/infC"	3
+"BP"	"GO:0097164"	"ammonium ion metabolic process"	"3/247"	"15/2736"	0.147412023689137	0.970419689985469	0.970419689985469	"fixB/fixC/speE"	3
+"BP"	"GO:0006525"	"arginine metabolic process"	"4/247"	"23/2736"	0.147592258639358	0.970419689985469	0.970419689985469	"carA/astB/argA/argI"	4
+"BP"	"GO:0015749"	"monosaccharide transmembrane transport"	"4/247"	"23/2736"	0.147592258639358	0.970419689985469	0.970419689985469	"manY/fruB/rbsD/lsrC"	4
+"BP"	"GO:0055076"	"transition metal ion homeostasis"	"4/247"	"23/2736"	0.147592258639358	0.970419689985469	0.970419689985469	"ybbL/fepD/cutC/fhuF"	4
+"BP"	"GO:0022900"	"electron transport chain"	"7/247"	"49/2736"	0.147848768537358	0.970419689985469	0.970419689985469	"fixB/cyoA/dmsA/hyaB/hyaA/torC/frdB"	7
+"CC"	"GO:0140535"	"intracellular protein-containing complex"	"7/247"	"49/2736"	0.147848768537358	0.970419689985469	0.970419689985469	"dnaE/eutB/cysJ/recC/xerC/groS/groL"	7
+"BP"	"GO:0097659"	"nucleic acid-templated transcription"	"25/247"	"224/2736"	0.149184643179468	0.970419689985469	0.970419689985469	"sfsA/cdaR/yafC/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/yjgJ/ykgA/ydcR/marR/rplT/flgM/alaS/norR/gntR/xylR/torR/asnC/fabR/pepA"	25
+"BP"	"GO:0051254"	"positive regulation of RNA metabolic process"	"9/247"	"68/2736"	0.155034212461073	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/ybaO/fur/ftsK/norR/gntR/asnC"	9
+"MF"	"GO:0043021"	"ribonucleoprotein complex binding"	"5/247"	"32/2736"	0.156478469307117	0.970419689985469	0.970419689985469	"frr/rmf/infC/era/arfA"	5
+"BP"	"GO:0031325"	"positive regulation of cellular metabolic process"	"11/247"	"87/2736"	0.156520226008448	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/ybaO/fur/ftsK/cheW/infC/norR/gntR/asnC"	11
+"MF"	"GO:0043169"	"cation binding"	"34/247"	"318/2736"	0.159091439908368	0.970419689985469	0.970419689985469	"araD/cueO/fhuA/erpA/map/uppS/aroL/gcl/ylbA/entB/nagA/fur/sucA/hyaB/acnA/rspA/sufA/pyrC/yeiR/rhmA/yfcE/alaS/norR/casA/gudD/rplB/rpe/rtcB/pyrE/torA/zraP/groS/groL/iadA"	34
+"BP"	"GO:0016999"	"antibiotic metabolic process"	"7/247"	"50/2736"	0.159535284419713	0.970419689985469	0.970419689985469	"fes/entB/nagA/sucA/acnA/yeiG/katG"	7
+"BP"	"GO:0051716"	"cellular response to stimulus"	"35/247"	"329/2736"	0.162184444553115	0.970419689985469	0.970419689985469	"rihC/iraP/allR/entS/hcp/ybjX/ftsK/rmf/sulA/uvrY/cheW/proQ/marR/xthA/yeaG/purB/cobU/sbmC/yeiG/nfo/eutN/bcp/purN/norW/cas1/mazG/recC/yhbO/rtcB/asd/gntR/dctA/torR/asnA/katG"	35
+"BP"	"GO:0043933"	"protein-containing complex organization"	"19/247"	"166/2736"	0.162394604193598	0.970419689985469	0.970419689985469	"frr/phoB/ybaO/maa/nagA/sulA/prmC/rplT/infC/yeiG/lysP/yfcE/norR/rplQ/rpmC/rplB/nrfG/pepA/dnaT"	19
+"BP"	"GO:0006875"	"cellular metal ion homeostasis"	"4/247"	"24/2736"	0.16532661555874	0.970419689985469	0.970419689985469	"ybbL/fepD/cutC/fhuF"	4
+"BP"	"GO:0044419"	"biological process involved in interspecies interaction between organisms"	"4/247"	"24/2736"	0.16532661555874	0.970419689985469	0.970419689985469	"casA/recC/groS/groL"	4
+"BP"	"GO:0097237"	"cellular response to toxic substance"	"4/247"	"24/2736"	0.16532661555874	0.970419689985469	0.970419689985469	"hcp/yeiG/bcp/katG"	4
+"BP"	"GO:0010604"	"positive regulation of macromolecule metabolic process"	"11/247"	"88/2736"	0.165427828539815	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/ybaO/fur/ftsK/cheW/infC/norR/gntR/asnC"	11
+"MF"	"GO:0042802"	"identical protein binding"	"38/247"	"361/2736"	0.166133974968137	0.970419689985469	0.970419689985469	"clcA/degP/pyrH/skp/fabZ/tilS/cutF/phoB/maa/allR/gcl/entB/sucA/moeA/macA/ftsK/pdxH/yeiG/lysP/yfcE/clpB/alaS/norR/cas1/yhbO/uspA/ibpA/torD/asnA/ravA/rbsD/yihS/yihU/katG/groS/groL/iadA/dnaT"	38
+"BP"	"GO:0006351"	"DNA-templated transcription"	"24/247"	"217/2736"	0.166484255066315	0.970419689985469	0.970419689985469	"sfsA/cdaR/yafC/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/yjgJ/ykgA/ydcR/marR/rplT/alaS/norR/gntR/xylR/torR/asnC/fabR/pepA"	24
+"BP"	"GO:0015850"	"organic hydroxy compound transport"	"3/247"	"16/2736"	0.170001438216424	0.970419689985469	0.970419689985469	"fepD/entS/gatC"	3
+"MF"	"GO:0016209"	"antioxidant activity"	"3/247"	"16/2736"	0.170001438216424	0.970419689985469	0.970419689985469	"hcp/bcp/katG"	3
+"BP"	"GO:0044089"	"positive regulation of cellular component biogenesis"	"3/247"	"16/2736"	0.170001438216424	0.970419689985469	0.970419689985469	"ybaO/infC/norR"	3
+"MF"	"GO:0050661"	"NADP binding"	"3/247"	"16/2736"	0.170001438216424	0.970419689985469	0.970419689985469	"yjgI/pntB/cysJ"	3
+"BP"	"GO:0032774"	"RNA biosynthetic process"	"25/247"	"228/2736"	0.171273926739076	0.970419689985469	0.970419689985469	"sfsA/cdaR/yafC/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/yjgJ/ykgA/ydcR/marR/rplT/flgM/alaS/norR/gntR/xylR/torR/asnC/fabR/pepA"	25
+"MF"	"GO:0015078"	"proton transmembrane transporter activity"	"6/247"	"42/2736"	0.173000817781088	0.970419689985469	0.970419689985469	"clcA/cyoA/nupC/alaE/dctA/atpE"	6
+"BP"	"GO:0045935"	"positive regulation of nucleobase-containing compound metabolic process"	"9/247"	"70/2736"	0.175509367898199	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/ybaO/fur/ftsK/norR/gntR/asnC"	9
+"MF"	"GO:0015075"	"ion transmembrane transporter activity"	"17/247"	"148/2736"	0.17562020201865	0.970419689985469	0.970419689985469	"thiP/clcA/metN/cyoA/glnP/rhtA/ybjE/znuC/sapC/leuE/lysP/nupC/alaE/ugpC/dctA/atpE/mgtA"	17
+"BP"	"GO:0015711"	"organic anion transport"	"12/247"	"99/2736"	0.177550996046073	0.970419689985469	0.970419689985469	"metN/fepD/entS/glnP/rhtA/ybjE/proQ/leuE/lysP/alaE/ugpC/dctA"	12
+"BP"	"GO:0080090"	"regulation of primary metabolic process"	"28/247"	"260/2736"	0.178550491174753	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/rmf/cheW/yjgJ/marR/tus/rplT/infC/flgM/sbmC/alaS/norR/arfA/gntR/xylR/torR/asnC/fabR/pepA"	28
+"BP"	"GO:0051252"	"regulation of RNA metabolic process"	"22/247"	"199/2736"	0.180334580400778	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/yjgJ/marR/rplT/flgM/alaS/norR/gntR/xylR/torR/asnC/fabR/pepA"	22
+"BP"	"GO:0051649"	"establishment of localization in cell"	"4/247"	"25/2736"	0.183778418017211	0.970419689985469	0.970419689985469	"fepD/cheW/ffh/fhuF"	4
+"BP"	"GO:0055065"	"metal ion homeostasis"	"4/247"	"25/2736"	0.183778418017211	0.970419689985469	0.970419689985469	"ybbL/fepD/cutC/fhuF"	4
+"BP"	"GO:0031323"	"regulation of cellular metabolic process"	"28/247"	"261/2736"	0.184129180075211	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/rmf/cheW/yjgJ/marR/tus/rplT/infC/flgM/sbmC/alaS/norR/arfA/gntR/xylR/torR/asnC/fabR/pepA"	28
+"BP"	"GO:0015980"	"energy derivation by oxidation of organic compounds"	"12/247"	"100/2736"	0.186528039630864	0.970419689985469	0.970419689985469	"erpA/cyoA/sucA/dmsA/hyaC/hyaB/hyaA/acnA/ackA/torA/torC/frdB"	12
+"BP"	"GO:0016054"	"organic acid catabolic process"	"12/247"	"100/2736"	0.186528039630864	0.970419689985469	0.970419689985469	"fixB/fadE/ybaO/gcl/nagA/pflB/astB/gudD/gcvH/ackA/yihS/yihU"	12
+"BP"	"GO:0065007"	"biological regulation"	"47/247"	"460/2736"	0.186576913841124	0.970419689985469	0.970419689985469	"sfsA/cdaR/skp/cutF/iraP/phoB/ybaO/hha/aes/ybbL/allR/fepD/dacA/fur/hcp/cspD/ftsK/rmf/sulA/yedQ/uvrY/cheW/cutC/proQ/prmC/yjgJ/marR/tus/mliC/rplT/infC/flgM/sbmC/alaS/norR/norW/nlpD/gcvH/arfA/gntR/yhjH/xylR/torR/asnC/fabR/pepA/fhuF"	47
+"BP"	"GO:0032268"	"regulation of cellular protein metabolic process"	"6/247"	"43/2736"	0.186919672332615	0.970419689985469	0.970419689985469	"rmf/cheW/rplT/infC/flgM/arfA"	6
+"BP"	"GO:0006974"	"cellular response to DNA damage stimulus"	"21/247"	"190/2736"	0.187756967684246	0.970419689985469	0.970419689985469	"rihC/allR/entS/ybjX/sulA/proQ/xthA/purB/cobU/sbmC/nfo/eutN/purN/cas1/recC/yhbO/rtcB/asd/gntR/dctA/asnA"	21
+"MF"	"GO:0003729"	"mRNA binding"	"3/247"	"17/2736"	0.193502022405315	0.970419689985469	0.970419689985469	"proQ/acnA/rplT"	3
+"MF"	"GO:0016857"	"racemase and epimerase activity, acting on carbohydrates and derivatives"	"3/247"	"17/2736"	0.193502022405315	0.970419689985469	0.970419689985469	"araD/nanM/rpe"	3
+"BP"	"GO:0051052"	"regulation of DNA metabolic process"	"3/247"	"17/2736"	0.193502022405315	0.970419689985469	0.970419689985469	"cspD/tus/sbmC"	3
+"BP"	"GO:0051130"	"positive regulation of cellular component organization"	"3/247"	"17/2736"	0.193502022405315	0.970419689985469	0.970419689985469	"ybaO/infC/norR"	3
+"BP"	"GO:0098869"	"cellular oxidant detoxification"	"3/247"	"17/2736"	0.193502022405315	0.970419689985469	0.970419689985469	"hcp/bcp/katG"	3
+"BP"	"GO:0009893"	"positive regulation of metabolic process"	"11/247"	"92/2736"	0.20344815176662	0.970419689985469	0.970419689985469	"sfsA/cdaR/iraP/ybaO/fur/ftsK/cheW/infC/norR/gntR/asnC"	11
+"BP"	"GO:0033554"	"cellular response to stress"	"27/247"	"254/2736"	0.203495273209895	0.970419689985469	0.970419689985469	"rihC/iraP/allR/entS/ybjX/rmf/sulA/proQ/xthA/yeaG/purB/cobU/sbmC/nfo/eutN/purN/norW/cas1/mazG/recC/yhbO/rtcB/asd/gntR/dctA/asnA/katG"	27
+"CC"	"GO:0015934"	"large ribosomal subunit"	"5/247"	"35/2736"	0.203847877688025	0.970419689985469	0.970419689985469	"rplT/rpmI/rplQ/rpmC/rplB"	5
+"CC"	"GO:0022625"	"cytosolic large ribosomal subunit"	"5/247"	"35/2736"	0.203847877688025	0.970419689985469	0.970419689985469	"rplT/rpmI/rplQ/rpmC/rplB"	5
+"MF"	"GO:0044877"	"protein-containing complex binding"	"5/247"	"35/2736"	0.203847877688025	0.970419689985469	0.970419689985469	"frr/rmf/infC/era/arfA"	5
+"MF"	"GO:0016887"	"ATP hydrolysis activity"	"12/247"	"102/2736"	0.205106120439112	0.970419689985469	0.970419689985469	"metN/ftsK/znuC/clpB/recC/zapE/ugpC/atpE/ravA/rbsD/groL/mgtA"	12
+"BP"	"GO:1901575"	"organic substance catabolic process"	"30/247"	"286/2736"	0.208646710337643	0.970419689985469	0.970419689985469	"rihC/fixB/araD/degP/dkgB/fadE/iraP/ybaO/gcl/fes/nagA/pflB/ykgA/rspA/astB/yeaE/yeiG/mazG/gudD/gcvH/dkgA/ackA/yhbO/rpe/hofP/xylB/rbsD/yihS/yihU/pepA"	30
+"MF"	"GO:0016835"	"carbon-oxygen lyase activity"	"7/247"	"54/2736"	0.210148281095323	0.970419689985469	0.970419689985469	"fabZ/acnA/ykgA/rspA/pheA/gudD/yhbO"	7
+"BP"	"GO:0098657"	"import into cell"	"7/247"	"54/2736"	0.210148281095323	0.970419689985469	0.970419689985469	"fepD/proQ/manY/sgcB/fruB/gatC/fhuF"	7
+"MF"	"GO:0016462"	"pyrophosphatase activity"	"17/247"	"153/2736"	0.213439528517528	0.970419689985469	0.970419689985469	"metN/ftsK/znuC/yeiR/era/clpB/ffh/mazG/recC/zapE/ugpC/atpE/ravA/rbsD/groL/mgtA/yjjX"	17
+"BP"	"GO:0006631"	"fatty acid metabolic process"	"6/247"	"45/2736"	0.215991325688968	0.970419689985469	0.970419689985469	"fixB/fabZ/fadE/yciA/acnA/fabF"	6
+"MF"	"GO:0003924"	"GTPase activity"	"3/247"	"18/2736"	0.217745913045198	0.970419689985469	0.970419689985469	"yeiR/era/ffh"	3
+"BP"	"GO:0009112"	"nucleobase metabolic process"	"3/247"	"18/2736"	0.217745913045198	0.970419689985469	0.970419689985469	"carA/pyrC/pyrE"	3
+"MF"	"GO:0090079"	"translation regulator activity, nucleic acid binding"	"3/247"	"18/2736"	0.217745913045198	0.970419689985469	0.970419689985469	"rmf/rplT/infC"	3
+"BP"	"GO:0044087"	"regulation of cellular component biogenesis"	"5/247"	"36/2736"	0.220610982527325	0.970419689985469	0.970419689985469	"phoB/ybaO/sulA/infC/norR"	5
+"MF"	"GO:0016817"	"hydrolase activity, acting on acid anhydrides"	"17/247"	"154/2736"	0.221426889302588	0.970419689985469	0.970419689985469	"metN/ftsK/znuC/yeiR/era/clpB/ffh/mazG/recC/zapE/ugpC/atpE/ravA/rbsD/groL/mgtA/yjjX"	17
+"MF"	"GO:0016818"	"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides"	"17/247"	"154/2736"	0.221426889302588	0.970419689985469	0.970419689985469	"metN/ftsK/znuC/yeiR/era/clpB/ffh/mazG/recC/zapE/ugpC/atpE/ravA/rbsD/groL/mgtA/yjjX"	17
+"BP"	"GO:0000027"	"ribosomal large subunit assembly"	"4/247"	"27/2736"	0.222510337617457	0.970419689985469	0.970419689985469	"rplT/rplQ/rpmC/rplB"	4
+"BP"	"GO:0042273"	"ribosomal large subunit biogenesis"	"4/247"	"27/2736"	0.222510337617457	0.970419689985469	0.970419689985469	"rplT/rplQ/rpmC/rplB"	4
+"BP"	"GO:0044092"	"negative regulation of molecular function"	"4/247"	"27/2736"	0.222510337617457	0.970419689985469	0.970419689985469	"aes/sulA/mliC/sbmC"	4
+"MF"	"GO:0016301"	"kinase activity"	"12/247"	"104/2736"	0.224467986815411	0.970419689985469	0.970419689985469	"coaE/pyrH/aroL/gsk/yeaG/thiK/cobU/ndk/ackA/xylB/lsrK/lysC"	12
+"BP"	"GO:0006820"	"anion transport"	"13/247"	"114/2736"	0.22458166673875	0.970419689985469	0.970419689985469	"clcA/metN/fepD/entS/glnP/rhtA/ybjE/proQ/leuE/lysP/alaE/ugpC/dctA"	13
+"BP"	"GO:0009164"	"nucleoside catabolic process"	"2/247"	"10/2736"	0.226374138596295	0.970419689985469	0.970419689985469	"rihC/mazG"	2
+"BP"	"GO:0015891"	"siderophore transport"	"2/247"	"10/2736"	0.226374138596295	0.970419689985469	0.970419689985469	"fepD/entS"	2
+"MF"	"GO:0016790"	"thiolester hydrolase activity"	"2/247"	"10/2736"	0.226374138596295	0.970419689985469	0.970419689985469	"yciA/yeiG"	2
+"BP"	"GO:0034656"	"nucleobase-containing small molecule catabolic process"	"2/247"	"10/2736"	0.226374138596295	0.970419689985469	0.970419689985469	"rihC/mazG"	2
+"MF"	"GO:0043023"	"ribosomal large subunit binding"	"2/247"	"10/2736"	0.226374138596295	0.970419689985469	0.970419689985469	"frr/arfA"	2
+"BP"	"GO:0061727"	"methylglyoxal catabolic process to lactate"	"2/247"	"10/2736"	0.226374138596295	0.970419689985469	0.970419689985469	"ykgA/yhbO"	2
+"BP"	"GO:1901658"	"glycosyl compound catabolic process"	"2/247"	"10/2736"	0.226374138596295	0.970419689985469	0.970419689985469	"rihC/mazG"	2
+"BP"	"GO:1902600"	"proton transmembrane transport"	"6/247"	"46/2736"	0.231079396103264	0.970419689985469	0.970419689985469	"clcA/cyoA/nupC/alaE/dctA/atpE"	6
+"BP"	"GO:0009117"	"nucleotide metabolic process"	"14/247"	"125/2736"	0.233355301496783	0.970419689985469	0.970419689985469	"carA/coaE/pyrH/cdsA/cyoA/moeA/yciA/pntB/pyrC/ndk/mazG/rpe/pyrE/atpE"	14
+"BP"	"GO:0042221"	"response to chemical"	"29/247"	"280/2736"	0.235415446212727	0.970419689985469	0.970419689985469	"thiP/cueO/metN/ybaO/ykgI/entS/tolQ/rhtA/hcp/ybjE/macA/ftsK/cheW/cutC/proQ/marR/gst/pbpG/yeiG/bcp/clpB/norW/nlpD/yghW/dctA/asnC/yihU/katG/groS"	29
+"BP"	"GO:0010608"	"post-transcriptional regulation of gene expression"	"5/247"	"37/2736"	0.237779195733576	0.970419689985469	0.970419689985469	"rmf/proQ/rplT/infC/arfA"	5
+"BP"	"GO:0034220"	"ion transmembrane transport"	"19/247"	"177/2736"	0.241678404846179	0.970419689985469	0.970419689985469	"thiP/clcA/metN/cyoA/fepD/glnP/rhtA/ybjE/znuC/proQ/sapC/leuE/lysP/nupC/alaE/ugpC/dctA/atpE/mgtA"	19
+"MF"	"GO:0008289"	"lipid binding"	"3/247"	"19/2736"	0.242571817616005	0.970419689985469	0.970419689985469	"skp/lpxB/gcvH"	3
+"MF"	"GO:0016832"	"aldehyde-lyase activity"	"3/247"	"19/2736"	0.242571817616005	0.970419689985469	0.970419689985469	"araD/rhmA/gatY"	3
+"BP"	"GO:0006753"	"nucleoside phosphate metabolic process"	"14/247"	"126/2736"	0.242610223129745	0.970419689985469	0.970419689985469	"carA/coaE/pyrH/cdsA/cyoA/moeA/yciA/pntB/pyrC/ndk/mazG/rpe/pyrE/atpE"	14
+"BP"	"GO:0006457"	"protein folding"	"4/247"	"28/2736"	0.242626897870165	0.970419689985469	0.970419689985469	"degP/skp/groS/groL"	4
+"BP"	"GO:0015804"	"neutral amino acid transport"	"4/247"	"28/2736"	0.242626897870165	0.970419689985469	0.970419689985469	"rhtA/proQ/leuE/alaE"	4
+"BP"	"GO:0042594"	"response to starvation"	"4/247"	"28/2736"	0.242626897870165	0.970419689985469	0.970419689985469	"iraP/cspD/yeaG/mazG"	4
+"BP"	"GO:0051248"	"negative regulation of protein metabolic process"	"4/247"	"28/2736"	0.242626897870165	0.970419689985469	0.970419689985469	"iraP/rmf/rplT/flgM"	4
+"MF"	"GO:1901681"	"sulfur compound binding"	"4/247"	"28/2736"	0.242626897870165	0.970419689985469	0.970419689985469	"gcl/dacA/sucA/gcvH"	4
+"MF"	"GO:0140110"	"transcription regulator activity"	"13/247"	"116/2736"	0.2437530563442	0.970419689985469	0.970419689985469	"cdaR/iraP/ybaO/allR/fur/yjgJ/flgM/alaS/norR/xylR/asnC/fabR/pepA"	13
+"BP"	"GO:0042180"	"cellular ketone metabolic process"	"6/247"	"47/2736"	0.246490870257333	0.970419689985469	0.970419689985469	"dkgB/ykgA/yeaE/dkgA/yhbO/yihS"	6
+"MF"	"GO:0051536"	"iron-sulfur cluster binding"	"8/247"	"67/2736"	0.254372695747833	0.970419689985469	0.970419689985469	"erpA/dmsA/hyaA/acnA/sufA/bfd/frdB/fhuF"	8
+"MF"	"GO:0051540"	"metal cluster binding"	"8/247"	"67/2736"	0.254372695747833	0.970419689985469	0.970419689985469	"erpA/dmsA/hyaA/acnA/sufA/bfd/frdB/fhuF"	8
+"BP"	"GO:0050794"	"regulation of cellular process"	"36/247"	"357/2736"	0.254841941583371	0.970419689985469	0.970419689985469	"sfsA/cdaR/cutF/iraP/phoB/ybaO/hha/aes/allR/dacA/fur/cspD/ftsK/rmf/sulA/yedQ/uvrY/cheW/proQ/yjgJ/marR/tus/rplT/infC/flgM/sbmC/alaS/norR/arfA/gntR/yhjH/xylR/torR/asnC/fabR/pepA"	36
+"BP"	"GO:0006260"	"DNA replication"	"5/247"	"38/2736"	0.255302465792823	0.970419689985469	0.970419689985469	"dnaE/cspD/tus/sbmC/dnaT"	5
+"BP"	"GO:0019693"	"ribose phosphate metabolic process"	"10/247"	"87/2736"	0.256082416327401	0.970419689985469	0.970419689985469	"carA/coaE/cyoA/moeA/yciA/pyrC/mazG/rpe/pyrE/atpE"	10
+"BP"	"GO:0065003"	"protein-containing complex assembly"	"16/247"	"148/2736"	0.257065127461791	0.970419689985469	0.970419689985469	"phoB/ybaO/maa/nagA/sulA/rplT/infC/yeiG/lysP/yfcE/norR/rplQ/rpmC/rplB/nrfG/dnaT"	16
+"BP"	"GO:0006091"	"generation of precursor metabolites and energy"	"15/247"	"138/2736"	0.259372924454109	0.970419689985469	0.970419689985469	"fixB/erpA/cyoA/sucA/dmsA/hyaC/hyaB/hyaA/acnA/pntB/ackA/rpe/torA/torC/frdB"	15
+"MF"	"GO:0005515"	"protein binding"	"41/247"	"411/2736"	0.259581520900735	0.970419689985469	0.970419689985469	"fhuA/clcA/degP/pyrH/skp/fabZ/tilS/cutF/phoB/maa/allR/gcl/entB/sucA/moeA/macA/ftsK/cheW/pdxH/sbmC/yeiG/lysP/yfcE/clpB/alaS/norR/cas1/yhbO/uspA/ibpA/torD/asnA/ravA/rbsD/yihS/yihU/katG/groS/groL/iadA/dnaT"	41
+"MF"	"GO:0005451"	"monovalent cation:proton antiporter activity"	"2/247"	"11/2736"	0.261210435972561	0.970419689985469	0.970419689985469	"clcA/alaE"	2
+"BP"	"GO:0006566"	"threonine metabolic process"	"2/247"	"11/2736"	0.261210435972561	0.970419689985469	0.970419689985469	"pflB/ackA"	2
+"BP"	"GO:0006740"	"NADPH regeneration"	"2/247"	"11/2736"	0.261210435972561	0.970419689985469	0.970419689985469	"pntB/rpe"	2
+"MF"	"GO:0015299"	"solute:proton antiporter activity"	"2/247"	"11/2736"	0.261210435972561	0.970419689985469	0.970419689985469	"clcA/alaE"	2
+"MF"	"GO:0016671"	"oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor"	"2/247"	"11/2736"	0.261210435972561	0.970419689985469	0.970419689985469	"bcp/msrA"	2
+"MF"	"GO:0016774"	"phosphotransferase activity, carboxyl group as acceptor"	"2/247"	"11/2736"	0.261210435972561	0.970419689985469	0.970419689985469	"ackA/lysC"	2
+"MF"	"GO:0016893"	"endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters"	"2/247"	"11/2736"	0.261210435972561	0.970419689985469	0.970419689985469	"nfo/cas1"	2
+"MF"	"GO:0019205"	"nucleobase-containing compound kinase activity"	"2/247"	"11/2736"	0.261210435972561	0.970419689985469	0.970419689985469	"pyrH/ndk"	2
+"BP"	"GO:0030091"	"protein repair"	"2/247"	"11/2736"	0.261210435972561	0.970419689985469	0.970419689985469	"yhbO/msrA"	2
+"BP"	"GO:0033212"	"iron import into cell"	"2/247"	"11/2736"	0.261210435972561	0.970419689985469	0.970419689985469	"fepD/fhuF"	2
+"BP"	"GO:0045017"	"glycerolipid biosynthetic process"	"2/247"	"11/2736"	0.261210435972561	0.970419689985469	0.970419689985469	"cdsA/yfhB"	2
+"BP"	"GO:0046474"	"glycerophospholipid biosynthetic process"	"2/247"	"11/2736"	0.261210435972561	0.970419689985469	0.970419689985469	"cdsA/yfhB"	2
+"BP"	"GO:0051189"	"prosthetic group metabolic process"	"2/247"	"11/2736"	0.261210435972561	0.970419689985469	0.970419689985469	"citG/moeA"	2
+"BP"	"GO:1901334"	"lactone metabolic process"	"2/247"	"11/2736"	0.261210435972561	0.970419689985469	0.970419689985469	"fes/entB"	2
+"BP"	"GO:1901616"	"organic hydroxy compound catabolic process"	"2/247"	"11/2736"	0.261210435972561	0.970419689985469	0.970419689985469	"gcl/fes"	2
+"MF"	"GO:0042626"	"ATPase-coupled transmembrane transporter activity"	"6/247"	"48/2736"	0.262191365841374	0.970419689985469	0.970419689985469	"metN/znuC/ugpC/atpE/rbsD/mgtA"	6
+"BP"	"GO:0019637"	"organophosphate metabolic process"	"20/247"	"190/2736"	0.262695042522125	0.970419689985469	0.970419689985469	"carA/araD/coaE/pyrH/cdsA/lpxB/cyoA/moeA/yciA/pntB/pdxH/pyrC/pdxB/ndk/yfhB/mazG/rpe/pyrE/atpE/yihS"	20
+"BP"	"GO:0015695"	"organic cation transport"	"4/247"	"29/2736"	0.263135686476397	0.970419689985469	0.970419689985469	"thiP/potH/sapC/yehW"	4
+"BP"	"GO:0030003"	"cellular cation homeostasis"	"4/247"	"29/2736"	0.263135686476397	0.970419689985469	0.970419689985469	"ybbL/fepD/cutC/fhuF"	4
+"BP"	"GO:0071702"	"organic substance transport"	"28/247"	"274/2736"	0.264599096429187	0.970419689985469	0.970419689985469	"thiP/metN/fepD/entS/tolQ/glnP/rhtA/potH/ybjE/proQ/manY/sapC/sgcB/leuE/yehW/lysP/fruB/setB/nupC/ffh/alaE/gatC/ugpC/yhjD/dctA/yiaM/rbsD/lsrC"	28
+"BP"	"GO:0008643"	"carbohydrate transport"	"8/247"	"68/2736"	0.267617826852735	0.970419689985469	0.970419689985469	"manY/sgcB/fruB/setB/gatC/yiaM/rbsD/lsrC"	8
+"BP"	"GO:0006879"	"cellular iron ion homeostasis"	"3/247"	"20/2736"	0.267826635387953	0.970419689985469	0.970419689985469	"ybbL/fepD/fhuF"	3
+"MF"	"GO:0045182"	"translation regulator activity"	"3/247"	"20/2736"	0.267826635387953	0.970419689985469	0.970419689985469	"rmf/rplT/infC"	3
+"BP"	"GO:0055072"	"iron ion homeostasis"	"3/247"	"20/2736"	0.267826635387953	0.970419689985469	0.970419689985469	"ybbL/fepD/fhuF"	3
+"BP"	"GO:0009259"	"ribonucleotide metabolic process"	"9/247"	"79/2736"	0.280632574234539	0.970419689985469	0.970419689985469	"carA/coaE/cyoA/moeA/yciA/pyrC/mazG/pyrE/atpE"	9
+"BP"	"GO:0015849"	"organic acid transport"	"9/247"	"79/2736"	0.280632574234539	0.970419689985469	0.970419689985469	"metN/glnP/rhtA/ybjE/proQ/leuE/lysP/alaE/dctA"	9
+"BP"	"GO:0046942"	"carboxylic acid transport"	"9/247"	"79/2736"	0.280632574234539	0.970419689985469	0.970419689985469	"metN/glnP/rhtA/ybjE/proQ/leuE/lysP/alaE/dctA"	9
+"BP"	"GO:0016310"	"phosphorylation"	"14/247"	"130/2736"	0.280995835839865	0.970419689985469	0.970419689985469	"coaE/pyrH/aroL/cyoA/gsk/yeaG/thiK/cobU/ndk/era/ackA/xylB/lsrK/lysC"	14
+"MF"	"GO:0004536"	"deoxyribonuclease activity"	"4/247"	"30/2736"	0.283957430653131	0.970419689985469	0.970419689985469	"xthA/nfo/cas1/recC"	4
+"BP"	"GO:0006873"	"cellular ion homeostasis"	"4/247"	"30/2736"	0.283957430653131	0.970419689985469	0.970419689985469	"ybbL/fepD/cutC/fhuF"	4
+"BP"	"GO:0050789"	"regulation of biological process"	"37/247"	"374/2736"	0.292866552354622	0.970419689985469	0.970419689985469	"sfsA/cdaR/cutF/iraP/phoB/ybaO/hha/aes/allR/dacA/fur/cspD/ftsK/rmf/sulA/yedQ/uvrY/cheW/proQ/prmC/yjgJ/marR/tus/rplT/infC/flgM/sbmC/alaS/norR/arfA/gntR/yhjH/xylR/torR/asnC/fabR/pepA"	37
+"MF"	"GO:0016796"	"exonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters"	"3/247"	"21/2736"	0.293366608196109	0.970419689985469	0.970419689985469	"rnd/xthA/recC"	3
+"BP"	"GO:1901701"	"cellular response to oxygen-containing compound"	"3/247"	"21/2736"	0.293366608196109	0.970419689985469	0.970419689985469	"yeiG/norW/katG"	3
+"MF"	"GO:0016788"	"hydrolase activity, acting on ester bonds"	"16/247"	"152/2736"	0.293412800406452	0.970419689985469	0.970419689985469	"aes/fes/rnd/yciA/xthA/wzb/yeiG/nfo/rtn/yfcE/yfhB/alaS/cas1/recC/yhjH/yjcC"	16
+"BP"	"GO:0050790"	"regulation of catalytic activity"	"6/247"	"50/2736"	0.294320355375197	0.970419689985469	0.970419689985469	"aes/ftsK/sulA/mliC/sbmC/nlpD"	6
+"BP"	"GO:0006635"	"fatty acid beta-oxidation"	"2/247"	"12/2736"	0.296085085235846	0.970419689985469	0.970419689985469	"fixB/fadE"	2
+"BP"	"GO:0006739"	"NADP metabolic process"	"2/247"	"12/2736"	0.296085085235846	0.970419689985469	0.970419689985469	"pntB/rpe"	2
+"BP"	"GO:0009089"	"lysine biosynthetic process via diaminopimelate"	"2/247"	"12/2736"	0.296085085235846	0.970419689985469	0.970419689985469	"asd/lysC"	2
+"CC"	"GO:0031234"	"extrinsic component of cytoplasmic side of plasma membrane"	"2/247"	"12/2736"	0.296085085235846	0.970419689985469	0.970419689985469	"hflD/era"	2
+"CC"	"GO:0031237"	"intrinsic component of periplasmic side of plasma membrane"	"2/247"	"12/2736"	0.296085085235846	0.970419689985469	0.970419689985469	"dmsA/hyaA"	2
+"BP"	"GO:2000144"	"positive regulation of DNA-templated transcription initiation"	"2/247"	"12/2736"	0.296085085235846	0.970419689985469	0.970419689985469	"ybaO/norR"	2
+"MF"	"GO:0008238"	"exopeptidase activity"	"4/247"	"31/2736"	0.305015144337658	0.970419689985469	0.970419689985469	"map/dacA/pepA/iadA"	4
+"MF"	"GO:0016765"	"transferase activity, transferring alkyl or aryl (other than methyl) groups"	"4/247"	"31/2736"	0.305015144337658	0.970419689985469	0.970419689985469	"speE/uppS/entB/gst"	4
+"BP"	"GO:0055080"	"cation homeostasis"	"4/247"	"31/2736"	0.305015144337658	0.970419689985469	0.970419689985469	"ybbL/fepD/cutC/fhuF"	4
+"MF"	"GO:0015318"	"inorganic molecular entity transmembrane transporter activity"	"15/247"	"143/2736"	0.306858470365569	0.970419689985469	0.970419689985469	"clcA/metN/cyoA/glnP/rhtA/ybjE/znuC/sapC/leuE/lysP/nupC/alaE/dctA/atpE/mgtA"	15
+"CC"	"GO:1902494"	"catalytic complex"	"19/247"	"185/2736"	0.307877135108617	0.970419689985469	0.970419689985469	"carA/fhuB/dnaE/metN/cyoA/sucA/potH/dmsA/hyaC/hyaB/hyaA/eutB/cysJ/recC/ugpC/ilvB/torC/xerC/frdB"	19
+"BP"	"GO:1901565"	"organonitrogen compound catabolic process"	"12/247"	"112/2736"	0.308408065863769	0.970419689985469	0.970419689985469	"rihC/fixB/degP/iraP/ybaO/nagA/pflB/astB/mazG/gcvH/ackA/pepA"	12
+"BP"	"GO:1901136"	"carbohydrate derivative catabolic process"	"5/247"	"41/2736"	0.309502547807369	0.970419689985469	0.970419689985469	"rihC/nagA/mazG/yihS/yihU"	5
+"MF"	"GO:0015399"	"primary active transmembrane transporter activity"	"7/247"	"61/2736"	0.310084788375368	0.970419689985469	0.970419689985469	"metN/cyoA/znuC/ugpC/atpE/rbsD/mgtA"	7
+"MF"	"GO:0016772"	"transferase activity, transferring phosphorus-containing groups"	"21/247"	"207/2736"	0.315560422484004	0.970419689985469	0.970419689985469	"citG/coaE/pyrH/cdsA/dnaE/aroL/gsk/moeA/yedQ/manY/yeaG/thiK/cobU/cpsB/fruB/ndk/ackA/gatC/xylB/lsrK/lysC"	21
+"BP"	"GO:0071705"	"nitrogen compound transport"	"17/247"	"165/2736"	0.316975799096536	0.970419689985469	0.970419689985469	"thiP/clcA/metN/tolQ/glnP/rhtA/potH/ybjE/proQ/sapC/leuE/yehW/lysP/nupC/ffh/alaE/dctA"	17
+"BP"	"GO:0009267"	"cellular response to starvation"	"3/247"	"22/2736"	0.31905808302383	0.970419689985469	0.970419689985469	"iraP/yeaG/mazG"	3
+"MF"	"GO:1901505"	"carbohydrate derivative transmembrane transporter activity"	"3/247"	"22/2736"	0.31905808302383	0.970419689985469	0.970419689985469	"nupC/ugpC/yhjD"	3
+"BP"	"GO:1901698"	"response to nitrogen compound"	"3/247"	"22/2736"	0.31905808302383	0.970419689985469	0.970419689985469	"ybaO/norW/asnC"	3
+"BP"	"GO:2000142"	"regulation of DNA-templated transcription initiation"	"3/247"	"22/2736"	0.31905808302383	0.970419689985469	0.970419689985469	"phoB/ybaO/norR"	3
+"MF"	"GO:0022890"	"inorganic cation transmembrane transporter activity"	"9/247"	"82/2736"	0.319168701066829	0.970419689985469	0.970419689985469	"clcA/cyoA/znuC/sapC/nupC/alaE/dctA/atpE/mgtA"	9
+"BP"	"GO:0006796"	"phosphate-containing compound metabolic process"	"31/247"	"314/2736"	0.319909028385261	0.970419689985469	0.970419689985469	"carA/araD/coaE/pyrH/cdsA/lpxB/aroL/cyoA/gsk/moeA/yciA/pntB/pdxH/yeaG/thiK/pyrC/cobU/wzb/pdxB/ndk/yfhB/era/mazG/ackA/rpe/xylB/pyrE/atpE/yihS/lsrK/lysC"	31
+"BP"	"GO:0022607"	"cellular component assembly"	"20/247"	"197/2736"	0.320349594250167	0.970419689985469	0.970419689985469	"erpA/skp/phoB/ybaO/maa/nagA/sulA/sufA/rplT/infC/yeiG/lysP/yfcE/norR/rplQ/rpmC/rplB/nrfG/frdB/dnaT"	20
+"BP"	"GO:0006259"	"DNA metabolic process"	"14/247"	"134/2736"	0.321221117741798	0.970419689985469	0.970419689985469	"dnaE/cspD/tus/xthA/sbmC/nfo/cas1/recC/yhbO/hofP/rtcB/xerC/pepA/dnaT"	14
+"BP"	"GO:0009401"	"phosphoenolpyruvate-dependent sugar phosphotransferase system"	"4/247"	"32/2736"	0.326234669342021	0.970419689985469	0.970419689985469	"manY/sgcB/fruB/gatC"	4
+"BP"	"GO:0050801"	"ion homeostasis"	"4/247"	"32/2736"	0.326234669342021	0.970419689985469	0.970419689985469	"ybbL/fepD/cutC/fhuF"	4
+"BP"	"GO:0098704"	"carbohydrate import across plasma membrane"	"4/247"	"32/2736"	0.326234669342021	0.970419689985469	0.970419689985469	"manY/sgcB/fruB/gatC"	4
+"BP"	"GO:0098771"	"inorganic ion homeostasis"	"4/247"	"32/2736"	0.326234669342021	0.970419689985469	0.970419689985469	"ybbL/fepD/cutC/fhuF"	4
+"MF"	"GO:0016779"	"nucleotidyltransferase activity"	"6/247"	"52/2736"	0.327188299621503	0.970419689985469	0.970419689985469	"cdsA/dnaE/moeA/yedQ/cobU/cpsB"	6
+"BP"	"GO:0006811"	"ion transport"	"23/247"	"230/2736"	0.330061422488131	0.970419689985469	0.970419689985469	"thiP/clcA/metN/cyoA/fepD/entS/glnP/rhtA/potH/ybjE/znuC/proQ/sapC/leuE/yehW/lysP/nupC/alaE/ugpC/dctA/atpE/mgtA/fhuF"	23
+"MF"	"GO:0140657"	"ATP-dependent activity"	"12/247"	"114/2736"	0.330641344622956	0.970419689985469	0.970419689985469	"metN/ftsK/znuC/clpB/recC/zapE/ugpC/atpE/ravA/rbsD/groL/mgtA"	12
+"BP"	"GO:0006650"	"glycerophospholipid metabolic process"	"2/247"	"13/2736"	0.330708335345452	0.970419689985469	0.970419689985469	"cdsA/yfhB"	2
+"BP"	"GO:0008645"	"hexose transmembrane transport"	"2/247"	"13/2736"	0.330708335345452	0.970419689985469	0.970419689985469	"manY/fruB"	2
+"BP"	"GO:0009068"	"aspartate family amino acid catabolic process"	"2/247"	"13/2736"	0.330708335345452	0.970419689985469	0.970419689985469	"pflB/ackA"	2
+"MF"	"GO:0016776"	"phosphotransferase activity, phosphate group as acceptor"	"2/247"	"13/2736"	0.330708335345452	0.970419689985469	0.970419689985469	"pyrH/ndk"	2
+"BP"	"GO:0019395"	"fatty acid oxidation"	"2/247"	"13/2736"	0.330708335345452	0.970419689985469	0.970419689985469	"fixB/fadE"	2
+"MF"	"GO:0019829"	"ATPase-coupled cation transmembrane transporter activity"	"2/247"	"13/2736"	0.330708335345452	0.970419689985469	0.970419689985469	"atpE/mgtA"	2
+"MF"	"GO:0019904"	"protein domain specific binding"	"2/247"	"13/2736"	0.330708335345452	0.970419689985469	0.970419689985469	"fhuA/cheW"	2
+"BP"	"GO:0033865"	"nucleoside bisphosphate metabolic process"	"2/247"	"13/2736"	0.330708335345452	0.970419689985469	0.970419689985469	"coaE/yciA"	2
+"BP"	"GO:0033875"	"ribonucleoside bisphosphate metabolic process"	"2/247"	"13/2736"	0.330708335345452	0.970419689985469	0.970419689985469	"coaE/yciA"	2
+"BP"	"GO:0034032"	"purine nucleoside bisphosphate metabolic process"	"2/247"	"13/2736"	0.330708335345452	0.970419689985469	0.970419689985469	"coaE/yciA"	2
+"BP"	"GO:0034440"	"lipid oxidation"	"2/247"	"13/2736"	0.330708335345452	0.970419689985469	0.970419689985469	"fixB/fadE"	2
+"BP"	"GO:0034614"	"cellular response to reactive oxygen species"	"2/247"	"13/2736"	0.330708335345452	0.970419689985469	0.970419689985469	"norW/katG"	2
+"BP"	"GO:0046451"	"diaminopimelate metabolic process"	"2/247"	"13/2736"	0.330708335345452	0.970419689985469	0.970419689985469	"asd/lysC"	2
+"BP"	"GO:0046486"	"glycerolipid metabolic process"	"2/247"	"13/2736"	0.330708335345452	0.970419689985469	0.970419689985469	"cdsA/yfhB"	2
+"MF"	"GO:0140097"	"catalytic activity, acting on DNA"	"8/247"	"73/2736"	0.336396139963903	0.970419689985469	0.970419689985469	"dnaE/ftsK/xthA/nfo/cas1/recC/rtcB/xerC"	8
+"BP"	"GO:0051179"	"localization"	"42/247"	"435/2736"	0.336977917951354	0.970419689985469	0.970419689985469	"thiP/clcA/skp/metN/cyoA/hha/fepD/entS/tolQ/glnP/rhtA/potH/ybjE/macA/yedQ/cheW/znuC/proQ/yebQ/manY/sapC/sgcB/leuE/yehW/lysP/fruB/setB/nupC/ffh/alaE/gatC/ugpC/yhjD/yhjH/dctA/yiaM/atpE/rbsD/lsrC/frdB/mgtA/fhuF"	42
+"BP"	"GO:0051128"	"regulation of cellular component organization"	"7/247"	"63/2736"	0.340313567705865	0.970419689985469	0.970419689985469	"phoB/ybaO/dacA/sulA/infC/norR/pepA"	7
+"BP"	"GO:0046395"	"carboxylic acid catabolic process"	"10/247"	"94/2736"	0.340436755160499	0.970419689985469	0.970419689985469	"fixB/fadE/ybaO/gcl/nagA/pflB/astB/gudD/gcvH/ackA"	10
+"MF"	"GO:0015144"	"carbohydrate transmembrane transporter activity"	"6/247"	"53/2736"	0.343813583913421	0.970419689985469	0.970419689985469	"manY/fruB/gatC/yiaM/rbsD/lsrC"	6
+"BP"	"GO:0051234"	"establishment of localization"	"38/247"	"393/2736"	0.344571855782367	0.970419689985469	0.970419689985469	"thiP/clcA/skp/metN/cyoA/fepD/entS/tolQ/glnP/rhtA/potH/ybjE/macA/cheW/znuC/proQ/yebQ/manY/sapC/sgcB/leuE/yehW/lysP/fruB/setB/nupC/ffh/alaE/gatC/ugpC/yhjD/dctA/yiaM/atpE/rbsD/lsrC/mgtA/fhuF"	38
+"CC"	"GO:0031233"	"intrinsic component of external side of plasma membrane"	"3/247"	"23/2736"	0.344777956681501	0.970419689985469	0.970419689985469	"cyoA/dmsA/hyaA"	3
+"BP"	"GO:0034308"	"primary alcohol metabolic process"	"3/247"	"23/2736"	0.344777956681501	0.970419689985469	0.970419689985469	"gcl/yihS/yjjX"	3
+"BP"	"GO:0098739"	"import across plasma membrane"	"5/247"	"43/2736"	0.346505182173287	0.970419689985469	0.970419689985469	"proQ/manY/sgcB/fruB/gatC"	5
+"BP"	"GO:0006417"	"regulation of translation"	"4/247"	"33/2736"	0.347545116612266	0.970419689985469	0.970419689985469	"rmf/rplT/infC/arfA"	4
+"MF"	"GO:0008270"	"zinc ion binding"	"10/247"	"95/2736"	0.352929952647108	0.970419689985469	0.970419689985469	"araD/nagA/fur/pyrC/yeiR/alaS/casA/rplB/zraP/iadA"	10
+"MF"	"GO:0016773"	"phosphotransferase activity, alcohol group as acceptor"	"10/247"	"95/2736"	0.352929952647108	0.970419689985469	0.970419689985469	"coaE/aroL/gsk/manY/yeaG/thiK/cobU/fruB/gatC/xylB"	10
+"BP"	"GO:0065008"	"regulation of biological quality"	"10/247"	"95/2736"	0.352929952647108	0.970419689985469	0.970419689985469	"skp/ybbL/fepD/dacA/hcp/cutC/alaS/norW/gcvH/fhuF"	10
+"MF"	"GO:0022853"	"active ion transmembrane transporter activity"	"7/247"	"64/2736"	0.355577893274542	0.970419689985469	0.970419689985469	"clcA/nupC/alaE/ugpC/dctA/atpE/mgtA"	7
+"CC"	"GO:0032991"	"protein-containing complex"	"33/247"	"341/2736"	0.357738604720301	0.970419689985469	0.970419689985469	"carA/fhuB/dnaE/metN/cyoA/fur/sucA/potH/macA/dmsA/cheW/hyaC/hyaB/hyaA/pdxH/rplT/rpmI/infC/eutB/ffh/cysJ/recC/rplQ/rpmC/rplB/ugpC/ilvB/torC/atpE/xerC/groS/groL/frdB"	33
+"BP"	"GO:0034654"	"nucleobase-containing compound biosynthetic process"	"34/247"	"352/2736"	0.35911151045201	0.970419689985469	0.970419689985469	"carA/coaE/sfsA/cdaR/pyrH/cdsA/dnaE/yafC/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/yjgJ/ykgA/ydcR/marR/rplT/flgM/pyrC/alaS/norR/mazG/gntR/xylR/pyrE/torR/atpE/asnC/fabR/pepA"	34
+"BP"	"GO:0051641"	"cellular localization"	"6/247"	"54/2736"	0.360521746765683	0.970419689985469	0.970419689985469	"skp/fepD/tolQ/cheW/ffh/fhuF"	6
+"BP"	"GO:0016043"	"cellular component organization"	"27/247"	"277/2736"	0.362606244306776	0.970419689985469	0.970419689985469	"frr/erpA/skp/phoB/ybaO/maa/dacA/nagA/sulA/prmC/sufA/rplT/infC/pbpG/yeiG/lysP/yfcE/norR/cas1/recC/rplQ/rpmC/rplB/nrfG/frdB/pepA/dnaT"	27
+"MF"	"GO:0004857"	"enzyme inhibitor activity"	"2/247"	"14/2736"	0.364842053641168	0.970419689985469	0.970419689985469	"mliC/sbmC"	2
+"BP"	"GO:0006089"	"lactate metabolic process"	"2/247"	"14/2736"	0.364842053641168	0.970419689985469	0.970419689985469	"ykgA/yhbO"	2
+"BP"	"GO:0006972"	"hyperosmotic response"	"2/247"	"14/2736"	0.364842053641168	0.970419689985469	0.970419689985469	"proQ/cpsB"	2
+"BP"	"GO:0007059"	"chromosome segregation"	"2/247"	"14/2736"	0.364842053641168	0.970419689985469	0.970419689985469	"ftsK/setB"	2
+"MF"	"GO:0008135"	"translation factor activity, RNA binding"	"2/247"	"14/2736"	0.364842053641168	0.970419689985469	0.970419689985469	"rmf/infC"	2
+"BP"	"GO:0009071"	"serine family amino acid catabolic process"	"2/247"	"14/2736"	0.364842053641168	0.970419689985469	0.970419689985469	"ybaO/gcvH"	2
+"MF"	"GO:0015298"	"solute:cation antiporter activity"	"2/247"	"14/2736"	0.364842053641168	0.970419689985469	0.970419689985469	"clcA/alaE"	2
+"BP"	"GO:0015847"	"putrescine transport"	"2/247"	"14/2736"	0.364842053641168	0.970419689985469	0.970419689985469	"potH/sapC"	2
+"BP"	"GO:0030163"	"protein catabolic process"	"2/247"	"14/2736"	0.364842053641168	0.970419689985469	0.970419689985469	"degP/iraP"	2
+"MF"	"GO:0042625"	"ATPase-coupled ion transmembrane transporter activity"	"2/247"	"14/2736"	0.364842053641168	0.970419689985469	0.970419689985469	"atpE/mgtA"	2
+"BP"	"GO:0090150"	"establishment of protein localization to membrane"	"2/247"	"14/2736"	0.364842053641168	0.970419689985469	0.970419689985469	"skp/ffh"	2
+"CC"	"GO:0098567"	"periplasmic side of plasma membrane"	"2/247"	"14/2736"	0.364842053641168	0.970419689985469	0.970419689985469	"dmsA/hyaA"	2
+"BP"	"GO:1901606"	"alpha-amino acid catabolic process"	"5/247"	"44/2736"	0.365126302676561	0.970419689985469	0.970419689985469	"ybaO/pflB/astB/gcvH/ackA"	5
+"BP"	"GO:0006066"	"alcohol metabolic process"	"4/247"	"34/2736"	0.368879215877262	0.970419689985469	0.970419689985469	"uppS/gcl/yihS/yjjX"	4
+"BP"	"GO:0009199"	"ribonucleoside triphosphate metabolic process"	"4/247"	"34/2736"	0.368879215877262	0.970419689985469	0.970419689985469	"cyoA/moeA/mazG/atpE"	4
+"BP"	"GO:0034248"	"regulation of cellular amide metabolic process"	"4/247"	"34/2736"	0.368879215877262	0.970419689985469	0.970419689985469	"rmf/rplT/infC/arfA"	4
+"MF"	"GO:0050660"	"flavin adenine dinucleotide binding"	"4/247"	"34/2736"	0.368879215877262	0.970419689985469	0.970419689985469	"fixB/gcl/norW/cysJ"	4
+"BP"	"GO:0006352"	"DNA-templated transcription initiation"	"3/247"	"24/2736"	0.370413862556181	0.970419689985469	0.970419689985469	"phoB/ybaO/norR"	3
+"BP"	"GO:0009084"	"glutamine family amino acid biosynthetic process"	"3/247"	"24/2736"	0.370413862556181	0.970419689985469	0.970419689985469	"carA/argA/argI"	3
+"BP"	"GO:0031669"	"cellular response to nutrient levels"	"3/247"	"24/2736"	0.370413862556181	0.970419689985469	0.970419689985469	"iraP/yeaG/mazG"	3
+"BP"	"GO:0034219"	"carbohydrate transmembrane transport"	"7/247"	"65/2736"	0.370908407329062	0.970419689985469	0.970419689985469	"manY/sgcB/fruB/gatC/yiaM/rbsD/lsrC"	7
+"CC"	"GO:1990904"	"ribonucleoprotein complex"	"7/247"	"65/2736"	0.370908407329062	0.970419689985469	0.970419689985469	"rplT/rpmI/infC/ffh/rplQ/rpmC/rplB"	7
+"BP"	"GO:0045892"	"negative regulation of DNA-templated transcription"	"8/247"	"76/2736"	0.378971264597144	0.970419689985469	0.970419689985469	"allR/fur/yjgJ/marR/alaS/gntR/asnC/fabR"	8
+"BP"	"GO:1902679"	"negative regulation of RNA biosynthetic process"	"8/247"	"76/2736"	0.378971264597144	0.970419689985469	0.970419689985469	"allR/fur/yjgJ/marR/alaS/gntR/asnC/fabR"	8
+"BP"	"GO:1903507"	"negative regulation of nucleic acid-templated transcription"	"8/247"	"76/2736"	0.378971264597144	0.970419689985469	0.970419689985469	"allR/fur/yjgJ/marR/alaS/gntR/asnC/fabR"	8
+"BP"	"GO:0006793"	"phosphorus metabolic process"	"31/247"	"323/2736"	0.383275411245505	0.970419689985469	0.970419689985469	"carA/araD/coaE/pyrH/cdsA/lpxB/aroL/cyoA/gsk/moeA/yciA/pntB/pdxH/yeaG/thiK/pyrC/cobU/wzb/pdxB/ndk/yfhB/era/mazG/ackA/rpe/xylB/pyrE/atpE/yihS/lsrK/lysC"	31
+"BP"	"GO:0051260"	"protein homooligomerization"	"5/247"	"45/2736"	0.38376817480001	0.970419689985469	0.970419689985469	"maa/nagA/yeiG/lysP/yfcE"	5
+"BP"	"GO:0009605"	"response to external stimulus"	"9/247"	"87/2736"	0.38544246968299	0.970419689985469	0.970419689985469	"iraP/cspD/sulA/cheW/yeaG/casA/mazG/recC/hofP"	9
+"BP"	"GO:0009069"	"serine family amino acid metabolic process"	"4/247"	"35/2736"	0.390173582095228	0.970419689985469	0.970419689985469	"ybaO/gcvH/asd/lysC"	4
+"BP"	"GO:0009144"	"purine nucleoside triphosphate metabolic process"	"4/247"	"35/2736"	0.390173582095228	0.970419689985469	0.970419689985469	"cyoA/moeA/mazG/atpE"	4
+"CC"	"GO:0043190"	"ATP-binding cassette (ABC) transporter complex"	"4/247"	"35/2736"	0.390173582095228	0.970419689985469	0.970419689985469	"fhuB/metN/potH/ugpC"	4
+"BP"	"GO:0055082"	"cellular chemical homeostasis"	"4/247"	"35/2736"	0.390173582095228	0.970419689985469	0.970419689985469	"ybbL/fepD/cutC/fhuF"	4
+"MF"	"GO:0022857"	"transmembrane transporter activity"	"27/247"	"281/2736"	0.393190568871886	0.970419689985469	0.970419689985469	"thiP/clcA/metN/cyoA/fepD/glnP/rhtA/ybjE/macA/znuC/yebQ/manY/sapC/leuE/lysP/fruB/nupC/alaE/gatC/ugpC/yhjD/dctA/yiaM/atpE/rbsD/lsrC/mgtA"	27
+"CC"	"GO:0009897"	"external side of plasma membrane"	"3/247"	"25/2736"	0.395864150447859	0.970419689985469	0.970419689985469	"cyoA/dmsA/hyaA"	3
+"MF"	"GO:0016407"	"acetyltransferase activity"	"3/247"	"25/2736"	0.395864150447859	0.970419689985469	0.970419689985469	"maa/pflB/argA"	3
+"BP"	"GO:0006099"	"tricarboxylic acid cycle"	"2/247"	"15/2736"	0.398292827479942	0.970419689985469	0.970419689985469	"sucA/acnA"	2
+"BP"	"GO:0006101"	"citrate metabolic process"	"2/247"	"15/2736"	0.398292827479942	0.970419689985469	0.970419689985469	"sucA/acnA"	2
+"BP"	"GO:0009062"	"fatty acid catabolic process"	"2/247"	"15/2736"	0.398292827479942	0.970419689985469	0.970419689985469	"fixB/fadE"	2
+"BP"	"GO:0009085"	"lysine biosynthetic process"	"2/247"	"15/2736"	0.398292827479942	0.970419689985469	0.970419689985469	"asd/lysC"	2
+"MF"	"GO:0015175"	"neutral amino acid transmembrane transporter activity"	"2/247"	"15/2736"	0.398292827479942	0.970419689985469	0.970419689985469	"rhtA/leuE"	2
+"MF"	"GO:0016597"	"amino acid binding"	"2/247"	"15/2736"	0.398292827479942	0.970419689985469	0.970419689985469	"alaS/asnC"	2
+"MF"	"GO:0016895"	"exodeoxyribonuclease activity, producing 5'-phosphomonoesters"	"2/247"	"15/2736"	0.398292827479942	0.970419689985469	0.970419689985469	"xthA/recC"	2
+"BP"	"GO:0044403"	"biological process involved in symbiotic interaction"	"2/247"	"15/2736"	0.398292827479942	0.970419689985469	0.970419689985469	"groS/groL"	2
+"BP"	"GO:0051247"	"positive regulation of protein metabolic process"	"2/247"	"15/2736"	0.398292827479942	0.970419689985469	0.970419689985469	"cheW/infC"	2
+"MF"	"GO:1901682"	"sulfur compound transmembrane transporter activity"	"2/247"	"15/2736"	0.398292827479942	0.970419689985469	0.970419689985469	"thiP/metN"	2
+"MF"	"GO:0016879"	"ligase activity, forming carbon-nitrogen bonds"	"5/247"	"46/2736"	0.402388757567906	0.970419689985469	0.970419689985469	"carA/tilS/entB/folC/asnA"	5
+"BP"	"GO:0098660"	"inorganic ion transmembrane transport"	"10/247"	"99/2736"	0.403454666931679	0.970419689985469	0.970419689985469	"clcA/cyoA/fepD/znuC/sapC/nupC/alaE/dctA/atpE/mgtA"	10
+"BP"	"GO:0019538"	"protein metabolic process"	"34/247"	"359/2736"	0.407366851586092	0.970419689985469	0.970419689985469	"frr/citG/erpA/degP/map/skp/iraP/dacA/moeA/rmf/cheW/prmC/sufA/rplT/infC/yeaG/flgM/wzb/pbpG/era/clpB/alaS/yhbO/yhbS/arfA/rplQ/rpmC/rplB/ppiA/torD/nrfG/msrA/pepA/iadA"	34
+"MF"	"GO:0016491"	"oxidoreductase activity"	"27/247"	"283/2736"	0.408642923463111	0.970419689985469	0.970419689985469	"fixB/cueO/dkgB/fadE/cyoA/sucA/hcp/dmsA/hyaB/hyaA/pntB/pdxH/yeaE/ghrA/pdxB/bcp/norW/cysJ/dkgA/asd/dlgD/torA/torC/yihU/katG/frdB/msrA"	27
+"BP"	"GO:0044010"	"single-species biofilm formation"	"4/247"	"36/2736"	0.411368907041216	0.970419689985469	0.970419689985469	"hha/proQ/yjgI/lsrK"	4
+"BP"	"GO:0051604"	"protein maturation"	"4/247"	"36/2736"	0.411368907041216	0.970419689985469	0.970419689985469	"erpA/skp/sufA/torD"	4
+"BP"	"GO:0051703"	"biological process involved in intraspecies interaction between organisms"	"4/247"	"36/2736"	0.411368907041216	0.970419689985469	0.970419689985469	"hha/proQ/yjgI/lsrK"	4
+"BP"	"GO:0098662"	"inorganic cation transmembrane transport"	"9/247"	"89/2736"	0.41228397047919	0.970419689985469	0.970419689985469	"clcA/cyoA/fepD/znuC/sapC/nupC/alaE/dctA/atpE"	9
+"MF"	"GO:0003700"	"DNA-binding transcription factor activity"	"10/247"	"100/2736"	0.416155627146231	0.970419689985469	0.970419689985469	"cdaR/ybaO/allR/fur/yjgJ/alaS/norR/xylR/asnC/fabR"	10
+"BP"	"GO:0010035"	"response to inorganic substance"	"7/247"	"68/2736"	0.417052580599918	0.970419689985469	0.970419689985469	"cueO/ykgI/hcp/cutC/gst/norW/katG"	7
+"MF"	"GO:0005215"	"transporter activity"	"28/247"	"295/2736"	0.417267704216227	0.970419689985469	0.970419689985469	"thiP/clcA/metN/cyoA/fepD/glnP/rhtA/ybjE/macA/znuC/yebQ/manY/sapC/leuE/yehW/lysP/fruB/nupC/alaE/gatC/ugpC/yhjD/dctA/yiaM/atpE/rbsD/lsrC/mgtA"	28
+"MF"	"GO:0016810"	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds"	"5/247"	"47/2736"	0.420948029866784	0.970419689985469	0.970419689985469	"yadE/ylbA/nagA/astB/pyrC"	5
+"BP"	"GO:0031667"	"response to nutrient levels"	"5/247"	"47/2736"	0.420948029866784	0.970419689985469	0.970419689985469	"iraP/cspD/yeaG/mazG/hofP"	5
+"MF"	"GO:0051539"	"4 iron, 4 sulfur cluster binding"	"5/247"	"47/2736"	0.420948029866784	0.970419689985469	0.970419689985469	"erpA/dmsA/hyaA/acnA/frdB"	5
+"MF"	"GO:0016854"	"racemase and epimerase activity"	"3/247"	"26/2736"	0.421037702734345	0.970419689985469	0.970419689985469	"araD/nanM/rpe"	3
+"MF"	"GO:0003676"	"nucleic acid binding"	"24/247"	"252/2736"	0.421557146338134	0.970419689985469	0.970419689985469	"sfsA/yaeB/ybaO/allR/fur/cspD/ftsK/rmf/proQ/acnA/yjgJ/marR/tus/rplT/infC/era/norR/casA/arfA/rplB/asnC/xerC/fabR/pepA"	24
+"BP"	"GO:0019438"	"aromatic compound biosynthetic process"	"40/247"	"427/2736"	0.424038444270847	0.970419689985469	0.970419689985469	"carA/coaE/sfsA/cdaR/pyrH/cdsA/dnaE/yafC/iraP/aroL/phoB/ybaO/aes/allR/entB/fur/cspD/ftsK/yjgJ/ykgA/ydcR/marR/pdxH/rplT/flgM/pyrC/folC/pdxB/pheA/alaS/norR/mazG/gntR/xylR/pyrE/torR/atpE/asnC/fabR/pepA"	40
+"MF"	"GO:0022804"	"active transmembrane transporter activity"	"14/247"	"144/2736"	0.426565308505521	0.970419689985469	0.970419689985469	"clcA/metN/cyoA/znuC/manY/fruB/nupC/alaE/gatC/ugpC/dctA/atpE/rbsD/mgtA"	14
+"BP"	"GO:0046677"	"response to antibiotic"	"6/247"	"58/2736"	0.427547314823182	0.970419689985469	0.970419689985469	"entS/hcp/ftsK/marR/gst/katG"	6
+"BP"	"GO:0000003"	"reproduction"	"2/247"	"16/2736"	0.430905883089016	0.970419689985469	0.970419689985469	"sulA/pbpG"	2
+"MF"	"GO:0004529"	"exodeoxyribonuclease activity"	"2/247"	"16/2736"	0.430905883089016	0.970419689985469	0.970419689985469	"xthA/recC"	2
+"BP"	"GO:0010243"	"response to organonitrogen compound"	"2/247"	"16/2736"	0.430905883089016	0.970419689985469	0.970419689985469	"ybaO/asnC"	2
+"MF"	"GO:0015101"	"organic cation transmembrane transporter activity"	"2/247"	"16/2736"	0.430905883089016	0.970419689985469	0.970419689985469	"thiP/sapC"	2
+"BP"	"GO:0015846"	"polyamine transport"	"2/247"	"16/2736"	0.430905883089016	0.970419689985469	0.970419689985469	"potH/sapC"	2
+"BP"	"GO:0016042"	"lipid catabolic process"	"2/247"	"16/2736"	0.430905883089016	0.970419689985469	0.970419689985469	"fixB/fadE"	2
+"BP"	"GO:0016226"	"iron-sulfur cluster assembly"	"2/247"	"16/2736"	0.430905883089016	0.970419689985469	0.970419689985469	"erpA/sufA"	2
+"BP"	"GO:0019954"	"asexual reproduction"	"2/247"	"16/2736"	0.430905883089016	0.970419689985469	0.970419689985469	"sulA/pbpG"	2
+"BP"	"GO:0022414"	"reproductive process"	"2/247"	"16/2736"	0.430905883089016	0.970419689985469	0.970419689985469	"sulA/pbpG"	2
+"BP"	"GO:0032505"	"reproduction of a single-celled organism"	"2/247"	"16/2736"	0.430905883089016	0.970419689985469	0.970419689985469	"sulA/pbpG"	2
+"BP"	"GO:0043093"	"FtsZ-dependent cytokinesis"	"2/247"	"16/2736"	0.430905883089016	0.970419689985469	0.970419689985469	"sulA/pbpG"	2
+"BP"	"GO:0044242"	"cellular lipid catabolic process"	"2/247"	"16/2736"	0.430905883089016	0.970419689985469	0.970419689985469	"fixB/fadE"	2
+"BP"	"GO:0072350"	"tricarboxylic acid metabolic process"	"2/247"	"16/2736"	0.430905883089016	0.970419689985469	0.970419689985469	"sucA/acnA"	2
+"BP"	"GO:0000041"	"transition metal ion transport"	"4/247"	"37/2736"	0.432410084169415	0.970419689985469	0.970419689985469	"fepD/entS/znuC/fhuF"	4
+"MF"	"GO:0031406"	"carboxylic acid binding"	"4/247"	"37/2736"	0.432410084169415	0.970419689985469	0.970419689985469	"dacA/alaS/gcvH/asnC"	4
+"BP"	"GO:0042710"	"biofilm formation"	"4/247"	"37/2736"	0.432410084169415	0.970419689985469	0.970419689985469	"hha/proQ/yjgI/lsrK"	4
+"MF"	"GO:0043177"	"organic acid binding"	"4/247"	"37/2736"	0.432410084169415	0.970419689985469	0.970419689985469	"dacA/alaS/gcvH/asnC"	4
+"BP"	"GO:0048878"	"chemical homeostasis"	"4/247"	"37/2736"	0.432410084169415	0.970419689985469	0.970419689985469	"ybbL/fepD/cutC/fhuF"	4
+"BP"	"GO:0098630"	"aggregation of unicellular organisms"	"4/247"	"37/2736"	0.432410084169415	0.970419689985469	0.970419689985469	"hha/proQ/yjgI/lsrK"	4
+"BP"	"GO:0098743"	"cell aggregation"	"4/247"	"37/2736"	0.432410084169415	0.970419689985469	0.970419689985469	"hha/proQ/yjgI/lsrK"	4
+"BP"	"GO:0051253"	"negative regulation of RNA metabolic process"	"8/247"	"80/2736"	0.436148551786219	0.970419689985469	0.970419689985469	"allR/fur/yjgJ/marR/alaS/gntR/asnC/fabR"	8
+"BP"	"GO:0009063"	"cellular amino acid catabolic process"	"5/247"	"48/2736"	0.439408107079041	0.970419689985469	0.970419689985469	"ybaO/pflB/astB/gcvH/ackA"	5
+"BP"	"GO:0055085"	"transmembrane transport"	"29/247"	"309/2736"	0.440678130979277	0.970419689985469	0.970419689985469	"thiP/clcA/metN/cyoA/fepD/glnP/rhtA/ybjE/macA/znuC/proQ/yebQ/manY/sapC/sgcB/leuE/lysP/fruB/nupC/alaE/gatC/ugpC/yhjD/dctA/yiaM/atpE/rbsD/lsrC/mgtA"	29
+"BP"	"GO:0009628"	"response to abiotic stimulus"	"18/247"	"189/2736"	0.442077226333692	0.970419689985469	0.970419689985469	"degP/yafC/yahO/cspD/ftsK/cspG/proQ/marR/infC/hflD/cpsB/recO/clpB/recC/yhbO/ibpA/groS/groL"	18
+"BP"	"GO:0006810"	"transport"	"36/247"	"386/2736"	0.442917849624759	0.970419689985469	0.970419689985469	"thiP/clcA/metN/cyoA/fepD/entS/tolQ/glnP/rhtA/potH/ybjE/macA/znuC/proQ/yebQ/manY/sapC/sgcB/leuE/yehW/lysP/fruB/setB/nupC/ffh/alaE/gatC/ugpC/yhjD/dctA/yiaM/atpE/rbsD/lsrC/mgtA/fhuF"	36
+"BP"	"GO:0065009"	"regulation of molecular function"	"6/247"	"59/2736"	0.444202348692918	0.970419689985469	0.970419689985469	"aes/ftsK/sulA/mliC/sbmC/nlpD"	6
+"MF"	"GO:0004519"	"endonuclease activity"	"3/247"	"27/2736"	0.445853623373956	0.970419689985469	0.970419689985469	"nfo/cas1/recC"	3
+"MF"	"GO:0004527"	"exonuclease activity"	"3/247"	"27/2736"	0.445853623373956	0.970419689985469	0.970419689985469	"rnd/xthA/recC"	3
+"BP"	"GO:0009067"	"aspartate family amino acid biosynthetic process"	"3/247"	"27/2736"	0.445853623373956	0.970419689985469	0.970419689985469	"asd/asnA/lysC"	3
+"MF"	"GO:0020037"	"heme binding"	"3/247"	"27/2736"	0.445853623373956	0.970419689985469	0.970419689985469	"hyaC/torC/katG"	3
+"BP"	"GO:0070887"	"cellular response to chemical stimulus"	"8/247"	"81/2736"	0.450390836541572	0.970419689985469	0.970419689985469	"hcp/ftsK/proQ/marR/yeiG/bcp/norW/katG"	8
+"BP"	"GO:0072521"	"purine-containing compound metabolic process"	"8/247"	"81/2736"	0.450390836541572	0.970419689985469	0.970419689985469	"rihC/coaE/cyoA/moeA/yciA/ndk/mazG/atpE"	8
+"MF"	"GO:0016874"	"ligase activity"	"9/247"	"92/2736"	0.452506271958779	0.970419689985469	0.970419689985469	"carA/tilS/prpE/entB/folC/alaS/rtcB/atpE/asnA"	9
+"CC"	"GO:0098533"	"ATPase dependent transmembrane transport complex"	"4/247"	"38/2736"	0.453246274566661	0.970419689985469	0.970419689985469	"fhuB/metN/potH/ugpC"	4
+"BP"	"GO:0009066"	"aspartate family amino acid metabolic process"	"5/247"	"49/2736"	0.457733329831144	0.970419689985469	0.970419689985469	"pflB/ackA/asd/asnA/lysC"	5
+"BP"	"GO:0040011"	"locomotion"	"5/247"	"49/2736"	0.457733329831144	0.970419689985469	0.970419689985469	"hha/yedQ/cheW/yhjH/frdB"	5
+"CC"	"GO:1902495"	"transmembrane transporter complex"	"6/247"	"60/2736"	0.460761294499403	0.970419689985469	0.970419689985469	"fhuB/metN/cyoA/potH/macA/ugpC"	6
+"CC"	"GO:1990351"	"transporter complex"	"6/247"	"60/2736"	0.460761294499403	0.970419689985469	0.970419689985469	"fhuB/metN/cyoA/potH/macA/ugpC"	6
+"BP"	"GO:0043603"	"cellular amide metabolic process"	"18/247"	"191/2736"	0.460958961528573	0.970419689985469	0.970419689985469	"frr/carA/entB/nagA/rmf/prmC/yciA/rplT/infC/folC/alaS/arfA/rplQ/rpmC/rplB/asnA/argI/pepA"	18
+"MF"	"GO:0004520"	"endodeoxyribonuclease activity"	"2/247"	"17/2736"	0.462559731180177	0.970419689985469	0.970419689985469	"nfo/cas1"	2
+"BP"	"GO:0009070"	"serine family amino acid biosynthetic process"	"2/247"	"17/2736"	0.462559731180177	0.970419689985469	0.970419689985469	"asd/lysC"	2
+"MF"	"GO:0015295"	"solute:proton symporter activity"	"2/247"	"17/2736"	0.462559731180177	0.970419689985469	0.970419689985469	"nupC/dctA"	2
+"BP"	"GO:0031163"	"metallo-sulfur cluster assembly"	"2/247"	"17/2736"	0.462559731180177	0.970419689985469	0.970419689985469	"erpA/sufA"	2
+"MF"	"GO:0033293"	"monocarboxylic acid binding"	"2/247"	"17/2736"	0.462559731180177	0.970419689985469	0.970419689985469	"dacA/gcvH"	2
+"BP"	"GO:0043085"	"positive regulation of catalytic activity"	"2/247"	"17/2736"	0.462559731180177	0.970419689985469	0.970419689985469	"ftsK/nlpD"	2
+"BP"	"GO:0045229"	"external encapsulating structure organization"	"2/247"	"17/2736"	0.462559731180177	0.970419689985469	0.970419689985469	"skp/pbpG"	2
+"BP"	"GO:0006163"	"purine nucleotide metabolic process"	"7/247"	"71/2736"	0.462940413681347	0.970419689985469	0.970419689985469	"coaE/cyoA/moeA/yciA/ndk/mazG/atpE"	7
+"MF"	"GO:0042578"	"phosphoric ester hydrolase activity"	"7/247"	"71/2736"	0.462940413681347	0.970419689985469	0.970419689985469	"wzb/nfo/rtn/yfcE/yfhB/yhjH/yjcC"	7
+"BP"	"GO:0043604"	"amide biosynthetic process"	"15/247"	"159/2736"	0.469640074333515	0.970419689985469	0.970419689985469	"frr/carA/entB/rmf/prmC/rplT/infC/folC/alaS/arfA/rplQ/rpmC/rplB/asnA/argI"	15
+"BP"	"GO:0006826"	"iron ion transport"	"3/247"	"28/2736"	0.470240830434411	0.970419689985469	0.970419689985469	"fepD/entS/fhuF"	3
+"CC"	"GO:0032153"	"cell division site"	"3/247"	"28/2736"	0.470240830434411	0.970419689985469	0.970419689985469	"tolQ/nlpD/zapE"	3
+"MF"	"GO:0033218"	"amide binding"	"3/247"	"28/2736"	0.470240830434411	0.970419689985469	0.970419689985469	"entB/dacA/torD"	3
+"BP"	"GO:0048870"	"cell motility"	"4/247"	"39/2736"	0.473830921417864	0.970419689985469	0.970419689985469	"hha/yedQ/yhjH/frdB"	4
+"BP"	"GO:0006855"	"xenobiotic transmembrane transport"	"6/247"	"61/2736"	0.477198731531116	0.970419689985469	0.970419689985469	"thiP/metN/rhtA/ybjE/macA/dctA"	6
+"MF"	"GO:0016616"	"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"	"6/247"	"61/2736"	0.477198731531116	0.970419689985469	0.970419689985469	"dkgB/ghrA/pdxB/dkgA/dlgD/yihU"	6
+"MF"	"GO:0008233"	"peptidase activity"	"7/247"	"72/2736"	0.478078966518676	0.970419689985469	0.970419689985469	"degP/map/dacA/pbpG/clpB/pepA/iadA"	7
+"BP"	"GO:0010629"	"negative regulation of gene expression"	"10/247"	"106/2736"	0.491947194619594	0.970419689985469	0.970419689985469	"allR/fur/rmf/yjgJ/marR/rplT/alaS/gntR/asnC/fabR"	10
+"BP"	"GO:0007154"	"cell communication"	"9/247"	"95/2736"	0.492327863629707	0.970419689985469	0.970419689985469	"iraP/sulA/uvrY/cheW/proQ/yeaG/mazG/torR/lsrK"	9
+"BP"	"GO:0006508"	"proteolysis"	"8/247"	"84/2736"	0.492715360363022	0.970419689985469	0.970419689985469	"degP/map/dacA/flgM/pbpG/clpB/pepA/iadA"	8
+"BP"	"GO:0006553"	"lysine metabolic process"	"2/247"	"18/2736"	0.493161458447049	0.970419689985469	0.970419689985469	"asd/lysC"	2
+"BP"	"GO:0030258"	"lipid modification"	"2/247"	"18/2736"	0.493161458447049	0.970419689985469	0.970419689985469	"fixB/fadE"	2
+"MF"	"GO:0060089"	"molecular transducer activity"	"2/247"	"18/2736"	0.493161458447049	0.970419689985469	0.970419689985469	"uvrY/torR"	2
+"MF"	"GO:0140359"	"ABC-type transporter activity"	"2/247"	"18/2736"	0.493161458447049	0.970419689985469	0.970419689985469	"ugpC/rbsD"	2
+"MF"	"GO:0004518"	"nuclease activity"	"5/247"	"51/2736"	0.493848055093279	0.970419689985469	0.970419689985469	"rnd/xthA/nfo/cas1/recC"	5
+"BP"	"GO:0009141"	"nucleoside triphosphate metabolic process"	"4/247"	"40/2736"	0.494121719954729	0.970419689985469	0.970419689985469	"cyoA/moeA/mazG/atpE"	4
+"CC"	"GO:0009986"	"cell surface"	"3/247"	"29/2736"	0.494137577814181	0.970419689985469	0.970419689985469	"cyoA/dmsA/hyaA"	3
+"MF"	"GO:0032561"	"guanyl ribonucleotide binding"	"3/247"	"29/2736"	0.494137577814181	0.970419689985469	0.970419689985469	"yjgI/era/ffh"	3
+"BP"	"GO:0042908"	"xenobiotic transport"	"6/247"	"63/2736"	0.50961457287214	0.970419689985469	0.970419689985469	"thiP/metN/rhtA/ybjE/macA/dctA"	6
+"BP"	"GO:0022618"	"ribonucleoprotein complex assembly"	"5/247"	"52/2736"	0.511577816313681	0.970419689985469	0.970419689985469	"rplT/infC/rplQ/rpmC/rplB"	5
+"BP"	"GO:0051301"	"cell division"	"5/247"	"52/2736"	0.511577816313681	0.970419689985469	0.970419689985469	"ftsK/sulA/pbpG/nlpD/zapE"	5
+"BP"	"GO:0090305"	"nucleic acid phosphodiester bond hydrolysis"	"5/247"	"52/2736"	0.511577816313681	0.970419689985469	0.970419689985469	"rnd/xthA/nfo/cas1/recC"	5
+"BP"	"GO:0071554"	"cell wall organization or biogenesis"	"4/247"	"41/2736"	0.514080549376065	0.970419689985469	0.970419689985469	"uppS/dacA/nagZ/pbpG"	4
+"BP"	"GO:0006261"	"DNA-templated DNA replication"	"3/247"	"30/2736"	0.517490927498742	0.970419689985469	0.970419689985469	"tus/sbmC/dnaT"	3
+"MF"	"GO:0019001"	"guanyl nucleotide binding"	"3/247"	"30/2736"	0.517490927498742	0.970419689985469	0.970419689985469	"yjgI/era/ffh"	3
+"MF"	"GO:0046906"	"tetrapyrrole binding"	"3/247"	"30/2736"	0.517490927498742	0.970419689985469	0.970419689985469	"hyaC/torC/katG"	3
+"MF"	"GO:0043565"	"sequence-specific DNA binding"	"8/247"	"86/2736"	0.520439045346093	0.970419689985469	0.970419689985469	"ybaO/fur/ftsK/yjgJ/tus/norR/asnC/fabR"	8
+"MF"	"GO:0005525"	"GTP binding"	"2/247"	"19/2736"	0.522642592662466	0.970419689985469	0.970419689985469	"era/ffh"	2
+"MF"	"GO:0008236"	"serine-type peptidase activity"	"2/247"	"19/2736"	0.522642592662466	0.970419689985469	0.970419689985469	"degP/dacA"	2
+"MF"	"GO:0016881"	"acid-amino acid ligase activity"	"2/247"	"19/2736"	0.522642592662466	0.970419689985469	0.970419689985469	"entB/folC"	2
+"MF"	"GO:0017171"	"serine hydrolase activity"	"2/247"	"19/2736"	0.522642592662466	0.970419689985469	0.970419689985469	"degP/dacA"	2
+"BP"	"GO:0044093"	"positive regulation of molecular function"	"2/247"	"19/2736"	0.522642592662466	0.970419689985469	0.970419689985469	"ftsK/nlpD"	2
+"BP"	"GO:0051259"	"protein complex oligomerization"	"5/247"	"53/2736"	0.529053257188708	0.970419689985469	0.970419689985469	"maa/nagA/yeiG/lysP/yfcE"	5
+"BP"	"GO:0071826"	"ribonucleoprotein complex subunit organization"	"5/247"	"53/2736"	0.529053257188708	0.970419689985469	0.970419689985469	"rplT/infC/rplQ/rpmC/rplB"	5
+"BP"	"GO:0055086"	"nucleobase-containing small molecule metabolic process"	"15/247"	"165/2736"	0.530756716461226	0.970419689985469	0.970419689985469	"rihC/carA/coaE/pyrH/cdsA/cyoA/moeA/yciA/pntB/pyrC/ndk/mazG/rpe/pyrE/atpE"	15
+"BP"	"GO:0009064"	"glutamine family amino acid metabolic process"	"4/247"	"42/2736"	0.533673372727161	0.970419689985469	0.970419689985469	"carA/astB/argA/argI"	4
+"BP"	"GO:0006790"	"sulfur compound metabolic process"	"8/247"	"87/2736"	0.53410958465375	0.970419689985469	0.970419689985469	"erpA/ybaO/yciA/sufA/cysJ/yihS/yihU/yjjX"	8
+"MF"	"GO:0004175"	"endopeptidase activity"	"3/247"	"31/2736"	0.540256189980287	0.970419689985469	0.970419689985469	"degP/dacA/pbpG"	3
+"BP"	"GO:0007049"	"cell cycle"	"3/247"	"31/2736"	0.540256189980287	0.970419689985469	0.970419689985469	"sulA/pbpG/dnaT"	3
+"BP"	"GO:0022402"	"cell cycle process"	"3/247"	"31/2736"	0.540256189980287	0.970419689985469	0.970419689985469	"sulA/pbpG/dnaT"	3
+"CC"	"GO:1990234"	"transferase complex"	"3/247"	"31/2736"	0.540256189980287	0.970419689985469	0.970419689985469	"dnaE/sucA/ilvB"	3
+"BP"	"GO:0090407"	"organophosphate biosynthetic process"	"13/247"	"144/2736"	0.544980655276402	0.970419689985469	0.970419689985469	"carA/araD/coaE/pyrH/cdsA/lpxB/moeA/pdxH/pyrC/pdxB/yfhB/pyrE/atpE"	13
+"BP"	"GO:0009073"	"aromatic amino acid family biosynthetic process"	"2/247"	"20/2736"	0.550955476804078	0.970419689985469	0.970419689985469	"aroL/pheA"	2
+"MF"	"GO:0016661"	"oxidoreductase activity, acting on other nitrogenous compounds as donors"	"2/247"	"20/2736"	0.550955476804078	0.970419689985469	0.970419689985469	"hcp/torA"	2
+"MF"	"GO:0043022"	"ribosome binding"	"2/247"	"20/2736"	0.550955476804078	0.970419689985469	0.970419689985469	"rmf/infC"	2
+"BP"	"GO:0051668"	"localization within membrane"	"2/247"	"20/2736"	0.550955476804078	0.970419689985469	0.970419689985469	"skp/ffh"	2
+"BP"	"GO:0072657"	"protein localization to membrane"	"2/247"	"20/2736"	0.550955476804078	0.970419689985469	0.970419689985469	"skp/ffh"	2
+"BP"	"GO:0019725"	"cellular homeostasis"	"4/247"	"43/2736"	0.552870110219866	0.970419689985469	0.970419689985469	"ybbL/fepD/cutC/fhuF"	4
+"BP"	"GO:0031668"	"cellular response to extracellular stimulus"	"4/247"	"43/2736"	0.552870110219866	0.970419689985469	0.970419689985469	"iraP/sulA/yeaG/mazG"	4
+"BP"	"GO:0046365"	"monosaccharide catabolic process"	"4/247"	"43/2736"	0.552870110219866	0.970419689985469	0.970419689985469	"araD/rpe/xylB/rbsD"	4
+"BP"	"GO:0071496"	"cellular response to external stimulus"	"4/247"	"43/2736"	0.552870110219866	0.970419689985469	0.970419689985469	"iraP/sulA/yeaG/mazG"	4
+"BP"	"GO:0009991"	"response to extracellular stimulus"	"6/247"	"66/2736"	0.556775128749899	0.970419689985469	0.970419689985469	"iraP/cspD/sulA/yeaG/mazG/hofP"	6
+"BP"	"GO:1901362"	"organic cyclic compound biosynthetic process"	"41/247"	"459/2736"	0.560196071425138	0.970419689985469	0.970419689985469	"carA/coaE/sfsA/cdaR/pyrH/cdsA/dnaE/yafC/iraP/aroL/phoB/ybaO/aes/allR/entB/fur/moeA/cspD/ftsK/yjgJ/ykgA/ydcR/marR/pdxH/rplT/flgM/pyrC/folC/pdxB/pheA/alaS/norR/mazG/gntR/xylR/pyrE/torR/atpE/asnC/fabR/pepA"	41
+"BP"	"GO:0006996"	"organelle organization"	"8/247"	"89/2736"	0.561002981950633	0.970419689985469	0.970419689985469	"rplT/infC/cas1/recC/rplQ/rpmC/rplB/frdB"	8
+"BP"	"GO:0006575"	"cellular modified amino acid metabolic process"	"3/247"	"32/2736"	0.562396347287694	0.970419689985469	0.970419689985469	"fixB/fixC/folC"	3
+"BP"	"GO:0006970"	"response to osmotic stress"	"3/247"	"32/2736"	0.562396347287694	0.970419689985469	0.970419689985469	"ftsK/proQ/cpsB"	3
+"BP"	"GO:0009205"	"purine ribonucleoside triphosphate metabolic process"	"3/247"	"32/2736"	0.562396347287694	0.970419689985469	0.970419689985469	"cyoA/moeA/atpE"	3
+"BP"	"GO:0051262"	"protein tetramerization"	"3/247"	"32/2736"	0.562396347287694	0.970419689985469	0.970419689985469	"nagA/yeiG/yfcE"	3
+"BP"	"GO:0051289"	"protein homotetramerization"	"3/247"	"32/2736"	0.562396347287694	0.970419689985469	0.970419689985469	"nagA/yeiG/yfcE"	3
+"BP"	"GO:0023052"	"signaling"	"5/247"	"55/2736"	0.563147359489052	0.970419689985469	0.970419689985469	"uvrY/cheW/proQ/torR/lsrK"	5
+"BP"	"GO:0010467"	"gene expression"	"42/247"	"471/2736"	0.565496476100829	0.970419689985469	0.970419689985469	"frr/sfsA/erpA/cdaR/skp/tilS/yaeB/yafC/iraP/phoB/ybaO/hha/aes/allR/fur/cspD/ftsK/rmf/proQ/prmC/yjgJ/ykgA/ydcR/marR/sufA/rplT/infC/flgM/alaS/norR/arfA/rplQ/rpmC/rplB/rtcB/gntR/xylR/torD/torR/asnC/fabR/pepA"	42
+"CC"	"GO:1904949"	"ATPase complex"	"4/247"	"44/2736"	0.571644490974196	0.970419689985469	0.970419689985469	"fhuB/metN/potH/ugpC"	4
+"MF"	"GO:0008094"	"ATP-dependent activity, acting on DNA"	"2/247"	"21/2736"	0.578070094552286	0.970419689985469	0.970419689985469	"ftsK/recC"	2
+"BP"	"GO:0017148"	"negative regulation of translation"	"2/247"	"21/2736"	0.578070094552286	0.970419689985469	0.970419689985469	"rmf/rplT"	2
+"BP"	"GO:0034249"	"negative regulation of cellular amide metabolic process"	"2/247"	"21/2736"	0.578070094552286	0.970419689985469	0.970419689985469	"rmf/rplT"	2
+"BP"	"GO:0042278"	"purine nucleoside metabolic process"	"2/247"	"21/2736"	0.578070094552286	0.970419689985469	0.970419689985469	"rihC/moeA"	2
+"MF"	"GO:0052689"	"carboxylic ester hydrolase activity"	"2/247"	"21/2736"	0.578070094552286	0.970419689985469	0.970419689985469	"aes/alaS"	2
+"MF"	"GO:0090563"	"protein-phosphocysteine-sugar phosphotransferase activity"	"2/247"	"21/2736"	0.578070094552286	0.970419689985469	0.970419689985469	"fruB/gatC"	2
+"BP"	"GO:1901678"	"iron coordination entity transport"	"2/247"	"21/2736"	0.578070094552286	0.970419689985469	0.970419689985469	"fepD/entS"	2
+"MF"	"GO:0003735"	"structural constituent of ribosome"	"5/247"	"56/2736"	0.579724794935057	0.970419689985469	0.970419689985469	"rplT/rpmI/rplQ/rpmC/rplB"	5
+"BP"	"GO:0062197"	"cellular response to chemical stress"	"3/247"	"33/2736"	0.583881470355237	0.970419689985469	0.970419689985469	"proQ/norW/katG"	3
+"BP"	"GO:1901264"	"carbohydrate derivative transport"	"3/247"	"33/2736"	0.583881470355237	0.970419689985469	0.970419689985469	"nupC/ugpC/yhjD"	3
+"BP"	"GO:0043043"	"peptide biosynthetic process"	"11/247"	"125/2736"	0.58414169166156	0.970419689985469	0.970419689985469	"frr/entB/rmf/prmC/rplT/infC/alaS/arfA/rplQ/rpmC/rplB"	11
+"BP"	"GO:0072524"	"pyridine-containing compound metabolic process"	"4/247"	"45/2736"	0.589973887674117	0.970419689985469	0.970419689985469	"pntB/pdxH/pdxB/rpe"	4
+"BP"	"GO:0006518"	"peptide metabolic process"	"12/247"	"137/2736"	0.590805697317664	0.970419689985469	0.970419689985469	"frr/entB/rmf/prmC/rplT/infC/alaS/arfA/rplQ/rpmC/rplB/pepA"	12
+"MF"	"GO:0016614"	"oxidoreductase activity, acting on CH-OH group of donors"	"6/247"	"69/2736"	0.601755344106569	0.970419689985469	0.970419689985469	"dkgB/ghrA/pdxB/dkgA/dlgD/yihU"	6
+"BP"	"GO:0006633"	"fatty acid biosynthetic process"	"2/247"	"22/2736"	0.603971295705131	0.970419689985469	0.970419689985469	"fabZ/fabF"	2
+"BP"	"GO:0009072"	"aromatic amino acid family metabolic process"	"2/247"	"22/2736"	0.603971295705131	0.970419689985469	0.970419689985469	"aroL/pheA"	2
+"BP"	"GO:0034599"	"cellular response to oxidative stress"	"2/247"	"22/2736"	0.603971295705131	0.970419689985469	0.970419689985469	"norW/katG"	2
+"BP"	"GO:0001539"	"cilium or flagellum-dependent cell motility"	"3/247"	"34/2736"	0.604688140143428	0.970419689985469	0.970419689985469	"yedQ/yhjH/frdB"	3
+"BP"	"GO:0071973"	"bacterial-type flagellum-dependent cell motility"	"3/247"	"34/2736"	0.604688140143428	0.970419689985469	0.970419689985469	"yedQ/yhjH/frdB"	3
+"BP"	"GO:0097588"	"archaeal or bacterial-type flagellum-dependent cell motility"	"3/247"	"34/2736"	0.604688140143428	0.970419689985469	0.970419689985469	"yedQ/yhjH/frdB"	3
+"BP"	"GO:0042592"	"homeostatic process"	"4/247"	"46/2736"	0.607839138160422	0.970419689985469	0.970419689985469	"ybbL/fepD/cutC/fhuF"	4
+"BP"	"GO:0070925"	"organelle assembly"	"5/247"	"58/2736"	0.61185384665439	0.970419689985469	0.970419689985469	"rplT/rplQ/rpmC/rplB/frdB"	5
+"BP"	"GO:0140694"	"non-membrane-bounded organelle assembly"	"5/247"	"58/2736"	0.61185384665439	0.970419689985469	0.970419689985469	"rplT/rplQ/rpmC/rplB/frdB"	5
+"MF"	"GO:0004532"	"exoribonuclease activity"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"rnd"	1
+"BP"	"GO:0006119"	"oxidative phosphorylation"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"cyoA"	1
+"BP"	"GO:0006473"	"protein acetylation"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"yhbS"	1
+"MF"	"GO:0008194"	"UDP-glycosyltransferase activity"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"lpxB"	1
+"BP"	"GO:0009394"	"2'-deoxyribonucleotide metabolic process"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"mazG"	1
+"BP"	"GO:0015748"	"organophosphate ester transport"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"ugpC"	1
+"MF"	"GO:0016896"	"exoribonuclease activity, producing 5'-phosphomonoesters"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"rnd"	1
+"BP"	"GO:0017000"	"antibiotic biosynthetic process"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"entB"	1
+"BP"	"GO:0019646"	"aerobic electron transport chain"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"cyoA"	1
+"BP"	"GO:0019692"	"deoxyribose phosphate metabolic process"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"mazG"	1
+"BP"	"GO:0031460"	"glycine betaine transport"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"yehW"	1
+"BP"	"GO:0031564"	"transcription antitermination"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"pepA"	1
+"BP"	"GO:0034755"	"iron ion transmembrane transport"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"fepD"	1
+"BP"	"GO:0043543"	"protein acylation"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"yhbS"	1
+"BP"	"GO:0046131"	"pyrimidine ribonucleoside metabolic process"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"mazG"	1
+"BP"	"GO:0046164"	"alcohol catabolic process"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"gcl"	1
+"BP"	"GO:0051156"	"glucose 6-phosphate metabolic process"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"rpe"	1
+"BP"	"GO:0051205"	"protein insertion into membrane"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"skp"	1
+"CC"	"GO:0071575"	"integral component of external side of plasma membrane"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"cyoA"	1
+"BP"	"GO:0090503"	"RNA phosphodiester bond hydrolysis, exonucleolytic"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"rnd"	1
+"BP"	"GO:1900190"	"regulation of single-species biofilm formation"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"hha"	1
+"CC"	"GO:1905347"	"endodeoxyribonuclease complex"	"1/247"	"10/2736"	0.612405629034103	0.970419689985469	0.970419689985469	"xerC"	1
+"BP"	"GO:0036211"	"protein modification process"	"11/247"	"128/2736"	0.616977301077314	0.970419689985469	0.970419689985469	"map/moeA/cheW/prmC/yeaG/wzb/era/yhbO/yhbS/ppiA/nrfG"	11
+"BP"	"GO:1901135"	"carbohydrate derivative metabolic process"	"23/247"	"265/2736"	0.617290229344624	0.970419689985469	0.970419689985469	"rihC/carA/araD/coaE/uppS/lpxB/cyoA/dacA/nagA/moeA/yciA/nagZ/pyrC/cpsB/wzb/pbpG/mazG/yhbO/rpe/pyrE/atpE/yihS/yihU"	23
+"MF"	"GO:0016829"	"lyase activity"	"12/247"	"140/2736"	0.622127556737471	0.970419689985469	0.970419689985469	"araD/fabZ/gcl/acnA/ykgA/rspA/purB/rhmA/pheA/gudD/gatY/yhbO"	12
+"BP"	"GO:0006412"	"translation"	"10/247"	"117/2736"	0.622823991924196	0.970419689985469	0.970419689985469	"frr/rmf/prmC/rplT/infC/alaS/arfA/rplQ/rpmC/rplB"	10
+"BP"	"GO:0006310"	"DNA recombination"	"3/247"	"35/2736"	0.624798879960447	0.970419689985469	0.970419689985469	"recC/xerC/pepA"	3
+"BP"	"GO:0045184"	"establishment of protein localization"	"3/247"	"35/2736"	0.624798879960447	0.970419689985469	0.970419689985469	"skp/tolQ/ffh"	3
+"BP"	"GO:0018130"	"heterocycle biosynthetic process"	"39/247"	"447/2736"	0.62535937756131	0.970419689985469	0.970419689985469	"carA/coaE/sfsA/cdaR/pyrH/cdsA/dnaE/yafC/iraP/phoB/ybaO/aes/allR/entB/fur/moeA/cspD/ftsK/yjgJ/ykgA/ydcR/marR/pdxH/rplT/flgM/pyrC/folC/pdxB/alaS/norR/mazG/gntR/xylR/pyrE/torR/atpE/asnC/fabR/pepA"	39
+"MF"	"GO:0016747"	"acyltransferase activity, transferring groups other than amino-acyl groups"	"5/247"	"59/2736"	0.627377133502675	0.970419689985469	0.970419689985469	"maa/pflB/fabF/argA/yhbS"	5
+"CC"	"GO:0022626"	"cytosolic ribosome"	"5/247"	"59/2736"	0.627377133502675	0.970419689985469	0.970419689985469	"rplT/rpmI/rplQ/rpmC/rplB"	5
+"BP"	"GO:0000910"	"cytokinesis"	"2/247"	"23/2736"	0.628656375612144	0.970419689985469	0.970419689985469	"sulA/pbpG"	2
+"MF"	"GO:0046983"	"protein dimerization activity"	"2/247"	"23/2736"	0.628656375612144	0.970419689985469	0.970419689985469	"pdxH/lysP"	2
+"BP"	"GO:0072348"	"sulfur compound transport"	"2/247"	"23/2736"	0.628656375612144	0.970419689985469	0.970419689985469	"thiP/metN"	2
+"BP"	"GO:0071840"	"cellular component organization or biogenesis"	"30/247"	"346/2736"	0.629348364461775	0.970419689985469	0.970419689985469	"frr/erpA/uppS/skp/phoB/ybaO/maa/dacA/nagA/sulA/prmC/sufA/rplT/infC/nagZ/pbpG/yeiG/lysP/yfcE/era/norR/cas1/recC/rplQ/rpmC/rplB/nrfG/frdB/pepA/dnaT"	30
+"BP"	"GO:0008652"	"cellular amino acid biosynthetic process"	"9/247"	"106/2736"	0.629524730523428	0.970419689985469	0.970419689985469	"carA/aroL/pheA/argA/asd/ilvB/asnA/lysC/argI"	9
+"MF"	"GO:0003677"	"DNA binding"	"15/247"	"176/2736"	0.63650297470772	0.970419689985469	0.970419689985469	"sfsA/ybaO/allR/fur/cspD/ftsK/yjgJ/marR/tus/norR/casA/asnC/xerC/fabR/pepA"	15
+"BP"	"GO:1901605"	"alpha-amino acid metabolic process"	"13/247"	"153/2736"	0.636838409983949	0.970419689985469	0.970419689985469	"carA/ybaO/pflB/astB/pheA/argA/gcvH/ackA/asd/ilvB/asnA/lysC/argI"	13
+"BP"	"GO:0009059"	"macromolecule biosynthetic process"	"41/247"	"472/2736"	0.640167176508533	0.970419689985469	0.970419689985469	"frr/citG/sfsA/cdaR/uppS/dnaE/yafC/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/rmf/prmC/yjgJ/ykgA/ydcR/marR/tus/rplT/infC/flgM/sbmC/cpsB/wzb/alaS/norR/arfA/rplQ/rpmC/rplB/gntR/xylR/torR/asnC/fabR/pepA/dnaT"	41
+"BP"	"GO:0009260"	"ribonucleotide biosynthetic process"	"5/247"	"60/2736"	0.642524027957518	0.970419689985469	0.970419689985469	"carA/coaE/pyrC/pyrE/atpE"	5
+"CC"	"GO:0044391"	"ribosomal subunit"	"5/247"	"60/2736"	0.642524027957518	0.970419689985469	0.970419689985469	"rplT/rpmI/rplQ/rpmC/rplB"	5
+"BP"	"GO:0046390"	"ribose phosphate biosynthetic process"	"5/247"	"60/2736"	0.642524027957518	0.970419689985469	0.970419689985469	"carA/coaE/pyrC/pyrE/atpE"	5
+"BP"	"GO:0009119"	"ribonucleoside metabolic process"	"3/247"	"36/2736"	0.644201604771286	0.970419689985469	0.970419689985469	"rihC/moeA/mazG"	3
+"BP"	"GO:0000101"	"sulfur amino acid transport"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"metN"	1
+"MF"	"GO:0004185"	"serine-type carboxypeptidase activity"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"dacA"	1
+"CC"	"GO:0005576"	"extracellular region"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"katG"	1
+"BP"	"GO:0006284"	"base-excision repair"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"nfo"	1
+"BP"	"GO:0006413"	"translational initiation"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"infC"	1
+"BP"	"GO:0006527"	"arginine catabolic process"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"astB"	1
+"BP"	"GO:0006573"	"valine metabolic process"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"ilvB"	1
+"BP"	"GO:0006720"	"isoprenoid metabolic process"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"uppS"	1
+"BP"	"GO:0008299"	"isoprenoid biosynthetic process"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"uppS"	1
+"MF"	"GO:0008658"	"penicillin binding"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"dacA"	1
+"BP"	"GO:0009245"	"lipid A biosynthetic process"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"lpxB"	1
+"MF"	"GO:0015203"	"polyamine transmembrane transporter activity"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"sapC"	1
+"BP"	"GO:0015697"	"quaternary ammonium group transport"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"yehW"	1
+"BP"	"GO:0015838"	"amino-acid betaine transport"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"yehW"	1
+"MF"	"GO:0016744"	"transketolase or transaldolase activity"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"ilvB"	1
+"BP"	"GO:0031554"	"regulation of termination of DNA-templated transcription"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"pepA"	1
+"MF"	"GO:0042277"	"peptide binding"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"torD"	1
+"BP"	"GO:0043163"	"cell envelope organization"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"skp"	1
+"BP"	"GO:0043165"	"Gram-negative-bacterium-type cell outer membrane assembly"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"skp"	1
+"BP"	"GO:0043244"	"regulation of protein-containing complex disassembly"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"pepA"	1
+"BP"	"GO:0044091"	"membrane biogenesis"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"skp"	1
+"BP"	"GO:0046493"	"lipid A metabolic process"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"lpxB"	1
+"MF"	"GO:0070008"	"serine-type exopeptidase activity"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"dacA"	1
+"BP"	"GO:0071709"	"membrane assembly"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"skp"	1
+"BP"	"GO:0098661"	"inorganic anion transmembrane transport"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"clcA"	1
+"BP"	"GO:1902047"	"polyamine transmembrane transport"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"sapC"	1
+"CC"	"GO:1905348"	"endonuclease complex"	"1/247"	"11/2736"	0.647525148340258	0.970419689985469	0.970419689985469	"xerC"	1
+"BP"	"GO:1901607"	"alpha-amino acid biosynthetic process"	"8/247"	"96/2736"	0.649304992211619	0.970419689985469	0.970419689985469	"carA/pheA/argA/asd/ilvB/asnA/lysC/argI"	8
+"MF"	"GO:0001217"	"DNA-binding transcription repressor activity"	"2/247"	"24/2736"	0.65213296770814	0.970419689985469	0.970419689985469	"fur/alaS"	2
+"MF"	"GO:0001883"	"purine nucleoside binding"	"2/247"	"24/2736"	0.65213296770814	0.970419689985469	0.970419689985469	"era/ffh"	2
+"CC"	"GO:0009898"	"cytoplasmic side of plasma membrane"	"2/247"	"24/2736"	0.65213296770814	0.970419689985469	0.970419689985469	"hflD/era"	2
+"MF"	"GO:0015294"	"solute:cation symporter activity"	"2/247"	"24/2736"	0.65213296770814	0.970419689985469	0.970419689985469	"nupC/dctA"	2
+"MF"	"GO:0015297"	"antiporter activity"	"2/247"	"24/2736"	0.65213296770814	0.970419689985469	0.970419689985469	"clcA/alaE"	2
+"MF"	"GO:0032550"	"purine ribonucleoside binding"	"2/247"	"24/2736"	0.65213296770814	0.970419689985469	0.970419689985469	"era/ffh"	2
+"CC"	"GO:0098562"	"cytoplasmic side of membrane"	"2/247"	"24/2736"	0.65213296770814	0.970419689985469	0.970419689985469	"hflD/era"	2
+"CC"	"GO:0005840"	"ribosome"	"5/247"	"61/2736"	0.657285215138447	0.970419689985469	0.970419689985469	"rplT/rpmI/rplQ/rpmC/rplB"	5
+"BP"	"GO:0072330"	"monocarboxylic acid biosynthetic process"	"5/247"	"61/2736"	0.657285215138447	0.970419689985469	0.970419689985469	"fabZ/ykgA/fabF/yhbO/asnA"	5
+"BP"	"GO:0000270"	"peptidoglycan metabolic process"	"4/247"	"49/2736"	0.658506380751642	0.970419689985469	0.970419689985469	"uppS/dacA/nagZ/pbpG"	4
+"BP"	"GO:0006022"	"aminoglycan metabolic process"	"4/247"	"49/2736"	0.658506380751642	0.970419689985469	0.970419689985469	"uppS/dacA/nagZ/pbpG"	4
+"BP"	"GO:0030203"	"glycosaminoglycan metabolic process"	"4/247"	"49/2736"	0.658506380751642	0.970419689985469	0.970419689985469	"uppS/dacA/nagZ/pbpG"	4
+"BP"	"GO:0042255"	"ribosome assembly"	"4/247"	"49/2736"	0.658506380751642	0.970419689985469	0.970419689985469	"rplT/rplQ/rpmC/rplB"	4
+"BP"	"GO:0008654"	"phospholipid biosynthetic process"	"3/247"	"37/2736"	0.662889091883215	0.970419689985469	0.970419689985469	"cdsA/lpxB/yfhB"	3
+"MF"	"GO:0030145"	"manganese ion binding"	"3/247"	"37/2736"	0.662889091883215	0.970419689985469	0.970419689985469	"ylbA/yfcE/rtcB"	3
+"BP"	"GO:0035556"	"intracellular signal transduction"	"3/247"	"37/2736"	0.662889091883215	0.970419689985469	0.970419689985469	"uvrY/proQ/torR"	3
+"BP"	"GO:0044255"	"cellular lipid metabolic process"	"10/247"	"121/2736"	0.66599204917234	0.970419689985469	0.970419689985469	"fixB/uppS/cdsA/fabZ/lpxB/fadE/yciA/acnA/fabF/yfhB"	10
+"CC"	"GO:0043229"	"intracellular organelle"	"7/247"	"86/2736"	0.671384583534796	0.970419689985469	0.970419689985469	"dnaE/rplT/rpmI/rplQ/rpmC/rplB/mgtA"	7
+"MF"	"GO:0005198"	"structural molecule activity"	"5/247"	"62/2736"	0.67165315790338	0.970419689985469	0.970419689985469	"rplT/rpmI/rplQ/rpmC/rplB"	5
+"MF"	"GO:0010181"	"FMN binding"	"2/247"	"25/2736"	0.674417212687295	0.970419689985469	0.970419689985469	"pdxH/cysJ"	2
+"MF"	"GO:0016627"	"oxidoreductase activity, acting on the CH-CH group of donors"	"2/247"	"25/2736"	0.674417212687295	0.970419689985469	0.970419689985469	"fadE/frdB"	2
+"MF"	"GO:0032549"	"ribonucleoside binding"	"2/247"	"25/2736"	0.674417212687295	0.970419689985469	0.970419689985469	"era/ffh"	2
+"MF"	"GO:0003678"	"DNA helicase activity"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"recC"	1
+"BP"	"GO:0006213"	"pyrimidine nucleoside metabolic process"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"mazG"	1
+"BP"	"GO:0006414"	"translational elongation"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"arfA"	1
+"BP"	"GO:0006772"	"thiamine metabolic process"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"yjjX"	1
+"BP"	"GO:0006835"	"dicarboxylic acid transport"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"dctA"	1
+"BP"	"GO:0006886"	"intracellular protein transport"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"ffh"	1
+"MF"	"GO:0008175"	"tRNA methyltransferase activity"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"yaeB"	1
+"MF"	"GO:0008374"	"O-acyltransferase activity"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"maa"	1
+"MF"	"GO:0016646"	"oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"cysJ"	1
+"MF"	"GO:0016814"	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"yadE"	1
+"MF"	"GO:0016840"	"carbon-nitrogen lyase activity"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"purB"	1
+"BP"	"GO:0032392"	"DNA geometric change"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"recC"	1
+"BP"	"GO:0032508"	"DNA duplex unwinding"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"recC"	1
+"BP"	"GO:0042723"	"thiamine-containing compound metabolic process"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"yjjX"	1
+"BP"	"GO:0046907"	"intracellular transport"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"ffh"	1
+"MF"	"GO:0046915"	"transition metal ion transmembrane transporter activity"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"znuC"	1
+"BP"	"GO:0051180"	"vitamin transport"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"thiP"	1
+"BP"	"GO:1901068"	"guanosine-containing compound metabolic process"	"1/247"	"12/2736"	0.679474244986113	0.970419689985469	0.970419689985469	"moeA"	1
+"MF"	"GO:0016667"	"oxidoreductase activity, acting on a sulfur group of donors"	"3/247"	"38/2736"	0.680858476224635	0.970419689985469	0.970419689985469	"bcp/cysJ/msrA"	3
+"CC"	"GO:0098552"	"side of membrane"	"5/247"	"63/2736"	0.685622001440556	0.970419689985469	0.970419689985469	"cyoA/dmsA/hyaA/hflD/era"	5
+"BP"	"GO:0007165"	"signal transduction"	"4/247"	"51/2736"	0.689750972281669	0.970419689985469	0.970419689985469	"uvrY/cheW/proQ/torR"	4
+"CC"	"GO:1990204"	"oxidoreductase complex"	"4/247"	"51/2736"	0.689750972281669	0.970419689985469	0.970419689985469	"cyoA/sucA/dmsA/torC"	4
+"BP"	"GO:0044085"	"cellular component biogenesis"	"23/247"	"275/2736"	0.690735425356961	0.970419689985469	0.970419689985469	"erpA/uppS/skp/phoB/ybaO/maa/nagA/sulA/sufA/rplT/infC/nagZ/yeiG/lysP/yfcE/era/norR/rplQ/rpmC/rplB/nrfG/frdB/dnaT"	23
+"MF"	"GO:0001882"	"nucleoside binding"	"2/247"	"26/2736"	0.695532171850041	0.970419689985469	0.970419689985469	"era/ffh"	2
+"MF"	"GO:0005261"	"cation channel activity"	"2/247"	"26/2736"	0.695532171850041	0.970419689985469	0.970419689985469	"sapC/atpE"	2
+"MF"	"GO:0016903"	"oxidoreductase activity, acting on the aldehyde or oxo group of donors"	"2/247"	"26/2736"	0.695532171850041	0.970419689985469	0.970419689985469	"sucA/asd"	2
+"MF"	"GO:0019843"	"rRNA binding"	"2/247"	"26/2736"	0.695532171850041	0.970419689985469	0.970419689985469	"rplT/era"	2
+"CC"	"GO:0009279"	"cell outer membrane"	"6/247"	"76/2736"	0.696364922603579	0.970419689985469	0.970419689985469	"fhuA/skp/cutF/mliC/nlpD/ygiB"	6
+"BP"	"GO:0006629"	"lipid metabolic process"	"10/247"	"124/2736"	0.696446604859982	0.970419689985469	0.970419689985469	"fixB/uppS/cdsA/fabZ/lpxB/fadE/yciA/acnA/fabF/yfhB"	10
+"BP"	"GO:0006644"	"phospholipid metabolic process"	"3/247"	"39/2736"	0.698110772458532	0.970419689985469	0.970419689985469	"cdsA/lpxB/yfhB"	3
+"BP"	"GO:0009116"	"nucleoside metabolic process"	"3/247"	"39/2736"	0.698110772458532	0.970419689985469	0.970419689985469	"rihC/moeA/mazG"	3
+"BP"	"GO:0072329"	"monocarboxylic acid catabolic process"	"3/247"	"39/2736"	0.698110772458532	0.970419689985469	0.970419689985469	"fixB/fadE/gcl"	3
+"CC"	"GO:0098796"	"membrane protein complex"	"8/247"	"101/2736"	0.705729855954244	0.970419689985469	0.970419689985469	"fhuB/metN/cyoA/potH/macA/ugpC/atpE/frdB"	8
+"BP"	"GO:0009165"	"nucleotide biosynthetic process"	"7/247"	"89/2736"	0.706578339521055	0.970419689985469	0.970419689985469	"carA/coaE/pyrH/cdsA/pyrC/pyrE/atpE"	7
+"BP"	"GO:1901293"	"nucleoside phosphate biosynthetic process"	"7/247"	"89/2736"	0.706578339521055	0.970419689985469	0.970419689985469	"carA/coaE/pyrH/cdsA/pyrC/pyrE/atpE"	7
+"BP"	"GO:0034645"	"cellular macromolecule biosynthetic process"	"39/247"	"461/2736"	0.706889506663395	0.970419689985469	0.970419689985469	"frr/sfsA/cdaR/uppS/dnaE/yafC/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/rmf/prmC/yjgJ/ykgA/ydcR/marR/tus/rplT/infC/sbmC/cpsB/wzb/alaS/norR/arfA/rplQ/rpmC/rplB/gntR/xylR/torR/asnC/fabR/pepA/dnaT"	39
+"MF"	"GO:0003697"	"single-stranded DNA binding"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"cspD"	1
+"MF"	"GO:0004721"	"phosphoprotein phosphatase activity"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"wzb"	1
+"BP"	"GO:0006308"	"DNA catabolic process"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"hofP"	1
+"BP"	"GO:0006353"	"DNA-templated transcription termination"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"pepA"	1
+"BP"	"GO:0006534"	"cysteine metabolic process"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"ybaO"	1
+"BP"	"GO:0006643"	"membrane lipid metabolic process"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"lpxB"	1
+"BP"	"GO:0006664"	"glycolipid metabolic process"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"lpxB"	1
+"BP"	"GO:0006760"	"folic acid-containing compound metabolic process"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"folC"	1
+"MF"	"GO:0008080"	"N-acetyltransferase activity"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"argA"	1
+"BP"	"GO:0009247"	"glycolipid biosynthetic process"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"lpxB"	1
+"BP"	"GO:0009309"	"amine biosynthetic process"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"speE"	1
+"MF"	"GO:0015453"	"oxidoreduction-driven active transmembrane transporter activity"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"cyoA"	1
+"MF"	"GO:0016645"	"oxidoreductase activity, acting on the CH-NH group of donors"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"cysJ"	1
+"MF"	"GO:0016799"	"hydrolase activity, hydrolyzing N-glycosyl compounds"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"rihC"	1
+"BP"	"GO:0017004"	"cytochrome complex assembly"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"nrfG"	1
+"BP"	"GO:0019682"	"glyceraldehyde-3-phosphate metabolic process"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"rpe"	1
+"BP"	"GO:0042401"	"cellular biogenic amine biosynthetic process"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"speE"	1
+"BP"	"GO:0042558"	"pteridine-containing compound metabolic process"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"folC"	1
+"BP"	"GO:0046467"	"membrane lipid biosynthetic process"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"lpxB"	1
+"MF"	"GO:0071949"	"FAD binding"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"gcl"	1
+"BP"	"GO:0072529"	"pyrimidine-containing compound catabolic process"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"mazG"	1
+"BP"	"GO:1901269"	"lipooligosaccharide metabolic process"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"lpxB"	1
+"BP"	"GO:1901271"	"lipooligosaccharide biosynthetic process"	"1/247"	"13/2736"	0.708538070789501	0.970419689985469	0.970419689985469	"lpxB"	1
+"MF"	"GO:0001067"	"transcription regulatory region nucleic acid binding"	"5/247"	"65/2736"	0.712346798600329	0.970419689985469	0.970419689985469	"fur/yjgJ/marR/norR/fabR"	5
+"BP"	"GO:0009150"	"purine ribonucleotide metabolic process"	"5/247"	"65/2736"	0.712346798600329	0.970419689985469	0.970419689985469	"coaE/cyoA/moeA/yciA/atpE"	5
+"BP"	"GO:0008104"	"protein localization"	"3/247"	"40/2736"	0.714650425364246	0.970419689985469	0.970419689985469	"skp/tolQ/ffh"	3
+"BP"	"GO:0070727"	"cellular macromolecule localization"	"3/247"	"40/2736"	0.714650425364246	0.970419689985469	0.970419689985469	"skp/tolQ/ffh"	3
+"BP"	"GO:1901657"	"glycosyl compound metabolic process"	"3/247"	"40/2736"	0.714650425364246	0.970419689985469	0.970419689985469	"rihC/moeA/mazG"	3
+"MF"	"GO:0030234"	"enzyme regulator activity"	"2/247"	"27/2736"	0.715506455728128	0.970419689985469	0.970419689985469	"mliC/sbmC"	2
+"MF"	"GO:0098772"	"molecular function regulator activity"	"2/247"	"27/2736"	0.715506455728128	0.970419689985469	0.970419689985469	"mliC/sbmC"	2
+"CC"	"GO:0030288"	"outer membrane-bounded periplasmic space"	"9/247"	"114/2736"	0.715710834262602	0.970419689985469	0.970419689985469	"cueO/fhuD/degP/skp/nanM/hyaB/ppiA/torA/zraP"	9
+"CC"	"GO:0030313"	"cell envelope"	"15/247"	"186/2736"	0.721402381214805	0.973632299325125	0.973632299325125	"cueO/fhuA/fhuD/degP/skp/cutF/tolQ/nanM/hyaB/mliC/nlpD/ygiB/ppiA/torA/zraP"	15
+"CC"	"GO:0031975"	"envelope"	"15/247"	"186/2736"	0.721402381214805	0.973632299325125	0.973632299325125	"cueO/fhuA/fhuD/degP/skp/cutF/tolQ/nanM/hyaB/mliC/nlpD/ygiB/ppiA/torA/zraP"	15
+"BP"	"GO:0032787"	"monocarboxylic acid metabolic process"	"11/247"	"139/2736"	0.725308063178784	0.973632299325125	0.973632299325125	"fixB/fabZ/fadE/aroL/gcl/yciA/acnA/ykgA/fabF/yhbO/asnA"	11
+"MF"	"GO:0140096"	"catalytic activity, acting on a protein"	"12/247"	"151/2736"	0.725869662724461	0.973632299325125	0.973632299325125	"degP/map/dacA/prmC/yeaG/wzb/pbpG/clpB/yhbO/ppiA/pepA/iadA"	12
+"CC"	"GO:0019867"	"outer membrane"	"6/247"	"79/2736"	0.732019311805968	0.973632299325125	0.973632299325125	"fhuA/skp/cutF/mliC/nlpD/ygiB"	6
+"BP"	"GO:0046034"	"ATP metabolic process"	"2/247"	"28/2736"	0.734373042289183	0.973632299325125	0.973632299325125	"cyoA/atpE"	2
+"BP"	"GO:0051276"	"chromosome organization"	"2/247"	"28/2736"	0.734373042289183	0.973632299325125	0.973632299325125	"cas1/recC"	2
+"BP"	"GO:0006470"	"protein dephosphorylation"	"1/247"	"14/2736"	0.734976225954758	0.973632299325125	0.973632299325125	"wzb"	1
+"BP"	"GO:0006935"	"chemotaxis"	"1/247"	"14/2736"	0.734976225954758	0.973632299325125	0.973632299325125	"cheW"	1
+"BP"	"GO:0009082"	"branched-chain amino acid biosynthetic process"	"1/247"	"14/2736"	0.734976225954758	0.973632299325125	0.973632299325125	"ilvB"	1
+"BP"	"GO:0009268"	"response to pH"	"1/247"	"14/2736"	0.734976225954758	0.973632299325125	0.973632299325125	"yhbO"	1
+"BP"	"GO:0009894"	"regulation of catabolic process"	"1/247"	"14/2736"	0.734976225954758	0.973632299325125	0.973632299325125	"iraP"	1
+"BP"	"GO:0042330"	"taxis"	"1/247"	"14/2736"	0.734976225954758	0.973632299325125	0.973632299325125	"cheW"	1
+"BP"	"GO:0051129"	"negative regulation of cellular component organization"	"1/247"	"14/2736"	0.734976225954758	0.973632299325125	0.973632299325125	"sulA"	1
+"BP"	"GO:0051302"	"regulation of cell division"	"1/247"	"14/2736"	0.734976225954758	0.973632299325125	0.973632299325125	"sulA"	1
+"CC"	"GO:0061695"	"transferase complex, transferring phosphorus-containing groups"	"1/247"	"14/2736"	0.734976225954758	0.973632299325125	0.973632299325125	"dnaE"	1
+"BP"	"GO:0006082"	"organic acid metabolic process"	"30/247"	"364/2736"	0.741791720751275	0.975089037875843	0.975089037875843	"carA/fixB/fabZ/fadE/aroL/ybaO/gcl/nagA/sucA/pflB/yciA/acnA/ykgA/astB/fabF/folC/pheA/alaS/gudD/argA/gcvH/ackA/yhbO/asd/ilvB/asnA/yihS/yihU/lysC/argI"	30
+"BP"	"GO:0006520"	"cellular amino acid metabolic process"	"15/247"	"189/2736"	0.744339808255411	0.975089037875843	0.975089037875843	"carA/aroL/ybaO/pflB/astB/pheA/alaS/argA/gcvH/ackA/asd/ilvB/asnA/lysC/argI"	15
+"MF"	"GO:0016798"	"hydrolase activity, acting on glycosyl bonds"	"2/247"	"29/2736"	0.752168261879924	0.975089037875843	0.975089037875843	"rihC/nagZ"	2
+"MF"	"GO:0000287"	"magnesium ion binding"	"8/247"	"106/2736"	0.755977176639803	0.975089037875843	0.975089037875843	"uppS/aroL/entB/sucA/rspA/gudD/pyrE/groL"	8
+"MF"	"GO:0004553"	"hydrolase activity, hydrolyzing O-glycosyl compounds"	"1/247"	"15/2736"	0.75902504013153	0.975089037875843	0.975089037875843	"nagZ"	1
+"BP"	"GO:0007155"	"cell adhesion"	"1/247"	"15/2736"	0.75902504013153	0.975089037875843	0.975089037875843	"cutF"	1
+"MF"	"GO:0008519"	"ammonium transmembrane transporter activity"	"1/247"	"15/2736"	0.75902504013153	0.975089037875843	0.975089037875843	"sapC"	1
+"BP"	"GO:0009411"	"response to UV"	"1/247"	"15/2736"	0.75902504013153	0.975089037875843	0.975089037875843	"yhbO"	1
+"BP"	"GO:0030488"	"tRNA methylation"	"1/247"	"15/2736"	0.75902504013153	0.975089037875843	0.975089037875843	"yaeB"	1
+"BP"	"GO:0042398"	"cellular modified amino acid biosynthetic process"	"1/247"	"15/2736"	0.75902504013153	0.975089037875843	0.975089037875843	"folC"	1
+"MF"	"GO:0070566"	"adenylyltransferase activity"	"1/247"	"15/2736"	0.75902504013153	0.975089037875843	0.975089037875843	"moeA"	1
+"BP"	"GO:0072488"	"ammonium transmembrane transport"	"1/247"	"15/2736"	0.75902504013153	0.975089037875843	0.975089037875843	"sapC"	1
+"MF"	"GO:0016741"	"transferase activity, transferring one-carbon groups"	"5/247"	"69/2736"	0.760913464602886	0.975089037875843	0.975089037875843	"yaeB/yafE/prmC/purN/argI"	5
+"MF"	"GO:0016746"	"acyltransferase activity"	"5/247"	"69/2736"	0.760913464602886	0.975089037875843	0.975089037875843	"maa/pflB/fabF/argA/yhbS"	5
+"BP"	"GO:0015031"	"protein transport"	"2/247"	"30/2736"	0.768930928621437	0.975089037875843	0.975089037875843	"tolQ/ffh"	2
+"MF"	"GO:0015293"	"symporter activity"	"2/247"	"30/2736"	0.768930928621437	0.975089037875843	0.975089037875843	"nupC/dctA"	2
+"MF"	"GO:0016866"	"intramolecular transferase activity"	"2/247"	"30/2736"	0.768930928621437	0.975089037875843	0.975089037875843	"pheA/rbsD"	2
+"CC"	"GO:0042597"	"periplasmic space"	"10/247"	"132/2736"	0.768948648763224	0.975089037875843	0.975089037875843	"cueO/fhuD/degP/skp/nanM/hyaB/pbpG/ppiA/torA/zraP"	10
+"BP"	"GO:0009314"	"response to radiation"	"6/247"	"83/2736"	0.774838402122698	0.975089037875843	0.975089037875843	"yafC/yahO/recO/recC/yhbO/groL"	6
+"CC"	"GO:0030312"	"external encapsulating structure"	"6/247"	"83/2736"	0.774838402122698	0.975089037875843	0.975089037875843	"fhuA/skp/cutF/mliC/nlpD/ygiB"	6
+"BP"	"GO:0044270"	"cellular nitrogen compound catabolic process"	"6/247"	"83/2736"	0.774838402122698	0.975089037875843	0.975089037875843	"rihC/fixB/hcp/norW/mazG/hofP"	6
+"BP"	"GO:0016053"	"organic acid biosynthetic process"	"14/247"	"182/2736"	0.78003533077759	0.975089037875843	0.975089037875843	"carA/fabZ/aroL/ykgA/fabF/folC/pheA/argA/yhbO/asd/ilvB/asnA/lysC/argI"	14
+"BP"	"GO:0046394"	"carboxylic acid biosynthetic process"	"14/247"	"182/2736"	0.78003533077759	0.975089037875843	0.975089037875843	"carA/fabZ/aroL/ykgA/fabF/folC/pheA/argA/yhbO/asd/ilvB/asnA/lysC/argI"	14
+"BP"	"GO:0000902"	"cell morphogenesis"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"dacA"	1
+"MF"	"GO:0008170"	"N-methyltransferase activity"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"prmC"	1
+"BP"	"GO:0008360"	"regulation of cell shape"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"dacA"	1
+"MF"	"GO:0008408"	"3'-5' exonuclease activity"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"rnd"	1
+"BP"	"GO:0009065"	"glutamine family amino acid catabolic process"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"astB"	1
+"BP"	"GO:0009262"	"deoxyribonucleotide metabolic process"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"mazG"	1
+"BP"	"GO:0009432"	"SOS response"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"sulA"	1
+"BP"	"GO:0009653"	"anatomical structure morphogenesis"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"dacA"	1
+"MF"	"GO:0016620"	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"asd"	1
+"MF"	"GO:0016861"	"intramolecular oxidoreductase activity, interconverting aldoses and ketoses"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"yihS"	1
+"BP"	"GO:0022603"	"regulation of anatomical structure morphogenesis"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"dacA"	1
+"BP"	"GO:0022604"	"regulation of cell morphogenesis"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"dacA"	1
+"BP"	"GO:0030031"	"cell projection assembly"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"frdB"	1
+"BP"	"GO:0046165"	"alcohol biosynthetic process"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"uppS"	1
+"BP"	"GO:0048856"	"anatomical structure development"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"dacA"	1
+"BP"	"GO:0050793"	"regulation of developmental process"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"dacA"	1
+"MF"	"GO:0051287"	"NAD binding"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"pdxB"	1
+"BP"	"GO:0071214"	"cellular response to abiotic stimulus"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"proQ"	1
+"BP"	"GO:0104004"	"cellular response to environmental stimulus"	"1/247"	"16/2736"	0.780899650601031	0.975089037875843	0.975089037875843	"proQ"	1
+"MF"	"GO:0097367"	"carbohydrate derivative binding"	"12/247"	"158/2736"	0.781551842722612	0.975089037875843	0.975089037875843	"skp/metN/gltL/znuC/yjgI/pdxH/era/clpB/ffh/cysJ/ugpC/groL"	12
+"MF"	"GO:0005216"	"ion channel activity"	"2/247"	"31/2736"	0.784701600251861	0.976268991984115	0.976268991984115	"sapC/atpE"	2
+"MF"	"GO:0000166"	"nucleotide binding"	"16/247"	"208/2736"	0.792710591060584	0.976268991984115	0.976268991984115	"fixB/metN/gcl/gltL/znuC/yjgI/pntB/pdxH/pdxB/era/clpB/ffh/norW/cysJ/ugpC/groL"	16
+"MF"	"GO:1901265"	"nucleoside phosphate binding"	"16/247"	"208/2736"	0.792710591060584	0.976268991984115	0.976268991984115	"fixB/metN/gcl/gltL/znuC/yjgI/pntB/pdxH/pdxB/era/clpB/ffh/norW/cysJ/ugpC/groL"	16
+"BP"	"GO:0043648"	"dicarboxylic acid metabolic process"	"4/247"	"59/2736"	0.794242304101912	0.976268991984115	0.976268991984115	"folC/gudD/asd/lysC"	4
+"MF"	"GO:0016853"	"isomerase activity"	"7/247"	"98/2736"	0.796677931873352	0.976268991984115	0.976268991984115	"araD/nanM/pheA/ppiA/rpe/rbsD/yihS"	7
+"BP"	"GO:0006165"	"nucleoside diphosphate phosphorylation"	"1/247"	"17/2736"	0.800795895564835	0.976268991984115	0.976268991984115	"ndk"	1
+"BP"	"GO:0009416"	"response to light stimulus"	"1/247"	"17/2736"	0.800795895564835	0.976268991984115	0.976268991984115	"yhbO"	1
+"MF"	"GO:0022884"	"macromolecule transmembrane transporter activity"	"1/247"	"17/2736"	0.800795895564835	0.976268991984115	0.976268991984115	"yhjD"	1
+"BP"	"GO:0072337"	"modified amino acid transport"	"1/247"	"17/2736"	0.800795895564835	0.976268991984115	0.976268991984115	"yehW"	1
+"BP"	"GO:0019752"	"carboxylic acid metabolic process"	"28/247"	"352/2736"	0.801475718401809	0.976268991984115	0.976268991984115	"carA/fixB/fabZ/fadE/aroL/ybaO/gcl/nagA/sucA/pflB/yciA/acnA/ykgA/astB/fabF/folC/pheA/alaS/gudD/argA/gcvH/ackA/yhbO/asd/ilvB/asnA/lysC/argI"	28
+"BP"	"GO:0090304"	"nucleic acid metabolic process"	"40/247"	"492/2736"	0.802333101056031	0.976268991984115	0.976268991984115	"sfsA/cdaR/dnaE/tilS/yaeB/yafC/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/rnd/yjgJ/ykgA/ydcR/marR/tus/rplT/xthA/flgM/sbmC/nfo/alaS/norR/cas1/recC/yhbO/hofP/rtcB/gntR/xylR/torR/asnC/xerC/fabR/pepA/dnaT"	40
+"CC"	"GO:0098797"	"plasma membrane protein complex"	"5/247"	"73/2736"	0.80307975228343	0.976268991984115	0.976268991984115	"fhuB/metN/potH/ugpC/frdB"	5
+"MF"	"GO:0032555"	"purine ribonucleotide binding"	"9/247"	"124/2736"	0.803622503023767	0.976268991984115	0.976268991984115	"metN/gltL/znuC/yjgI/era/clpB/ffh/ugpC/groL"	9
+"MF"	"GO:0000976"	"transcription cis-regulatory region binding"	"4/247"	"60/2736"	0.805079323826511	0.976268991984115	0.976268991984115	"fur/yjgJ/norR/fabR"	4
+"BP"	"GO:0030001"	"metal ion transport"	"4/247"	"60/2736"	0.805079323826511	0.976268991984115	0.976268991984115	"fepD/entS/znuC/fhuF"	4
+"MF"	"GO:0035639"	"purine ribonucleoside triphosphate binding"	"8/247"	"112/2736"	0.807939345758623	0.976268991984115	0.976268991984115	"metN/gltL/znuC/era/clpB/ffh/ugpC/groL"	8
+"MF"	"GO:0017076"	"purine nucleotide binding"	"9/247"	"125/2736"	0.811180195108599	0.976268991984115	0.976268991984115	"metN/gltL/znuC/yjgI/era/clpB/ffh/ugpC/groL"	9
+"MF"	"GO:0032553"	"ribonucleotide binding"	"11/247"	"150/2736"	0.811859076468156	0.976268991984115	0.976268991984115	"metN/gltL/znuC/yjgI/pdxH/era/clpB/ffh/cysJ/ugpC/groL"	11
+"BP"	"GO:0072525"	"pyridine-containing compound biosynthetic process"	"2/247"	"33/2736"	0.81343423948781	0.976268991984115	0.976268991984115	"pdxH/pdxB"	2
+"BP"	"GO:0006281"	"DNA repair"	"4/247"	"61/2736"	0.815450840225674	0.976268991984115	0.976268991984115	"nfo/recC/yhbO/rtcB"	4
+"MF"	"GO:0016830"	"carbon-carbon lyase activity"	"4/247"	"61/2736"	0.815450840225674	0.976268991984115	0.976268991984115	"araD/gcl/rhmA/gatY"	4
+"MF"	"GO:0019842"	"vitamin binding"	"4/247"	"61/2736"	0.815450840225674	0.976268991984115	0.976268991984115	"gcl/entB/sucA/pdxH"	4
+"BP"	"GO:0002097"	"tRNA wobble base modification"	"1/247"	"18/2736"	0.818892038924704	0.976268991984115	0.976268991984115	"tilS"	1
+"MF"	"GO:0004180"	"carboxypeptidase activity"	"1/247"	"18/2736"	0.818892038924704	0.976268991984115	0.976268991984115	"dacA"	1
+"MF"	"GO:0008237"	"metallopeptidase activity"	"1/247"	"18/2736"	0.818892038924704	0.976268991984115	0.976268991984115	"map"	1
+"BP"	"GO:0009081"	"branched-chain amino acid metabolic process"	"1/247"	"18/2736"	0.818892038924704	0.976268991984115	0.976268991984115	"ilvB"	1
+"MF"	"GO:0016410"	"N-acyltransferase activity"	"1/247"	"18/2736"	0.818892038924704	0.976268991984115	0.976268991984115	"argA"	1
+"MF"	"GO:0016780"	"phosphotransferase activity, for other substituted phosphate groups"	"1/247"	"18/2736"	0.818892038924704	0.976268991984115	0.976268991984115	"citG"	1
+"BP"	"GO:0030030"	"cell projection organization"	"1/247"	"18/2736"	0.818892038924704	0.976268991984115	0.976268991984115	"frdB"	1
+"BP"	"GO:0046128"	"purine ribonucleoside metabolic process"	"1/247"	"18/2736"	0.818892038924704	0.976268991984115	0.976268991984115	"moeA"	1
+"BP"	"GO:0046939"	"nucleotide phosphorylation"	"1/247"	"18/2736"	0.818892038924704	0.976268991984115	0.976268991984115	"ndk"	1
+"MF"	"GO:0015291"	"secondary active transmembrane transporter activity"	"4/247"	"62/2736"	0.825367921765142	0.976268991984115	0.976268991984115	"clcA/nupC/alaE/dctA"	4
+"BP"	"GO:0000160"	"phosphorelay signal transduction system"	"2/247"	"34/2736"	0.826480870696834	0.976268991984115	0.976268991984115	"uvrY/torR"	2
+"CC"	"GO:0043226"	"organelle"	"7/247"	"102/2736"	0.829354933238956	0.976268991984115	0.976268991984115	"dnaE/rplT/rpmI/rplQ/rpmC/rplB/mgtA"	7
+"BP"	"GO:0043436"	"oxoacid metabolic process"	"28/247"	"358/2736"	0.829439171082505	0.976268991984115	0.976268991984115	"carA/fixB/fabZ/fadE/aroL/ybaO/gcl/nagA/sucA/pflB/yciA/acnA/ykgA/astB/fabF/folC/pheA/alaS/gudD/argA/gcvH/ackA/yhbO/asd/ilvB/asnA/lysC/argI"	28
+"MF"	"GO:0043168"	"anion binding"	"22/247"	"287/2736"	0.831167401109843	0.976268991984115	0.976268991984115	"fixB/clcA/lpxB/metN/gcl/entB/dacA/gltL/sucA/znuC/yjgI/pdxH/era/clpB/ffh/alaS/norW/cysJ/gcvH/ugpC/asnC/groL"	22
+"BP"	"GO:0006400"	"tRNA modification"	"3/247"	"49/2736"	0.83337784776864	0.976268991984115	0.976268991984115	"tilS/yaeB/alaS"	3
+"MF"	"GO:1990837"	"sequence-specific double-stranded DNA binding"	"4/247"	"63/2736"	0.834842221448165	0.976268991984115	0.976268991984115	"fur/yjgJ/norR/fabR"	4
+"BP"	"GO:0006576"	"cellular biogenic amine metabolic process"	"1/247"	"19/2736"	0.835350341494829	0.976268991984115	0.976268991984115	"speE"	1
+"BP"	"GO:0015698"	"inorganic anion transport"	"1/247"	"19/2736"	0.835350341494829	0.976268991984115	0.976268991984115	"clcA"	1
+"BP"	"GO:0032502"	"developmental process"	"1/247"	"19/2736"	0.835350341494829	0.976268991984115	0.976268991984115	"dacA"	1
+"BP"	"GO:0009273"	"peptidoglycan-based cell wall biogenesis"	"2/247"	"35/2736"	0.838704021650555	0.976268991984115	0.976268991984115	"uppS/nagZ"	2
+"BP"	"GO:0046496"	"nicotinamide nucleotide metabolic process"	"2/247"	"35/2736"	0.838704021650555	0.976268991984115	0.976268991984115	"pntB/rpe"	2
+"MF"	"GO:0008757"	"S-adenosylmethionine-dependent methyltransferase activity"	"3/247"	"50/2736"	0.843526261183645	0.976268991984115	0.976268991984115	"yaeB/yafE/prmC"	3
+"MF"	"GO:0016740"	"transferase activity"	"38/247"	"480/2736"	0.847148266730823	0.976268991984115	0.976268991984115	"citG/coaE/speE/pyrH/uppS/cdsA/lpxB/dnaE/yaeB/yafE/aroL/maa/gsk/entB/moeA/pflB/yedQ/manY/prmC/gst/yeaG/thiK/fabF/cobU/cpsB/fruB/purN/ndk/argA/ackA/gatC/yhbS/xylB/pyrE/ilvB/lsrK/lysC/argI"	38
+"BP"	"GO:0019362"	"pyridine nucleotide metabolic process"	"2/247"	"36/2736"	0.850145340290512	0.976268991984115	0.976268991984115	"pntB/rpe"	2
+"BP"	"GO:0044036"	"cell wall macromolecule metabolic process"	"2/247"	"36/2736"	0.850145340290512	0.976268991984115	0.976268991984115	"uppS/dacA"	2
+"BP"	"GO:0000096"	"sulfur amino acid metabolic process"	"1/247"	"20/2736"	0.850318492268026	0.976268991984115	0.976268991984115	"ybaO"	1
+"BP"	"GO:0006869"	"lipid transport"	"1/247"	"20/2736"	0.850318492268026	0.976268991984115	0.976268991984115	"yhjD"	1
+"MF"	"GO:0016763"	"pentosyltransferase activity"	"1/247"	"20/2736"	0.850318492268026	0.976268991984115	0.976268991984115	"pyrE"	1
+"MF"	"GO:0019200"	"carbohydrate kinase activity"	"1/247"	"20/2736"	0.850318492268026	0.976268991984115	0.976268991984115	"xylB"	1
+"BP"	"GO:0022904"	"respiratory electron transport chain"	"1/247"	"20/2736"	0.850318492268026	0.976268991984115	0.976268991984115	"cyoA"	1
+"MF"	"GO:0042803"	"protein homodimerization activity"	"1/247"	"20/2736"	0.850318492268026	0.976268991984115	0.976268991984115	"pdxH"	1
+"BP"	"GO:0046835"	"carbohydrate phosphorylation"	"1/247"	"20/2736"	0.850318492268026	0.976268991984115	0.976268991984115	"xylB"	1
+"BP"	"GO:0016052"	"carbohydrate catabolic process"	"6/247"	"92/2736"	0.852191449778084	0.976268991984115	0.976268991984115	"araD/rspA/gudD/rpe/xylB/rbsD"	6
+"BP"	"GO:0033036"	"macromolecule localization"	"4/247"	"65/2736"	0.852511384099384	0.976268991984115	0.976268991984115	"skp/tolQ/ffh/yhjD"	4
+"BP"	"GO:0009123"	"nucleoside monophosphate metabolic process"	"3/247"	"51/2736"	0.853137216740019	0.976268991984115	0.976268991984115	"pyrH/cyoA/atpE"	3
+"CC"	"GO:0016021"	"integral component of membrane"	"25/247"	"329/2736"	0.857854494207392	0.976268991984115	0.976268991984115	"fhuB/clcA/metN/cyoA/dacA/tolQ/potH/ybjE/macA/ftsK/yebQ/manY/hyaC/hyaA/pntB/lysP/nupC/yfhB/ugpC/yhjD/dctA/torC/atpE/lsrC/mgtA"	25
+"BP"	"GO:0008610"	"lipid biosynthetic process"	"6/247"	"93/2736"	0.85927322200357	0.976268991984115	0.976268991984115	"uppS/cdsA/fabZ/lpxB/fabF/yfhB"	6
+"BP"	"GO:0042546"	"cell wall biogenesis"	"2/247"	"37/2736"	0.860845697342357	0.976268991984115	0.976268991984115	"uppS/nagZ"	2
+"BP"	"GO:0006767"	"water-soluble vitamin metabolic process"	"3/247"	"52/2736"	0.86223140948253	0.976268991984115	0.976268991984115	"pdxH/pdxB/yjjX"	3
+"CC"	"GO:0043232"	"intracellular non-membrane-bounded organelle"	"5/247"	"80/2736"	0.862555097486061	0.976268991984115	0.976268991984115	"rplT/rpmI/rplQ/rpmC/rplB"	5
+"MF"	"GO:0004540"	"ribonuclease activity"	"1/247"	"21/2736"	0.863930912153813	0.976268991984115	0.976268991984115	"rnd"	1
+"MF"	"GO:0004812"	"aminoacyl-tRNA ligase activity"	"1/247"	"21/2736"	0.863930912153813	0.976268991984115	0.976268991984115	"alaS"	1
+"BP"	"GO:0009308"	"amine metabolic process"	"1/247"	"21/2736"	0.863930912153813	0.976268991984115	0.976268991984115	"speE"	1
+"BP"	"GO:0010876"	"lipid localization"	"1/247"	"21/2736"	0.863930912153813	0.976268991984115	0.976268991984115	"yhjD"	1
+"MF"	"GO:0016875"	"ligase activity, forming carbon-oxygen bonds"	"1/247"	"21/2736"	0.863930912153813	0.976268991984115	0.976268991984115	"alaS"	1
+"BP"	"GO:0043094"	"cellular metabolic compound salvage"	"1/247"	"21/2736"	0.863930912153813	0.976268991984115	0.976268991984115	"pdxH"	1
+"BP"	"GO:0044106"	"cellular amine metabolic process"	"1/247"	"21/2736"	0.863930912153813	0.976268991984115	0.976268991984115	"speE"	1
+"BP"	"GO:0071103"	"DNA conformation change"	"1/247"	"21/2736"	0.863930912153813	0.976268991984115	0.976268991984115	"recC"	1
+"BP"	"GO:0140352"	"export from cell"	"1/247"	"21/2736"	0.863930912153813	0.976268991984115	0.976268991984115	"macA"	1
+"BP"	"GO:0022613"	"ribonucleoprotein complex biogenesis"	"6/247"	"94/2736"	0.866074931366047	0.976268991984115	0.976268991984115	"rplT/infC/era/rplQ/rpmC/rplB"	6
+"MF"	"GO:0036094"	"small molecule binding"	"22/247"	"295/2736"	0.866544863709475	0.976268991984115	0.976268991984115	"fixB/metN/gcl/entB/dacA/gltL/sucA/znuC/yjgI/pntB/pdxH/pdxB/era/clpB/ffh/alaS/norW/cysJ/gcvH/ugpC/asnC/groL"	22
+"BP"	"GO:0005996"	"monosaccharide metabolic process"	"4/247"	"67/2736"	0.868559429751102	0.976268991984115	0.976268991984115	"araD/rpe/xylB/rbsD"	4
+"BP"	"GO:0006766"	"vitamin metabolic process"	"3/247"	"53/2736"	0.870829555348177	0.976268991984115	0.976268991984115	"pdxH/pdxB/yjjX"	3
+"BP"	"GO:0009126"	"purine nucleoside monophosphate metabolic process"	"2/247"	"38/2736"	0.870844987404453	0.976268991984115	0.976268991984115	"cyoA/atpE"	2
+"BP"	"GO:0009167"	"purine ribonucleoside monophosphate metabolic process"	"2/247"	"38/2736"	0.870844987404453	0.976268991984115	0.976268991984115	"cyoA/atpE"	2
+"BP"	"GO:0006754"	"ATP biosynthetic process"	"1/247"	"22/2736"	0.876309941508512	0.976268991984115	0.976268991984115	"atpE"	1
+"BP"	"GO:0009132"	"nucleoside diphosphate metabolic process"	"1/247"	"22/2736"	0.876309941508512	0.976268991984115	0.976268991984115	"ndk"	1
+"MF"	"GO:0016758"	"hexosyltransferase activity"	"1/247"	"22/2736"	0.876309941508512	0.976268991984115	0.976268991984115	"lpxB"	1
+"BP"	"GO:0043650"	"dicarboxylic acid biosynthetic process"	"1/247"	"22/2736"	0.876309941508512	0.976268991984115	0.976268991984115	"folC"	1
+"BP"	"GO:0061024"	"membrane organization"	"1/247"	"22/2736"	0.876309941508512	0.976268991984115	0.976268991984115	"skp"	1
+"BP"	"GO:0090501"	"RNA phosphodiester bond hydrolysis"	"1/247"	"22/2736"	0.876309941508512	0.976268991984115	0.976268991984115	"rnd"	1
+"CC"	"GO:0031226"	"intrinsic component of plasma membrane"	"20/247"	"274/2736"	0.879829673852017	0.976268991984115	0.976268991984115	"fhuB/clcA/cyoA/dacA/tolQ/potH/ybjE/ftsK/dmsA/yebQ/manY/hyaC/hyaA/pntB/lysP/nupC/yfhB/yhjD/dctA/mgtA"	20
+"CC"	"GO:0005887"	"integral component of plasma membrane"	"18/247"	"250/2736"	0.882137332909894	0.976268991984115	0.976268991984115	"fhuB/clcA/cyoA/dacA/tolQ/potH/ybjE/ftsK/yebQ/manY/hyaC/pntB/lysP/nupC/yfhB/yhjD/dctA/mgtA"	18
+"MF"	"GO:0003690"	"double-stranded DNA binding"	"4/247"	"69/2736"	0.883090875873404	0.976268991984115	0.976268991984115	"fur/yjgJ/norR/fabR"	4
+"BP"	"GO:0016070"	"RNA metabolic process"	"29/247"	"384/2736"	0.883616524685578	0.976268991984115	0.976268991984115	"sfsA/cdaR/tilS/yaeB/yafC/iraP/phoB/ybaO/aes/allR/fur/cspD/ftsK/rnd/yjgJ/ykgA/ydcR/marR/rplT/flgM/alaS/norR/rtcB/gntR/xylR/torR/asnC/fabR/pepA"	29
+"MF"	"GO:0005524"	"ATP binding"	"6/247"	"97/2736"	0.884869209625436	0.976268991984115	0.976268991984115	"metN/gltL/znuC/clpB/ugpC/groL"	6
+"BP"	"GO:0008033"	"tRNA processing"	"3/247"	"55/2736"	0.886620010951235	0.976268991984115	0.976268991984115	"tilS/yaeB/alaS"	3
+"MF"	"GO:0001216"	"DNA-binding transcription activator activity"	"1/247"	"23/2736"	0.887566921776529	0.976268991984115	0.976268991984115	"fur"	1
+"MF"	"GO:0004386"	"helicase activity"	"1/247"	"23/2736"	0.887566921776529	0.976268991984115	0.976268991984115	"recC"	1
+"BP"	"GO:0006418"	"tRNA aminoacylation for protein translation"	"1/247"	"23/2736"	0.887566921776529	0.976268991984115	0.976268991984115	"alaS"	1
+"BP"	"GO:0009145"	"purine nucleoside triphosphate biosynthetic process"	"1/247"	"23/2736"	0.887566921776529	0.976268991984115	0.976268991984115	"atpE"	1
+"BP"	"GO:0009206"	"purine ribonucleoside triphosphate biosynthetic process"	"1/247"	"23/2736"	0.887566921776529	0.976268991984115	0.976268991984115	"atpE"	1
+"BP"	"GO:0043039"	"tRNA aminoacylation"	"1/247"	"23/2736"	0.887566921776529	0.976268991984115	0.976268991984115	"alaS"	1
+"CC"	"GO:0070469"	"respirasome"	"1/247"	"23/2736"	0.887566921776529	0.976268991984115	0.976268991984115	"frdB"	1
+"CC"	"GO:0070470"	"plasma membrane respirasome"	"1/247"	"23/2736"	0.887566921776529	0.976268991984115	0.976268991984115	"frdB"	1
+"BP"	"GO:0071241"	"cellular response to inorganic substance"	"1/247"	"23/2736"	0.887566921776529	0.976268991984115	0.976268991984115	"norW"	1
+"CC"	"GO:0098803"	"respiratory chain complex"	"1/247"	"23/2736"	0.887566921776529	0.976268991984115	0.976268991984115	"frdB"	1
+"BP"	"GO:0006468"	"protein phosphorylation"	"2/247"	"40/2736"	0.88889415866096	0.976268991984115	0.976268991984115	"yeaG/era"	2
+"MF"	"GO:0140101"	"catalytic activity, acting on a tRNA"	"3/247"	"56/2736"	0.893852911751322	0.976268991984115	0.976268991984115	"tilS/yaeB/alaS"	3
+"BP"	"GO:0044265"	"cellular macromolecule catabolic process"	"2/247"	"41/2736"	0.897017710938032	0.976268991984115	0.976268991984115	"degP/hofP"	2
+"BP"	"GO:0009201"	"ribonucleoside triphosphate biosynthetic process"	"1/247"	"24/2736"	0.897803180649068	0.976268991984115	0.976268991984115	"atpE"	1
+"BP"	"GO:0010212"	"response to ionizing radiation"	"1/247"	"24/2736"	0.897803180649068	0.976268991984115	0.976268991984115	"yafC"	1
+"MF"	"GO:0019899"	"enzyme binding"	"1/247"	"24/2736"	0.897803180649068	0.976268991984115	0.976268991984115	"sbmC"	1
+"BP"	"GO:0043038"	"amino acid activation"	"1/247"	"24/2736"	0.897803180649068	0.976268991984115	0.976268991984115	"alaS"	1
+"BP"	"GO:0046777"	"protein autophosphorylation"	"1/247"	"24/2736"	0.897803180649068	0.976268991984115	0.976268991984115	"era"	1
+"MF"	"GO:0008168"	"methyltransferase activity"	"3/247"	"57/2736"	0.900670790382781	0.976268991984115	0.976268991984115	"yaeB/yafE/prmC"	3
+"MF"	"GO:0032559"	"adenyl ribonucleotide binding"	"6/247"	"100/2736"	0.901397931851816	0.976268991984115	0.976268991984115	"metN/gltL/znuC/clpB/ugpC/groL"	6
+"BP"	"GO:0019439"	"aromatic compound catabolic process"	"4/247"	"72/2736"	0.902275376892328	0.976268991984115	0.976268991984115	"rihC/fes/mazG/hofP"	4
+"BP"	"GO:0010038"	"response to metal ion"	"2/247"	"42/2736"	0.904587384650759	0.976268991984115	0.976268991984115	"cueO/cutC"	2
+"MF"	"GO:0016651"	"oxidoreductase activity, acting on NAD(P)H"	"2/247"	"42/2736"	0.904587384650759	0.976268991984115	0.976268991984115	"pntB/cysJ"	2
+"MF"	"GO:0030554"	"adenyl nucleotide binding"	"6/247"	"101/2736"	0.906438110838246	0.976268991984115	0.976268991984115	"metN/gltL/znuC/clpB/ugpC/groL"	6
+"BP"	"GO:0009142"	"nucleoside triphosphate biosynthetic process"	"1/247"	"25/2736"	0.907110929314142	0.976268991984115	0.976268991984115	"atpE"	1
+"BP"	"GO:0009166"	"nucleotide catabolic process"	"1/247"	"25/2736"	0.907110929314142	0.976268991984115	0.976268991984115	"mazG"	1
+"MF"	"GO:0016811"	"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides"	"1/247"	"25/2736"	0.907110929314142	0.976268991984115	0.976268991984115	"nagA"	1
+"BP"	"GO:0042274"	"ribosomal small subunit biogenesis"	"1/247"	"25/2736"	0.907110929314142	0.976268991984115	0.976268991984115	"era"	1
+"BP"	"GO:1901566"	"organonitrogen compound biosynthetic process"	"32/247"	"428/2736"	0.907443086909313	0.976268991984115	0.976268991984115	"frr/carA/coaE/speE/pyrH/uppS/cdsA/aroL/entB/moeA/rmf/prmC/pdxH/rplT/infC/pyrC/folC/pdxB/pheA/alaS/argA/arfA/rplQ/rpmC/rplB/asd/pyrE/ilvB/atpE/asnA/lysC/argI"	32
+"BP"	"GO:0009161"	"ribonucleoside monophosphate metabolic process"	"2/247"	"43/2736"	0.911636486527953	0.979303133878091	0.979303133878091	"cyoA/atpE"	2
+"MF"	"GO:0140640"	"catalytic activity, acting on a nucleic acid"	"12/247"	"183/2736"	0.91498685754506	0.979303133878091	0.979303133878091	"dnaE/tilS/yaeB/ftsK/rnd/xthA/nfo/alaS/cas1/recC/rtcB/xerC"	12
+"MF"	"GO:0004672"	"protein kinase activity"	"1/247"	"26/2736"	0.915574079612706	0.979303133878091	0.979303133878091	"yeaG"	1
+"BP"	"GO:0015949"	"nucleobase-containing small molecule interconversion"	"1/247"	"26/2736"	0.915574079612706	0.979303133878091	0.979303133878091	"ndk"	1
+"BP"	"GO:1901292"	"nucleoside phosphate catabolic process"	"1/247"	"26/2736"	0.915574079612706	0.979303133878091	0.979303133878091	"mazG"	1
+"BP"	"GO:0032259"	"methylation"	"3/247"	"60/2736"	0.918825954499292	0.981328676014946	0.981328676014946	"yaeB/yafE/prmC"	3
+"CC"	"GO:0031224"	"intrinsic component of membrane"	"26/247"	"360/2736"	0.919596503337216	0.981328676014946	0.981328676014946	"fhuB/clcA/metN/cyoA/dacA/tolQ/potH/ybjE/macA/ftsK/dmsA/yebQ/manY/hyaC/hyaA/pntB/lysP/nupC/yfhB/ugpC/yhjD/dctA/torC/atpE/lsrC/mgtA"	26
+"MF"	"GO:0016757"	"glycosyltransferase activity"	"3/247"	"61/2736"	0.924172943168618	0.981954966314243	0.981954966314243	"lpxB/cpsB/pyrE"	3
+"BP"	"GO:0042364"	"water-soluble vitamin biosynthetic process"	"2/247"	"45/2736"	0.924298836833595	0.981954966314243	0.981954966314243	"pdxH/pdxB"	2
+"BP"	"GO:0042254"	"ribosome biogenesis"	"5/247"	"91/2736"	0.925359160049559	0.981954966314243	0.981954966314243	"rplT/era/rplQ/rpmC/rplB"	5
+"BP"	"GO:0009110"	"vitamin biosynthetic process"	"2/247"	"46/2736"	0.929971326840004	0.981954966314243	0.981954966314243	"pdxH/pdxB"	2
+"MF"	"GO:0016860"	"intramolecular oxidoreductase activity"	"1/247"	"28/2736"	0.930265134369372	0.981954966314243	0.981954966314243	"yihS"	1
+"BP"	"GO:0043412"	"macromolecule modification"	"14/247"	"215/2736"	0.933853895885295	0.981954966314243	0.981954966314243	"map/tilS/yaeB/moeA/cheW/prmC/yeaG/wzb/era/alaS/yhbO/yhbS/ppiA/nrfG"	14
+"BP"	"GO:0009057"	"macromolecule catabolic process"	"3/247"	"63/2736"	0.933914662600758	0.981954966314243	0.981954966314243	"degP/iraP/hofP"	3
+"MF"	"GO:0015267"	"channel activity"	"2/247"	"47/2736"	0.935241751879416	0.981954966314243	0.981954966314243	"sapC/atpE"	2
+"MF"	"GO:0022803"	"passive transmembrane transporter activity"	"2/247"	"47/2736"	0.935241751879416	0.981954966314243	0.981954966314243	"sapC/atpE"	2
+"MF"	"GO:0016831"	"carboxy-lyase activity"	"1/247"	"29/2736"	0.936625736958281	0.981954966314243	0.981954966314243	"gcl"	1
+"BP"	"GO:0046700"	"heterocycle catabolic process"	"4/247"	"79/2736"	0.93664268732988	0.981954966314243	0.981954966314243	"rihC/fes/mazG/hofP"	4
+"BP"	"GO:0044283"	"small molecule biosynthetic process"	"18/247"	"269/2736"	0.940459678242561	0.981954966314243	0.981954966314243	"carA/uppS/fabZ/aroL/ykgA/pdxH/fabF/folC/pdxB/pheA/mazG/argA/yhbO/asd/ilvB/asnA/lysC/argI"	18
+"BP"	"GO:0006023"	"aminoglycan biosynthetic process"	"1/247"	"30/2736"	0.942408316556103	0.981954966314243	0.981954966314243	"uppS"	1
+"BP"	"GO:0006024"	"glycosaminoglycan biosynthetic process"	"1/247"	"30/2736"	0.942408316556103	0.981954966314243	0.981954966314243	"uppS"	1
+"BP"	"GO:0009252"	"peptidoglycan biosynthetic process"	"1/247"	"30/2736"	0.942408316556103	0.981954966314243	0.981954966314243	"uppS"	1
+"BP"	"GO:0046434"	"organophosphate catabolic process"	"1/247"	"30/2736"	0.942408316556103	0.981954966314243	0.981954966314243	"mazG"	1
+"MF"	"GO:0046873"	"metal ion transmembrane transporter activity"	"1/247"	"30/2736"	0.942408316556103	0.981954966314243	0.981954966314243	"znuC"	1
+"BP"	"GO:0051674"	"localization of cell"	"1/247"	"30/2736"	0.942408316556103	0.981954966314243	0.981954966314243	"frdB"	1
+"BP"	"GO:0034655"	"nucleobase-containing compound catabolic process"	"3/247"	"65/2736"	0.942495417307132	0.981954966314243	0.981954966314243	"rihC/mazG/hofP"	3
+"BP"	"GO:1901361"	"organic cyclic compound catabolic process"	"4/247"	"81/2736"	0.944222649055865	0.981954966314243	0.981954966314243	"rihC/fes/mazG/hofP"	4
+"CC"	"GO:0043228"	"non-membrane-bounded organelle"	"5/247"	"96/2736"	0.944357183210105	0.981954966314243	0.981954966314243	"rplT/rpmI/rplQ/rpmC/rplB"	5
+"BP"	"GO:0009152"	"purine ribonucleotide biosynthetic process"	"2/247"	"49/2736"	0.944679018569125	0.981954966314243	0.981954966314243	"coaE/atpE"	2
+"BP"	"GO:0043414"	"macromolecule methylation"	"2/247"	"49/2736"	0.944679018569125	0.981954966314243	0.981954966314243	"yaeB/prmC"	2
+"BP"	"GO:0009127"	"purine nucleoside monophosphate biosynthetic process"	"1/247"	"31/2736"	0.947665207099578	0.982842880703949	0.982842880703949	"atpE"	1
+"BP"	"GO:0009168"	"purine ribonucleoside monophosphate biosynthetic process"	"1/247"	"31/2736"	0.947665207099578	0.982842880703949	0.982842880703949	"atpE"	1
+"BP"	"GO:0044038"	"cell wall macromolecule biosynthetic process"	"1/247"	"32/2736"	0.952444021830226	0.984847060570063	0.984847060570063	"uppS"	1
+"BP"	"GO:0070589"	"cellular component macromolecule biosynthetic process"	"1/247"	"32/2736"	0.952444021830226	0.984847060570063	0.984847060570063	"uppS"	1
+"MF"	"GO:0016791"	"phosphatase activity"	"2/247"	"51/2736"	0.952802145367132	0.984847060570063	0.984847060570063	"wzb/yfhB"	2
+"BP"	"GO:0005975"	"carbohydrate metabolic process"	"12/247"	"198/2736"	0.955900822186975	0.985278018735106	0.985278018735106	"araD/sfsA/lpxB/acnA/rspA/cpsB/wzb/rhmA/gudD/rpe/xylB/rbsD"	12
+"BP"	"GO:0006164"	"purine nucleotide biosynthetic process"	"2/247"	"52/2736"	0.956424974802516	0.985278018735106	0.985278018735106	"coaE/atpE"	2
+"BP"	"GO:0015833"	"peptide transport"	"2/247"	"52/2736"	0.956424974802516	0.985278018735106	0.985278018735106	"tolQ/ffh"	2
+"BP"	"GO:0072522"	"purine-containing compound biosynthetic process"	"2/247"	"53/2736"	0.959781657918373	0.987513168189542	0.987513168189542	"coaE/atpE"	2
+"BP"	"GO:0009156"	"ribonucleoside monophosphate biosynthetic process"	"1/247"	"34/2736"	0.960736780765748	0.987513168189542	0.987513168189542	"atpE"	1
+"MF"	"GO:0008173"	"RNA methyltransferase activity"	"1/247"	"35/2736"	0.964325979563253	0.988278201405675	0.988278201405675	"yaeB"	1
+"BP"	"GO:0009312"	"oligosaccharide biosynthetic process"	"1/247"	"35/2736"	0.964325979563253	0.988278201405675	0.988278201405675	"lpxB"	1
+"BP"	"GO:1901137"	"carbohydrate derivative biosynthetic process"	"10/247"	"176/2736"	0.965682823207918	0.988278201405675	0.988278201405675	"carA/araD/coaE/uppS/lpxB/pyrC/cpsB/wzb/pyrE/atpE"	10
+"BP"	"GO:0042886"	"amide transport"	"2/247"	"55/2736"	0.965768611135047	0.988278201405675	0.988278201405675	"tolQ/ffh"	2
+"BP"	"GO:0016311"	"dephosphorylation"	"2/247"	"56/2736"	0.968432155556666	0.989905152353932	0.989905152353932	"wzb/yfhB"	2
+"BP"	"GO:0018193"	"peptidyl-amino acid modification"	"2/247"	"58/2736"	0.973174889405394	0.990435781897102	0.990435781897102	"ppiA/nrfG"	2
+"BP"	"GO:0001510"	"RNA methylation"	"1/247"	"38/2736"	0.973248176137499	0.990435781897102	0.990435781897102	"yaeB"	1
+"BP"	"GO:0009124"	"nucleoside monophosphate biosynthetic process"	"1/247"	"38/2736"	0.973248176137499	0.990435781897102	0.990435781897102	"atpE"	1
+"CC"	"GO:0032993"	"protein-DNA complex"	"1/247"	"38/2736"	0.973248176137499	0.990435781897102	0.990435781897102	"fur"	1
+"BP"	"GO:0006399"	"tRNA metabolic process"	"3/247"	"80/2736"	0.980606432333512	0.991888983467584	0.991888983467584	"tilS/yaeB/alaS"	3
+"BP"	"GO:0033692"	"cellular polysaccharide biosynthetic process"	"2/247"	"62/2736"	0.980687638219737	0.991888983467584	0.991888983467584	"cpsB/wzb"	2
+"BP"	"GO:0000271"	"polysaccharide biosynthetic process"	"2/247"	"63/2736"	0.982221178403966	0.991888983467584	0.991888983467584	"cpsB/wzb"	2
+"BP"	"GO:0009311"	"oligosaccharide metabolic process"	"1/247"	"43/2736"	0.983453817151354	0.991888983467584	0.991888983467584	"lpxB"	1
+"MF"	"GO:0140098"	"catalytic activity, acting on RNA"	"5/247"	"116/2736"	0.984214324893948	0.991888983467584	0.991888983467584	"tilS/yaeB/rnd/alaS/rtcB"	5
+"BP"	"GO:0009451"	"RNA modification"	"3/247"	"83/2736"	0.984521483486251	0.991888983467584	0.991888983467584	"tilS/yaeB/alaS"	3
+"BP"	"GO:0034637"	"cellular carbohydrate biosynthetic process"	"2/247"	"65/2736"	0.984942695945656	0.991888983467584	0.991888983467584	"cpsB/wzb"	2
+"BP"	"GO:1903509"	"liposaccharide metabolic process"	"1/247"	"44/2736"	0.984971420999708	0.991888983467584	0.991888983467584	"lpxB"	1
+"BP"	"GO:0016051"	"carbohydrate biosynthetic process"	"3/247"	"84/2736"	0.985649869601768	0.991888983467584	0.991888983467584	"lpxB/cpsB/wzb"	3
+"BP"	"GO:0034404"	"nucleobase-containing small molecule biosynthetic process"	"1/247"	"45/2736"	0.986350343367119	0.991888983467584	0.991888983467584	"mazG"	1
+"BP"	"GO:0006396"	"RNA processing"	"4/247"	"102/2736"	0.986509975965048	0.991888983467584	0.991888983467584	"tilS/yaeB/alaS/rtcB"	4
+"BP"	"GO:0044262"	"cellular carbohydrate metabolic process"	"5/247"	"120/2736"	0.987904264490122	0.992208858235177	0.992208858235177	"acnA/cpsB/wzb/rpe/xylB"	5
+"BP"	"GO:0044264"	"cellular polysaccharide metabolic process"	"2/247"	"71/2736"	0.990898811565528	0.994133519329071	0.994133519329071	"cpsB/wzb"	2
+"BP"	"GO:0005976"	"polysaccharide metabolic process"	"2/247"	"74/2736"	0.992942753764484	0.994437175817256	0.994437175817256	"cpsB/wzb"	2
+"BP"	"GO:0034470"	"ncRNA processing"	"3/247"	"94/2736"	0.993358610550643	0.994437175817256	0.994437175817256	"tilS/yaeB/alaS"	3
+"BP"	"GO:0034660"	"ncRNA metabolic process"	"3/247"	"121/2736"	0.999250768210486	0.999250768210486	0.999250768210486	"tilS/yaeB/alaS"	3
